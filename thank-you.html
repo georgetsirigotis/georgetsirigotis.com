@@ -1,0 +1,38 @@
+﻿<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+    <script>
+      (() => {
+        const canonicalHost = 'georgetsirigotis.com';
+        const host = window.location.hostname.toLowerCase();
+        const shouldRedirect = window.location.protocol === 'http:' || host === `www.${canonicalHost}`;
+        if (shouldRedirect) {
+          window.location.replace(`https://${canonicalHost}${window.location.pathname}${window.location.search}${window.location.hash}`);
+        }
+      })();
+    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Message Sent | George Tsirigotis</title>
+    <meta name="robots" content="noindex">
+    <meta name="theme-color" content="#102f36">
+    <link rel="canonical" href="https://georgetsirigotis.com/thank-you.html">
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="message-page">
+      <section class="message-card">
+        <a class="brand" href="index.html" aria-label="George Tsirigotis home">GT</a>
+        <p class="eyebrow">Message sent</p>
+        <h1>Thank you</h1>
+        <p>
+          Your message has been submitted successfully. I will review it and reply as soon as possible.
+        </p>
+        <a class="button primary" href="index.html">Back to site</a>
+      </section>
+    </main>
+  </body>
+</html>
+
