@@ -2,12 +2,45 @@
   "source": "https://thehackernews.com/feeds/posts/default/-/Vulnerability?alt=json&max-results=24",
   "sourceTitle": "The Hacker News | #1 Trusted Source for Cybersecurity News",
   "labelUrl": "https://thehackernews.com/search/label/Vulnerability",
-  "sourceUpdatedAt": "2026-07-17T12:52:59.559+05:30",
-  "generatedAt": "2026-07-17T07:29:48.449Z",
+  "sourceUpdatedAt": "2026-07-18T10:53:56.676+05:30",
+  "generatedAt": "2026-07-18T07:10:46.415Z",
   "retentionMonths": 6,
   "maxItems": 12,
   "itemCount": 12,
   "items": [
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8803001732165323097",
+      "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
+      "summary": "Updated July 18, 2026: the two flaws now carry CVE IDs, the full mechanism has been published, a persistent-object-cache condition has surfaced, and a working proof-of-concept is public. The story below reflects all of it. An anonymous HTTP request can run code on a WordPress sit",
+      "url": "http://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
+      "publishedAt": "2026-07-18T02:50:10.645+05:30",
+      "updatedAt": "2026-07-18T10:53:56.676+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRULLT1q8L6AtUB7jgKywi_KSF8VGKkOF9yC3Snt81K1aD2XSEV1jgfIe331rXUWGqhmAyFgr1USssr4_CQmuE7HLAn0ShaQ0pHY_yvNYMjQdHtpV8i-vlk2ickhJSJDSN3amGox_DMR5hemMlrgXIk8kHoHlYKZncjpiV3ibF77ax1Yn0fEjxtgxy7tY/s260-e100/wordpress-core.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4226703939024113219",
+      "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
+      "summary": "Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the process restarts. OpenSSL shipped the HollowByte fix in June with no CVE, no advisory, and no chan",
+      "url": "http://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
+      "publishedAt": "2026-07-18T01:50:53.171+05:30",
+      "updatedAt": "2026-07-18T01:50:53.171+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk66eU1Srifu4Rdpf7MZDjg3GdNMtQK6ZW-F283kxhZ7Z0W_8nWNJynZiQ7n0ov9OLNm315P4942h3-unMI0WZ1-LH8tdQ6sv2o6q0TxKT-bVKewzkQULKKXSJOee_oANuI3YquoDgSPHsPeXEdQcFRoy8czRQimH_f0sNHJ55-5LA153sQgUPkpBBEVE/s260-e100/openssl.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6994999533030729319",
+      "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
+      "summary": "A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys. A Shodan harvester keeps the scan queue stocked with ComfyUI, Ollama, n8n, Open WebUI, Langflow, and Gradio: the image generators, local ",
+      "url": "http://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
+      "publishedAt": "2026-07-17T22:42:23.743+05:30",
+      "updatedAt": "2026-07-17T22:42:23.743+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Botnet",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm0yasBDyeN2fn4q4y7Zs2Y6FvTDTIrI3xi4iN2ZBBUIBoCxLshnVvYc8OPDOrpSuHiyUNO0MLi-50Kf05SxJSo3m1n-PDfKnM3ztP48lWYBz_2IDzR2gNQ0D3-AzQcR6ZJC9qvBgM5wX3RCIaw6mAA7zDh3xAWFFoHScqZuqKSifh-FUr8Qum5dYGQPw/s260-e100/botnet-malware.jpg"
+    },
     {
       "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5075676441626788025",
       "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
@@ -106,39 +139,6 @@
       "author": "Ravie Lakshmanan",
       "category": "Vulnerability",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMjCjGBZhkRcB4m5BQu0Fcn-Qjs1_VPnfOlt3oFxu7CKMZ5Wc1JpvZEvhVSorBJW-AWV1pACLDkg4rFmCCcdH6vDk-pmD5ai0ZewlmPyeWPnfsmTcg-D3UJXdT902oUD32DjSm5CrBsnf2rcVTQPUo5o-LJRKUlsjOwPNfYMpN7kOfmNhnyw552cv-Gtqk/s260-e100/adobes.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1690580217320039609",
-      "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
-      "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse) has released a new proof-of-concept (PoC) exploit called LegacyHive. It has been described as a Windows User Profile Service arbitrary hive load elevation of privileges vulnerability. The Windows User Profile Service, al",
-      "url": "http://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html",
-      "publishedAt": "2026-07-15T16:37:07.181+05:30",
-      "updatedAt": "2026-07-17T11:38:01.370+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvtiVnhkF-YVsPEXyedqj9REY5pN1-KiSsf-rCeXK5yClGbAcsL1Tg7-9UDDA8VQg5RbM0uWkV23rDxqiFFIJ2RkpkY6cn90-5LPbZOC2oktF7_3FjD5La_FGkYdVBEKeXMJGiGRZfPvxmMBXd99tncWdEZ4HxX62hbxmWEnA02eu-LSVwZtmecjuykqDb/s260-e100/windows-0day.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5385683792108602094",
-      "title": "Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution",
-      "summary": "Open a repository in Cursor on Windows and, if a file named git.exe is sitting in the project root, Cursor runs it. No click, no approval dialog, no warning that anything in the folder is about to execute. Whatever that binary does, it does as you, with your source, your SSH keys",
-      "url": "http://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html",
-      "publishedAt": "2026-07-15T16:25:22.658+05:30",
-      "updatedAt": "2026-07-16T19:27:12.923+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Endpoint Security",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyFnrtjbcXdDBTEYOhVnUpFO4CSqhCGj5xdvaYlhih4oUCd3phzBQTjjMogZeFDlYqTiO8Xt2jaHevba5peaV76dT417Vq9W-DZFSpu2_cEbAMtGwz-mqKZJcYgAAXmZT_Rnkdc0f3jAW-eANKWd6XZZJvYfYCt6l5Pp-2ZKjlnn4zG7G6gS7ivWruzeU/s260-e100/git.png"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3993003067922539618",
-      "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
-      "summary": "SonicWall has warned of active exploitation of two zero-day vulnerabilities impacting Secure Mobile Access (SMA) 1000 series appliances, one of which could be exploited to achieve arbitrary command execution. The vulnerabilities are listed below - CVE-2026-15409 (CVSS score: 10.0",
-      "url": "http://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html",
-      "publishedAt": "2026-07-15T11:00:21.139+05:30",
-      "updatedAt": "2026-07-16T13:42:51.052+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0n94FUIdljCnLvlh0SNz5l8xDWbdDqmk7OesE7HAKxrRAMUMIfXpppuMBoI-7F0Q1PB7eXPRjrfg9fgZTTVj3JY5jKsr1Ebheb2mU65p4MUVYbs59lCPPWCBQ4LVYZnoZ0o6nRkoBQitrwwnyLVQc2oYJ41zVjPS6_HchwIR-U8EuWrOdPpl1-Y9Rw1Lm/s260-e100/sonicwall-patches.jpg"
     }
   ]
 }
