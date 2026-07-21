@@ -2,19 +2,85 @@
   "source": "https://thehackernews.com/feeds/posts/default/-/Vulnerability?alt=json&max-results=24",
   "sourceTitle": "The Hacker News | #1 Trusted Source for Cybersecurity News",
   "labelUrl": "https://thehackernews.com/search/label/Vulnerability",
-  "sourceUpdatedAt": "2026-07-20T13:45:48.573+05:30",
-  "generatedAt": "2026-07-20T08:18:52.923Z",
+  "sourceUpdatedAt": "2026-07-21T13:11:56.037+05:30",
+  "generatedAt": "2026-07-21T07:43:19.588Z",
   "retentionMonths": 6,
   "maxItems": 12,
   "itemCount": 12,
   "items": [
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6662673774537018889",
+      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
+      "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month. The same operator has now been spotted deploying ENCFORGE, a new compiled Go ransomware designed to encrypt model weig",
+      "url": "http://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
+      "publishedAt": "2026-07-21T13:04:32.424+05:30",
+      "updatedAt": "2026-07-21T13:04:32.425+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Threat Intelligence",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDTNXJkg3w9ziG7euHnlaoQkTjogtjIhtwE-ZudPv_9wOpJUCUNVc-i_BtBkDTCflKzRSfUOEp5xHyRWAOcQWv18pf2kv9-yuI75SOM52X3akV3VrguZf6GDH9MZejxFG7FoJGMIgARuiWyncCOmNznSofFT8Fn9Zu2ZGmk0V_Ni3niha2I9qAO59VKHw/s260-e100/ransomware-ai.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7753372096806433217",
+      "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
+      "summary": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber. In a post shared on X, the threat intelligence firm said it's observing in-the-wild exploitation of CVE-2026-6875 (CVSS score: 9.5), a sandbo",
+      "url": "http://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
+      "publishedAt": "2026-07-21T11:59:26.739+05:30",
+      "updatedAt": "2026-07-21T11:59:26.740+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAYYV6u5s-uKU-FXeqsoZ9Bk7nvzW1gPYVuoykmnuzLBQCK0jvX7rAO12mK5FVX06ovTJHZLUUXDkFmYk88oyKdFSYByRPSL5MUuAqikrTIVEpVzOcR9j4Rn0Fmje7-VwBAO09Yl8Y4cTUVNFwTXf2FV2c9C8oyNi5coAMCMLn5WF5Fbqtyt-tDZ3MVsO0/s260-e100/servicenow.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6276232097404834489",
+      "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
+      "summary": "A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder notes, and two campaign chains. One was already live against Windows users in Me",
+      "url": "http://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
+      "publishedAt": "2026-07-20T22:59:50.810+05:30",
+      "updatedAt": "2026-07-21T13:11:56.037+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Malware",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJtNDirNuc1FHpVkk7dexa4KTcD8h3fSmxpGMZQeRtlzNpIhC5hOXVEu-aPc5tsCIi9-csPtQVmdoW9FeyyBytXkPWfbwYZEGSJrIiqSEqUsdQwGOepqr23C4pz6jnGWI5ledB7UC19S0ORrc_jyP6Lajqu0X4FsTX6ooTVJvJffKOjRmg2ndJLDj17-E/s260-e100/phishing-ai.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-993525865594618732",
+      "title": "⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
+      "summary": "A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools. The paths were often simple: exposed systems, weak checks, old drivers, fake prompts, and public code used for malware de",
+      "url": "http://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
+      "publishedAt": "2026-07-20T19:02:26.057+05:30",
+      "updatedAt": "2026-07-21T10:04:32.471+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Cybersecurity",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA-JVLR3XITNdsuoWZQFMu12z6UeqsAdKWjS4Iu6piGP-4Natjx3GZ4obTdwddY5YHPgNoYDJljFCpAh9YRUntTakZeiGikoJYjjgEcv2ZVPchuCuyIfRh_3aTJ64Ktke9RkdRxH7DalTVqGf0YgF3fDj2lHgvVyIDANaMn1KVy1d1CBXTZxAwyJBqEClL/s260-e100/cyberrecap.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8325044575362001827",
+      "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
+      "summary": "At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds to watch military transport routes, weapons shipments bound for Kyiv, and the locations of Ukrainian troops. That is the finding of",
+      "url": "http://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
+      "publishedAt": "2026-07-20T17:43:39.068+05:30",
+      "updatedAt": "2026-07-20T17:43:39.068+05:30",
+      "author": "Swati Khandelwal",
+      "category": "IoT Security",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnZdcdM-XJQ9tmIQw7h4gqSDABg-Ip1mzizMoR9zRcyQmaG7OGlQSp1ad0RsZSflsvdKVn0bs4EXdPthnHgiC76as_RVG-W7vZ88AHvJ2HhCLEaQOlNukhrTl6NSq6sgAHGiGUXemDrbZePvUDIi2oxWb60rRX5lkxA5bsFBJplBkaVQTZ5R0EjOrJTaQ/s260-e100/ip-camera-hacking.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4756953477613285337",
+      "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
+      "summary": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend Micro's Zero Day Initiative (ZDI) detailed it on July 15. A fix shipped on June ",
+      "url": "http://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
+      "publishedAt": "2026-07-20T14:40:56.048+05:30",
+      "updatedAt": "2026-07-20T14:40:56.048+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuAoanL7LxDYHynfggiOQo_RDymqYrFlfnRNrstIG6KgYuDWk2uR0eZDx_vCSLWsjTmP5LohkMSGQ_sc32hE4TGqqUCkGwsDlOUzP3bb-Ib-whRLliIb0YVozTMZF-lgSsPJr55l7GPjR1Xq-sH7dieWTBNnZsttdSfOxowTrEZImrcJ-_cI6i4zVFlII/s260-e100/7-zip.jpg"
+    },
     {
       "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2933632441973864449",
       "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
       "summary": "In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system. The company said it detected and responded to the incident targeting its production infrastructure earlier la",
       "url": "http://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
       "publishedAt": "2026-07-20T10:57:26.058+05:30",
-      "updatedAt": "2026-07-20T10:57:26.059+05:30",
+      "updatedAt": "2026-07-20T14:08:23.657+05:30",
       "author": "Ravie Lakshmanan",
       "category": "AI Security",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhehTKRdIydGsJI5vxP4R5baH5VrDh8ZNLg1RyLMhSnVOFr6cdDZRyqkKhazs4oBdZxw5YV7fNYKCcZ9tkKkTap2chfMR6XCdiG4GmUhv4S_tUVYTS7jvn8iZcTL3RuJ-3K0U1WJ0pKfq16pcJRZhAXTm1gk-xvzjzmdJ85PWEgnQ6oFK1eUPKRBiTRtEr1/s260-e100/huggingface.jpg"
@@ -36,7 +102,7 @@
       "summary": "A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public disclosure since June 22, 2026. Cybersecurity company Volexity is tracking the acti",
       "url": "http://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
       "publishedAt": "2026-07-19T18:48:56.877+05:30",
-      "updatedAt": "2026-07-20T10:11:19.756+05:30",
+      "updatedAt": "2026-07-20T22:14:12.376+05:30",
       "author": "Ravie Lakshmanan",
       "category": "Vulnerability",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLomYbwprpYWKVxrxKRh3hFiGRWdVOb7WAVbhJjf_fYQAba4wVZT1PpwWAL-ZDb40MZp9T43-dj8Fru-eOjiKcrAoh5sOdyKGUUAVwK9iifXl70EvgORPztxnvYXc9HA8trGKcRZGob8DYJxUZBg0zlZFUTiRGPXGFheSbKLUoG53kZ9HR6XxyJs9GEtcA/s260-e100/sma-sonicwall.jpg"
@@ -58,7 +124,7 @@
       "summary": "Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the process restarts. OpenSSL shipped the HollowByte fix in June with no CVE, no advisory, and no chan",
       "url": "http://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
       "publishedAt": "2026-07-18T01:50:53.171+05:30",
-      "updatedAt": "2026-07-20T13:45:48.573+05:30",
+      "updatedAt": "2026-07-20T16:53:27.197+05:30",
       "author": "Swati Khandelwal",
       "category": "Vulnerability",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk66eU1Srifu4Rdpf7MZDjg3GdNMtQK6ZW-F283kxhZ7Z0W_8nWNJynZiQ7n0ov9OLNm315P4942h3-unMI0WZ1-LH8tdQ6sv2o6q0TxKT-bVKewzkQULKKXSJOee_oANuI3YquoDgSPHsPeXEdQcFRoy8czRQimH_f0sNHJ55-5LA153sQgUPkpBBEVE/s260-e100/openssl.jpg"
@@ -73,72 +139,6 @@
       "author": "Swati Khandelwal",
       "category": "Botnet",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm0yasBDyeN2fn4q4y7Zs2Y6FvTDTIrI3xi4iN2ZBBUIBoCxLshnVvYc8OPDOrpSuHiyUNO0MLi-50Kf05SxJSo3m1n-PDfKnM3ztP48lWYBz_2IDzR2gNQ0D3-AzQcR6ZJC9qvBgM5wX3RCIaw6mAA7zDh3xAWFFoHScqZuqKSifh-FUr8Qum5dYGQPw/s260-e100/botnet-malware.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5075676441626788025",
-      "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fi",
-      "url": "http://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
-      "publishedAt": "2026-07-17T12:12:23.165+05:30",
-      "updatedAt": "2026-07-17T12:12:23.166+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH1X7ZnvKsW37BBvjNfEzT4Imh9ZIRL4_2W1JaNVe_MyO3Q5H1MPsET-SASqznhlfOExRrLj4-6NzhgvGi76w4U5tSmlM-pJLIqO5jF3g9G1DR_FNhuwcatBFb8ARvD4PPMiQvMCFiTlEOlc13nQbQqCn5ZHf1J2ZOqDeG3_pmBiQ92hTfMErJKcjKbNtZ/s260-e100/sharepoint-cisa.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1534903742207215057",
-      "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
-      "summary": "A lot of this week’s trouble starts with something that looks close enough. A familiar repo. A useful installer. A harmless sync setting. Then the handoff goes bad, the box starts talking to someone else, and the damage moves faster than the explanation. Old bugs are back, weak d",
-      "url": "http://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html",
-      "publishedAt": "2026-07-16T21:11:15.807+05:30",
-      "updatedAt": "2026-07-16T21:11:15.808+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Hacking News",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioBa_Q-TYfQvhOH0gqZxwAzgn_QnC9YSD6GYI3-z53LVjJSL1MDl4Af_DSeuIA33luHnEkGIGe9eXbCGvyWZ2zfOELZLhLAJtAcCTzIrpEPPU2f-7hvztkeHhA89Fb3aTq7b-0HHHVSPUsmUKXOPbX17rwMGjB75yG_r4-9vyarYK77pmdgzy3YeIn46M4/s260-e100/threatsday-recap.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-110589297598925061",
-      "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
-      "summary": "n8n, the workflow automation platform, handed out the wrong accounts at login. On Enterprise instances configured to trust more than one external token issuer, it matched an incoming JWT to a local user on the sub claim alone and ignored iss. A valid token from issuer A carrying ",
-      "url": "http://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
-      "publishedAt": "2026-07-16T19:03:25.069+05:30",
-      "updatedAt": "2026-07-16T19:03:25.069+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Pvezsft8WXzYy1Lw3zKDZrkf0TNZfj95rzTnuQgzbJuztRDNDFK35ahO9UfhNJOicjjuzyZGFCtC_idBl8vgNdw4kzfeYFo6LwUur66S5qUTO2Bl3WVLwCDWoDTnw4dlZdj_ZQ1T2JcG1dWfJeoO3WDZs94EVm9z0hZ8VPL36KDpaAmw7fH9hSWSSaw/s260-e100/n8n-main.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1294313741125943682",
-      "title": "New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands",
-      "summary": "Ask an AI agent to summarize the reviews on a product page, and a single planted review can make it click \"Buy Now\" instead. Ask a coding assistant to apply a maintainer's fix from a GitHub thread, and a fake comment can make it run a stranger's command on your computer. Neither ",
-      "url": "http://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html",
-      "publishedAt": "2026-07-16T17:02:28.206+05:30",
-      "updatedAt": "2026-07-16T17:02:28.206+05:30",
-      "author": "Swati Khandelwal",
-      "category": "AI Security",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiapJDNa0fN3WsyrkYjRiRo3L8tqmE_RJm9AmQV5KO9p5To-PBWdVz7EW294xtn-VZtJ2xS_scIq3LyqyxYkPG3R5TdJoPF_axjEaLpaXSqGHK_uO274wM315GEqHtnDAMIfFN2vZlcEYJ3Ca11Ml_E-l32H63EYNfx7l9ldtjNlH8hL_19w4RL6vDpOWMz/s260-e100/adi.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8341686521666623743",
-      "title": "Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide",
-      "summary": "Pull the certificate off the flash of a Shark RV2320EDUS robot vacuum, and you can run root commands on other people's Shark vacuums across the same AWS region: watch the camera, drive the robot, read the map of the house, and take the Wi-Fi password in plaintext. A researcher pu",
-      "url": "http://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html",
-      "publishedAt": "2026-07-16T14:53:19.313+05:30",
-      "updatedAt": "2026-07-16T14:56:41.907+05:30",
-      "author": "Swati Khandelwal",
-      "category": "IoT Security",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5tbAe6HgEiYpwgRNJ04jo1HJ_PV3INByd4ggz2t4h_dCa4u2zkCBimnzDZt7V-p208q7-BfaHSmR5_aXg6VvnnThfnc9_UX8oP0hnRa6rP1JVgKka-D76BpYUzhEuc3O0nbEGgoVeCQsTY2RBsVTrYnViTmGPqgPJ9e4lNeKWtxZNxKqvUajphbl-ENY/s260-e100/shark-hack.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6918911654939365290",
-      "title": "OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol",
-      "summary": "OpenAI has disclosed details of GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery with an aim to fix issues before the tools are deployed widely. \"GPT‑Red is a strong red-teamer, and our previous models are highly vulnerable to ",
-      "url": "http://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html",
-      "publishedAt": "2026-07-16T14:12:31.233+05:30",
-      "updatedAt": "2026-07-16T14:12:31.233+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Red Teaming",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSi9EGhWziKlNlaSAnaOE4OjgZ5pyqoajOxDz4zEQl77NDSF_Pf8ME6wfKfrmrTWhLy9jDR1wvmVb7gd5JLhyszunIomhOnyyHKuTfvBCjb8vGypAPXbQzTVG-n5wWUdsTToUXQ5z_uh3XPDX3KKzgZ8vDB9PZ40FOd6xGi2iALOu-wSqSoHpkpYf5eKjk/s260-e100/openai-gpt-red.jpg"
     }
   ]
 }
