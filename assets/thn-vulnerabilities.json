@@ -2,12 +2,45 @@
   "source": "https://thehackernews.com/feeds/posts/default/-/Vulnerability?alt=json&max-results=24",
   "sourceTitle": "The Hacker News | #1 Trusted Source for Cybersecurity News",
   "labelUrl": "https://thehackernews.com/search/label/Vulnerability",
-  "sourceUpdatedAt": "2026-07-25T12:36:07.827+05:30",
-  "generatedAt": "2026-07-25T07:28:53.659Z",
+  "sourceUpdatedAt": "2026-07-26T00:18:44.707+05:30",
+  "generatedAt": "2026-07-26T07:46:28.612Z",
   "retentionMonths": 6,
   "maxItems": 12,
   "itemCount": 12,
   "items": [
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3645608232770115489",
+      "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
+      "summary": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the privileges of the Java process. Tracked",
+      "url": "http://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
+      "publishedAt": "2026-07-25T18:22:43.180+05:30",
+      "updatedAt": "2026-07-25T18:24:47.086+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVdPXrvOB3xbf282jC7eawBsl-YwExczqZ471NiKOResjulD8TvOSelU5VGbgoHqVhNLaigBkE2N50AFtSqbOoXUQTtxgIHO05jYpTn5VyG4BPhlr1CbscCn4g8S3I4jdZ1_p67zSM91K25xq1X4-btuY3tFgVseyO-aLWlsdvZaNkwAhyphenhyphenafk4DH2l6Fs/s260-e100/fastjson.gif"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5886616326270658196",
+      "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
+      "summary": "Security researchers at depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has not taken the update. Any authenticated user who can push to a pro",
+      "url": "http://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
+      "publishedAt": "2026-07-25T15:44:26.794+05:30",
+      "updatedAt": "2026-07-25T15:44:26.828+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRIN1sheAdScq7AX9pLc07esRzQ18-0vBJ7hz9DlVhggVAImXrhYM_zxN0N6hJ2inDkBCnzRCXHR3Kv3I0QwyiVWkAMu7p949JSjgK611r48deMbrSN8iDD78aJdfxEeO_Jy6JFwOfPL_8M0RKEBl1RFO7ufvop1XG9-tdms7VRyvONXoteuCYp9Rg-FM/s260-e100/gitlab.gif"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5512930860639695725",
+      "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
+      "summary": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign. \"Attackers chain a pre-authentication infor",
+      "url": "http://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
+      "publishedAt": "2026-07-25T15:44:03.538+05:30",
+      "updatedAt": "2026-07-25T15:44:03.538+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIGAlXgFCqm8atTe__HpWBiCWISmrPOazxOVBMF-_YNrP2goBbW_4PSwGzw1Ndyue4qrnQnqrQyAR4DTaAdaiJPlVUZi7M_iceb4fqofWK0sGRLO9CHnj0lngtxdlC-tKqrppqFaKIkct2vOtGn_o5kbNa4fj-dutt8PMjiO5TVBw895aLg0TOJb8TKKtv/s260-e100/cyberattack.jpg"
+    },
     {
       "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2662719399782961681",
       "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
@@ -106,39 +139,6 @@
       "author": "Ravie Lakshmanan",
       "category": "Hacking News",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsmJNuemIhGxFuSqY6pq1opCEJECkmIjXm5VnOqOAEjfpoLxQ89Q-qXBqKQmM8YnwyVP2_feUo4c-VLZ3cC6s_J0VCXdwhLKFezoK1-i4lWQs68yXaZS8XtHGAsDj5zsdOToB7yD1QHzuMYIVQFvb14U6Zhd1cqDOm78tRY1O3v_1LFr7CC-4ItBLpLgZ3/s260-e100/th.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1952297699472523359",
-      "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
-      "summary": "Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic's Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM) within which the agent runs to read or write files anywhere on the Mac. Accomplish AI, which sh",
-      "url": "http://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
-      "publishedAt": "2026-07-23T18:57:59.976+05:30",
-      "updatedAt": "2026-07-23T18:57:59.976+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj5Vr8pje9uM-Ce6rzE-_hhU3HvR2NkKtYfaSrIXz3m0BbrC1ZNC9p4GW4GRQaAvFKPjE5kopXmdmcKcMb7_1dbOWvMO6_oe87HCj4TUXV1dWK99cz_OBcNHd81Ziat93g4wJcBdc3K1vq0IkwFL9DO9GlSrf_KxGi2hpg7VVsU9iTt7B2XByXL7nil86i/s260-e100/claude.gif"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6734161245314300486",
-      "title": "China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks",
-      "summary": "An exposed Alibaba Cloud server has revealed a China-nexus operation that Group-IB tracks as JadeProx. The cluster has targeted government, healthcare, and education organizations across Asia and Latin America with a previously undocumented Windows loader called TriBack Loader. G",
-      "url": "http://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html",
-      "publishedAt": "2026-07-23T17:50:23.852+05:30",
-      "updatedAt": "2026-07-23T17:50:23.852+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Malware",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-rvCSGHVd2nngnpcdcc8Eh-QFaxQrcyegoSIPhUeTpr5qrGHcHYIstDAj08yLDeYcNZkZ26Ta53fdYefY8NjW8MprrOL4lQ4VnDCMpBrsrSQccyUipoC3VvFtMNUxUpUzOYra58WqjRwn952-fvzZLpXtgeY8Ao660YY49FaqcTTjBrDN_DsFFnsftJ8/s260-e100/malware-attack.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3388492675737951834",
-      "title": "Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers",
-      "summary": "Cybersecurity researchers have shed light on a large-scale campaign that has turned compromised GitHub repositories into distributed attack infrastructure designed to target cPanel and WebHost Manager (WHM) instances. The activity involves malicious Packagist development versions",
-      "url": "http://thehackernews.com/2026/07/attackers-weaponize-github-actions.html",
-      "publishedAt": "2026-07-23T16:58:54.045+05:30",
-      "updatedAt": "2026-07-23T16:58:54.045+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrnUDzSA-4xfOL6dsXt2pFY9jJro2vbjOgvkTbiFMhSXz9Z-0WdDTORe9IPFfMr0DVr0PapP8lFuq8R12ZXRyDdMO-2v9ot7c2oy2WobbNwqn3jbKQC5XmNdgKWZB8ENBVQSADLuujJMKvd3DtNcpAFhDa5zihJDtYrQYRLMSCftHHmNg2bUiRC_gCQkFK/s260-e100/github-action.jpg"
     }
   ]
 }
