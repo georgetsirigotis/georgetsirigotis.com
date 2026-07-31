@@ -2,12 +2,78 @@
   "source": "https://thehackernews.com/feeds/posts/default/-/Vulnerability?alt=json&max-results=24",
   "sourceTitle": "The Hacker News | #1 Trusted Source for Cybersecurity News",
   "labelUrl": "https://thehackernews.com/search/label/Vulnerability",
-  "sourceUpdatedAt": "2026-07-30T13:10:48.390+05:30",
-  "generatedAt": "2026-07-30T07:42:53.224Z",
+  "sourceUpdatedAt": "2026-07-31T12:39:44.486+05:30",
+  "generatedAt": "2026-07-31T08:10:08.511Z",
   "retentionMonths": 6,
   "maxItems": 12,
   "itemCount": 12,
   "items": [
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2269397007642837659",
+      "title": "Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations",
+      "summary": "Anthropic on Thursday became the latest artificial intelligence (AI) company to reveal that three of its models, including Claude Opus 4.7, Mythos 5, and an unnamed research model, had breached three organizations. The AI firm said the earliest incidents date back to April 2026, ",
+      "url": "http://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html",
+      "publishedAt": "2026-07-31T12:11:44.053+05:30",
+      "updatedAt": "2026-07-31T12:11:44.053+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Artificial Intelligence",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ3hIjH82iCzMILnA0uACotjW9waDLj4siTRhyphenhyphenBSiVyis0Ul0j7-7FcWyDzmCAzZPLJ72iYRezpbd9dUAB_UMw5G4eMBRwph0Sb_aQr9yCRXeLXAkjGiNFekM_qDtOZNFsSk6LLC81Ef74JaqIrcJN58-5p2ShHmUuhKC1IYeVgpQ7D76NWXLnR44RN6G6/s260-e100/claude.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5169757105437407299",
+      "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
+      "summary": "A lot of security still comes down to trusting the wrong screen. This week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly wrong. Behind it: reused credentials, exposed systems, quiet loaders, abused trust, and explo",
+      "url": "http://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
+      "publishedAt": "2026-07-30T20:55:57.720+05:30",
+      "updatedAt": "2026-07-30T20:55:57.720+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Hacking News",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNfPEjoHY1NDIrmCVPaZ_dmWbOk0MZwMlh6Odxpqfchn-5rOvsj4PhaBZs4LJvoj5iXhgbBTZzKCNYOPbblXU6kSnVNxEfQER6bNIuhROsSBTrhS6P_mPySTbAS5CvbYgu7lOANl0C6YuLR92om_sS_-9skmNqYT4BDmy_07cTMVj75vUUES70gPicrgGW/s260-e100/threatsday.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4143258468500324325",
+      "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
+      "summary": "A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz. Wiz, which codenamed the chain CosmosEscape, said the exploit chain b",
+      "url": "http://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
+      "publishedAt": "2026-07-30T19:04:09.970+05:30",
+      "updatedAt": "2026-07-31T12:12:33.375+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_dFT-y76kGOf4rFOAu6NYNsE2s57G-7dl0a03tULY-f2ZGTbpPeEvu-NUCLVh-bgEdBvecIt28BJLQXUHclBc_IfGP9tBSZyMIm971Myrp2_zhSPyXhCJkhYmSfvLWNRewSsCip2YJfBEWocEEKdXPUL-y_mK8ZcHbBAaTWt8SzXmDJeQoYc6r5ceC6A/s260-e100/wiz-cosmodb.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7293340257026577751",
+      "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents",
+      "summary": "Hidden instructions in a Word document can make Microsoft 365 Copilot rewrite figures in a report, then copy the same instructions into the finished file. Håkon Måløy disclosed the technique on July 28, 144 days after reporting it to Microsoft. In his proof of concept, the intern",
+      "url": "http://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html",
+      "publishedAt": "2026-07-30T17:24:49.951+05:30",
+      "updatedAt": "2026-07-30T17:24:49.951+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-BgxoTGLqXYzQh4HW0TUm-hbX0ApFizzFtFkKe5mb3fKS_yn6Zzpj_Uvivxi7VCwEUOuJx3Bg1XHpHWq9tbZh5xBrAHT4gBG2DYyqvFkVKmWIRiF_zCpXIG5bTs7HfsV1pjM2EsTm-e7WttN-iB57p0n4ki2Vs7vXyB6rTF9mSqlwPu3h7KHocg0mWcI/s260-e100/copilot-word.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3098078847994139837",
+      "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
+      "summary": "South Korean authorities and four security firms have disclosed a state-sponsored campaign that compromised trusted domestic websites. The attackers used those sites to exploit locally installed financial-security software and infect targeted visitors with SIGNBT or COPPERHEDGE b",
+      "url": "http://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html",
+      "publishedAt": "2026-07-30T16:03:15.301+05:30",
+      "updatedAt": "2026-07-30T16:03:15.331+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGU7u7ESWcaN4Xy7bCwiH5yVHsr1vMjqCu05UKJ7c4tsJ4gSRsQXwg-WOe69VD1dLiRuf9FC3HTcjp1ia1NZPPg85MUmHz2TCOplJKSC002w7OMu0X9KWtXTN0MljVt88tQlfABhP7p4pnndpOJoplI5fnqheI8LZwBp623A6gx1HyurT4ZBHRSSils1g/s260-e100/south-korea.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4348393097069763256",
+      "title": "SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT",
+      "summary": "The Chinese cybercrime group known as Silver Fox has been observed using new drivers as part of bring your own vulnerable driver (BYOVD) attacks targeting a Japanese organization in the industrial manufacturing sector to ultimately deliver ValleyRAT (aka Winos 4.0) for persistent",
+      "url": "http://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html",
+      "publishedAt": "2026-07-30T16:02:59.979+05:30",
+      "updatedAt": "2026-07-30T23:42:03.657+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Cybercrime",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzKpx1jDG3j0UsS5Ova8qJWV4gmJcez4M7iowp3M10Tvnvl1toUDwWI1igPQ_XK4-7IIuFXf7cTiKZ9QIRFco8PWFC4mRzBwGz81-8Ix95ujv3bVhshhFEAwjCNJR14ezza7kiAIalG3MjMQPPhH6rQP4lcZS4o1Vw9dO7ErrFmCvlrrd0ATiakQ_LeENQ/s260-e100/drivers.jpg"
+    },
     {
       "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4732347486136030150",
       "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
@@ -47,7 +113,7 @@
       "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066 (CVSS score: 9.5), the flaw can expose the Rails process en",
       "url": "http://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
       "publishedAt": "2026-07-29T23:40:00.590+05:30",
-      "updatedAt": "2026-07-30T09:09:41.137+05:30",
+      "updatedAt": "2026-07-30T22:20:21.448+05:30",
       "author": "Swati Khandelwal",
       "category": "Vulnerability",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjswJ2Clfk448ySFwyQiVVviqzKzT4B9iwnvVio4_dzvA1TXPnNuDJUI8MozBddPvdWmL2JH3jVvzTxg8A2Z6X9qNPYtxjuVx7RKQkMW8vNVBIEs0sgcrLfywQVufYMEKpxa0vgo2k24bNa_EJaudCFTsvlqQKqbT3jsuzRJdI26GR4pRJrkNKAFx_xiKk/s260-e100/rubyrails.jpg"
@@ -73,72 +139,6 @@
       "author": "Ravie Lakshmanan",
       "category": "Vulnerability",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLKz0u1mJIVvPAxiFFqsvkMVXxyXqS_paYhbtTRFLoIWyl5Q_FwIrJjruxEYH0LAdzJm38P48m_T_24ycKfjPs2bg6FUoy2IWVUxH7SpNtiSJuExOy3dDEAWprGwkvhY5005OPyFUzl2qJzAztAckgZNLVzqlp34s9HtQ3wrvq6lDCcXgYwfOXKF08wtdp/s260-e100/vmware.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5992639043967605003",
-      "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
-      "summary": "Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser. Tracked as CVE-2026-10702, the bug provides arbitrary code execution inside the browser's renderer process. Mozilla rated it High",
-      "url": "http://thehackernews.com/2026/07/researchers-show-single-malicious.html",
-      "publishedAt": "2026-07-29T17:27:00.839+05:30",
-      "updatedAt": "2026-07-29T17:27:00.839+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOwFIxqT8kRBNj9LdZBZhO1g2RPJwUttxQosrS_mPoNXkIR-JB-yM87HPzuPZ1tazourGhRg9Sco6YQEGZkC77DSqXBYjp0DkNDAUHOaAOnIisRYNPAQfNWwqnmoILXOgR0wwyGVNlU3kSVRU6TcfyAx5ztaAWZfbKnCDJYgUeIVsM7n7O2zq7fGc-xnI/s260-e100/tor-exploit.gif"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5993941950359417930",
-      "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
-      "summary": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that has come under active exploitation in the wild. The vulnerabi",
-      "url": "http://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
-      "publishedAt": "2026-07-29T14:28:27.032+05:30",
-      "updatedAt": "2026-07-29T14:29:22.499+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIxq_zUC231fexQTfY9VPvqP7FWVRurT9fbUUS3YMpMX2SRmJu9eXIlH7v6fnvqJGtirQwXJVjs1h-hbUM7j-R6DlfpW7M4kt28q9EoxMt7jJFjUjaAoVsuTWSsBZOFcDj99U8ApvFR4B4sDQ37QHYeWXjJsowFBP3n8-TBfzcKB2Rl-de-OluIkzbJIYb/s260-e100/cp-poc.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4165882855520812036",
-      "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
-      "summary": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment also hacked multiple third-party accounts and services as part of the attack. The latest disclosure shows th",
-      "url": "http://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
-      "publishedAt": "2026-07-29T13:21:00.379+05:30",
-      "updatedAt": "2026-07-29T14:02:46.056+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Artificial Intelligence",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqsDw-FCPzIqH_GCkBZgDD96kt0ZtwQzjSe3SOunA8WWGUTXqCB2FG_28DY0JgdD6zh07gHisKrTi2Wh5VVNAcoUMyJ9tZ_VGzPM73iid2PPg15oqKMbnRhk9CcTJlevxRQJL5Sq2MbJjYCIgQ_zOEsgyu_Jy72ubSLAvy_YK499pDr48Rp9Plh322h8_P/s260-e100/openai-breach.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2606675054778197253",
-      "title": "New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands",
-      "summary": "Gitea, the self-hosted Git platform, has patched a critical remote code execution vulnerability. A user with ordinary repository write access can turn attacker-controlled patch content into a live Git hook and run shell commands as the Gitea service account. Tracked as CVE-2026-6",
-      "url": "http://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html",
-      "publishedAt": "2026-07-29T13:17:19.059+05:30",
-      "updatedAt": "2026-07-29T13:18:02.474+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm9I3aoAsUS5yCtKTvSX6LYxjKfJu-RShA1QmcUiBLu760VFfeqd6D4NfH3ttKHoQkfWT57oL0_4KJBovY7nshgiGQ4R5wimWh-2k48f9qjdlJtjKqK0oM5vxquJFPuguLbBkbqzA7xc4NgjQaxkcU7tVSQ0a3GyXreEyvdvR4NmERWPbkiR6Um2thKfY/s260-e100/Gitea-rce.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3764777437851830957",
-      "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
-      "summary": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public internet. Of the 36,872 internet-exposed server-management i",
-      "url": "http://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
-      "publishedAt": "2026-07-28T20:11:36.191+05:30",
-      "updatedAt": "2026-07-28T20:11:36.191+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIZDJmL5vHIaEgakZEwVC-O1KGBidMz7xrUS6MQmj0Nfqx4_WzGlwmz4amGxIwYa2PEJTKr5UsFwkh8lEOoFkjAVwTm38bgmbc_gDW2-__9MBpP5Z6cWQrIjFTe3tKTMEhD2lX3XyTrIe0T4mQDruecN3nCWqHUpkU5NpW5OIzZFy5la9RQnMCsmGkt-n8/s260-e100/bmcs.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2157486306697680267",
-      "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
-      "summary": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment. Artifactory is JFrog's software repository manager. OpenAI says the models then escalated privileges and moved late",
-      "url": "http://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
-      "publishedAt": "2026-07-28T19:03:47.123+05:30",
-      "updatedAt": "2026-07-30T09:24:28.575+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVRTEATuhKwW2BlflaNjqHVV9mJlq6m3_rFzsUHv3RXATsLWdyJvG-XoWDftscxMF9r_-551JELumQMj7Jhp_iY-GTj79r3RxYKEEJkPo8B7Zd5SuiBnPRWjM1MBygMvV0Za1ZLItcoSjsCY4gDwbV-ZOkXLEzi2vohrqrlYSJL4Ut0GmmDvhEhiGti1U/s260-e100/openai-0day.jpg"
     }
   ]
 }
