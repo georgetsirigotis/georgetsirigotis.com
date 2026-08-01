@@ -2,19 +2,63 @@
   "source": "https://thehackernews.com/feeds/posts/default/-/Vulnerability?alt=json&max-results=24",
   "sourceTitle": "The Hacker News | #1 Trusted Source for Cybersecurity News",
   "labelUrl": "https://thehackernews.com/search/label/Vulnerability",
-  "sourceUpdatedAt": "2026-07-31T12:39:44.486+05:30",
-  "generatedAt": "2026-07-31T08:10:08.511Z",
+  "sourceUpdatedAt": "2026-08-01T12:42:42.896+05:30",
+  "generatedAt": "2026-08-01T07:38:07.987Z",
   "retentionMonths": 6,
   "maxItems": 12,
   "itemCount": 12,
   "items": [
     {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1628944955539564933",
+      "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
+      "summary": "Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-48449, carries a severity score o",
+      "url": "http://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
+      "publishedAt": "2026-08-01T12:42:42.896+05:30",
+      "updatedAt": "2026-08-01T12:42:42.896+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL4TR-PlW4MehiF4iAbWafpNUQrSuhhTuEZwgwba7Gi0mF-PfixGSlFmpsBm51WbJYfkA69ZYNjO2aWl8eE8tqdSPdJL7mvLOaYL9O6VWkfxw96YFF0Qxt1ggCurqVd2J2muf6SAjW0cCrt2UwnOO3rK76X-mBWHW1e8-2Mk6FERpS1yPrSVScImJ0TmKW/s260-e100/adobe-flaw.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8181287636866948505",
+      "title": "Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined",
+      "summary": "Google on Thursday announced that it fixed a whopping 1,072 security bugs in Chrome versions 149 and 150, surpassing the total number of flaws the company fixed across the prior 23 milestones combined. Both versions were released last month. In its latest patch for Chrome 151, re",
+      "url": "http://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html",
+      "publishedAt": "2026-07-31T18:21:52.982+05:30",
+      "updatedAt": "2026-07-31T18:21:52.982+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqUoKsOzzL1DJubfk79p5F7EfcWUNP-tPwTMNDt329zqRohKeX2tE3qxMCciII-FZEHofHM72OihyAfF_7Eqs48MRmxxVOcGZyKML5LHynh5Akf1fWeNSsDlY2D-EaGLx2T9wy6y2jNfOGx-5xmKNhf0koUmkpIGcuShRA47RVW_207PVhnxdlPijMUmkx/s260-e100/chrome.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-891339506107996243",
+      "title": "Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw",
+      "summary": "An academic study has disclosed a \"widespread class\" of security vulnerabilities impacting 4G and 5G core networks that, if successfully exploited, could trigger denial-of-service (DoS) attacks and even session hijacking, allowing an attacker to seize control of a user's network ",
+      "url": "http://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html",
+      "publishedAt": "2026-07-31T17:25:00.000+05:30",
+      "updatedAt": "2026-07-31T21:48:46.120+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Mobile Security",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx5Qzkfu4WC4nW5n_nmFDP3CoZsw91wzaKcfKRZBx7DXHggnqqxqun757BOQey3jOUCGe4928DBU6fy4dPX04Cmp94xqWdNkZgkp1DuenVewYZFxSs9YSQdArKp1Ma3hAGkDAIA7zH8_7hXubNrJbP27r6XxIlCrzrYYoi3vAVFaLVdu1tnN6blLhE61xE/s260-e100/ifinder.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7355892805763499732",
+      "title": "Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks",
+      "summary": "Palo Alto Networks' Unit 42 says a Chinese-speaking threat actor used DeepSeek through the open-source Hermes Agent framework to launch attacks autonomously. After an initial Telegram instruction, the agent found internet-facing systems and selected public exploits. The researche",
+      "url": "http://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html",
+      "publishedAt": "2026-07-31T16:51:27.362+05:30",
+      "updatedAt": "2026-07-31T16:51:27.362+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Artificial Intelligence",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2dGysHIR6yJWx6hMxq6lAct7fi4YTury_WDkrcenDv-psd-fU7I8K3RbM6Blox_5OE3MQojew5bnPamtI_DPzdBX6fOk295hhQh6rBkA2f9a1sN7t7ZbSyU-kWdLoIb7XnseOHKPmLOGRb9wRRvmV0scVZ4rhMtxSmqOLZmZIUjtg_IHT4FBg5gzeX50/s260-e100/deepseek-telegram.jpg"
+    },
+    {
       "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2269397007642837659",
       "title": "Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations",
-      "summary": "Anthropic on Thursday became the latest artificial intelligence (AI) company to reveal that three of its models, including Claude Opus 4.7, Mythos 5, and an unnamed research model, had breached three organizations. The AI firm said the earliest incidents date back to April 2026, ",
+      "summary": "Anthropic on Thursday became the latest artificial intelligence (AI) company to reveal that three of its models, including Claude Opus 4.7, Mythos 5, and an unnamed research model, had breached three unnamed organizations during cybersecurity testing without its knowledge. The AI",
       "url": "http://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html",
       "publishedAt": "2026-07-31T12:11:44.053+05:30",
-      "updatedAt": "2026-07-31T12:11:44.053+05:30",
+      "updatedAt": "2026-07-31T21:47:50.978+05:30",
       "author": "Ravie Lakshmanan",
       "category": "Artificial Intelligence",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ3hIjH82iCzMILnA0uACotjW9waDLj4siTRhyphenhyphenBSiVyis0Ul0j7-7FcWyDzmCAzZPLJ72iYRezpbd9dUAB_UMw5G4eMBRwph0Sb_aQr9yCRXeLXAkjGiNFekM_qDtOZNFsSk6LLC81Ef74JaqIrcJN58-5p2ShHmUuhKC1IYeVgpQ7D76NWXLnR44RN6G6/s260-e100/claude.jpg"
@@ -95,50 +139,6 @@
       "author": "Swati Khandelwal",
       "category": "Regulation",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipannhqI3vkI628-oBoMbtwDDVE4F2PpVmxVM9d10AE06EVVwZzrBde5sTZTddm_89YUCUkfopYwqVzuk2Y8I4g84Ete1SQLvrQ2gA8FVxyCt952gNJpTmXpReLiZZ6EIv33zLjDTFI-_KLydIHDGoIDkbv1ptGTXLdVf6NyeaKeWEEWX4yNsxx46-zyY/s260-e100/robots.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5703622199882049761",
-      "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation. T",
-      "url": "http://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
-      "publishedAt": "2026-07-30T10:38:39.165+05:30",
-      "updatedAt": "2026-07-30T10:38:39.165+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFSDmsE6q7010reBwpOwS1ESkJSxlBlgRBbtjEVAdeClQFAkRfpriRQWUpL0Br8xnFdF1mctv4Ttj1Nv77MMIKm9qlNehPtTLYzOQwcZAWR4Vw1HzjAvItevYjwQkUo_2JNRluc2_OeJ3vOZ-P8meai9NLLWBvothfh7GDqoOpMPmKpOO-hjAeY-Pxa-BV/s260-e100/cisco.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4769253413210293736",
-      "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
-      "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066 (CVSS score: 9.5), the flaw can expose the Rails process en",
-      "url": "http://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
-      "publishedAt": "2026-07-29T23:40:00.590+05:30",
-      "updatedAt": "2026-07-30T22:20:21.448+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjswJ2Clfk448ySFwyQiVVviqzKzT4B9iwnvVio4_dzvA1TXPnNuDJUI8MozBddPvdWmL2JH3jVvzTxg8A2Z6X9qNPYtxjuVx7RKQkMW8vNVBIEs0sgcrLfywQVufYMEKpxa0vgo2k24bNa_EJaudCFTsvlqQKqbT3jsuzRJdI26GR4pRJrkNKAFx_xiKk/s260-e100/rubyrails.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2162095004970693012",
-      "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
-      "summary": "Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution. The vulnerability, tracked as CVE-2026-59726 (CVSS score: 10",
-      "url": "http://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
-      "publishedAt": "2026-07-29T21:09:30.222+05:30",
-      "updatedAt": "2026-07-29T21:09:30.222+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCgiIKxPiETcU1yIlU2RFsHgjXg2uLgbzaJ-98y7sPuujYarFbc0FdMqSRLIKJ1hYrsGLCZTCf5k40RtQ2PgwmA2L6tLAidOymHNIduXN3vtU0u0BsI37PLgWK8gwla3oTYkdD8ggssjMfF_5PuC9-exVYpBcqjg9tvscJ7XNAaHJxeUmCj-WP8VttRSgy/s260-e100/mcp.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6617702381499274436",
-      "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
-      "summary": "Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity. The first of the three critical-rated flaws is CVE-2026-59309 (CVSS score: 9.8), which ha",
-      "url": "http://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
-      "publishedAt": "2026-07-29T21:01:15.061+05:30",
-      "updatedAt": "2026-07-30T10:22:17.756+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLKz0u1mJIVvPAxiFFqsvkMVXxyXqS_paYhbtTRFLoIWyl5Q_FwIrJjruxEYH0LAdzJm38P48m_T_24ycKfjPs2bg6FUoy2IWVUxH7SpNtiSJuExOy3dDEAWprGwkvhY5005OPyFUzl2qJzAztAckgZNLVzqlp34s9HtQ3wrvq6lDCcXgYwfOXKF08wtdp/s260-e100/vmware.jpg"
     }
   ]
 }
