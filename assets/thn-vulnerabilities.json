@@ -2,12 +2,67 @@
   "source": "https://thehackernews.com/feeds/posts/default/-/Vulnerability?alt=json&max-results=24",
   "sourceTitle": "The Hacker News | #1 Trusted Source for Cybersecurity News",
   "labelUrl": "https://thehackernews.com/search/label/Vulnerability",
-  "sourceUpdatedAt": "2026-08-10T12:00:53.342+05:30",
-  "generatedAt": "2026-08-10T06:42:42.108Z",
+  "sourceUpdatedAt": "2026-08-11T11:34:54.857+05:30",
+  "generatedAt": "2026-08-11T06:05:46.053Z",
   "retentionMonths": 6,
   "maxItems": 12,
   "itemCount": 12,
   "items": [
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-9022524134559219889",
+      "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
+      "summary": "Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform's plugins team to temporarily disable their downloads. \"Unlike traditional software supply chain attacks, zero so",
+      "url": "http://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
+      "publishedAt": "2026-08-11T11:18:44.113+05:30",
+      "updatedAt": "2026-08-11T11:18:44.113+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Supply Chain Attack",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh96gU64z_xM5LiLI39IXPndJ1felnUkfQmWxQ2sGfE9r_yYK6AKPLV3x6uVWeZxZoEsJwy0h7OUHILX1sAbwc6MYHpIeeTvCVeH52TnCInqqjjRPW4-Sx7gPPq4abN7ltCnClrjRhDDqyON8UBxcKFjoyubm7CeEgaZos3j4OCLJdRozfEOrDX1rPsnSoF/s260-e100/wordpress.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8742064568513055717",
+      "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw",
+      "summary": "Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strain called StormEncryptor. The use of StormEncryptor marks a shift from the adversary's previous use of Medusa ransomware, the Micro",
+      "url": "http://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html",
+      "publishedAt": "2026-08-10T22:08:37.322+05:30",
+      "updatedAt": "2026-08-10T22:08:37.323+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Ransomware",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNv5C82jT_6YlarerdXnoAR_tT3E8xP65ZWuJfpvOKU9baBT5UACUTb88XvDQgQA6RrYuqPK3FstaqwacR9gDjD0qwk3HUYl0wK848phyphenhyphenFuqRrOA1AqdISQaA6tpEqg0n2XJIA22NeNNbhei1bAgcyghnc2qaVfSvh4fd9J1oD4xVi-DQcNSOYWQovyUst/s260-e100/strom-ransomware.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-504216790572169225",
+      "title": "⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
+      "summary": "A lot of security problems still begin with someone doing a completely normal thing. Cloning a repo. Answering a call. Leaving a box exposed. Trusting the default. That pretty much covers the mood this week. Old bugs are back, supply chains are getting stranger, and some exploit ",
+      "url": "http://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html",
+      "publishedAt": "2026-08-10T20:30:29.902+05:30",
+      "updatedAt": "2026-08-10T20:33:24.228+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Cybersecurity",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtXmkUOPD6prrNPMK9N1Rhu2dm3QFGQ2DUTiu3xrj2WWbauZ_IK2HemME36-4WBIqGh01SFOkNJuutFeXLgS_ZMUBFn5ZDzIP5_IeNrwJWDfKcOPQgZl3spOFVS8R84Hbthy6o3sx9IWJ1yRo4FiW5acGYGBrf2nljmx6yvSd55LWRrkX6JhJ9b5bHJX0g/s260-e100/recaps.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4115649765874347434",
+      "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
+      "summary": "Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on. Passkeys are designed to replace reusable passwords and resist phishing. The attacks instead reused signed authentication material that Window",
+      "url": "http://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
+      "publishedAt": "2026-08-10T17:55:04.684+05:30",
+      "updatedAt": "2026-08-10T17:55:04.684+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Identity Security",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWKCkGCqH-c6Yaqkd_NnzFQijViu34tjAEsdl9tl2CmZLHL4m1rLhezO76zF6XFRTGS9Sr4R3jhMD7z15QV0BMqG948bjg8SoZb_j6HtQajd0PUDR8Tmw06GMqDwS6VhAtH-ZNtD06lzb9KMhJsHi-Vvkps0n6bl6C8n6rSBHCldBuc1cMczr30h11N-8/s260-e100/passkeys.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6141527794520335683",
+      "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
+      "summary": "The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, transport, energy, IT, and software development sectors. Russian cybersecurity v",
+      "url": "http://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
+      "publishedAt": "2026-08-10T17:03:41.983+05:30",
+      "updatedAt": "2026-08-10T17:06:58.160+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Malware",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwaZH1uRwKD4SlLCwgb-7zVkEGjYYXdFxb21glBm3grBdwOZ_M-ECnOmNVFPPY6mg6wXUCf4R4xm9mI8mBiEm21Ixh6y9GXYvL9DKQgKEBkTN65AVQqFz9DJpMs6BRmrGWjGC5vDC-cFgx774ASr7j73D0wiRxrs9tKNdovUbwmLuGicKgcZeQR53z71bT/s260-e100/trueconf.jpg"
+    },
     {
       "id": "tag:blogger.com,1999:blog-4802841478634147276.post-285006385860665616",
       "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
@@ -47,7 +102,7 @@
       "summary": "Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day. The vulnerability (CVSS score: 10.0), which does not carry a CVE identifier, allows an unauthenticat",
       "url": "http://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
       "publishedAt": "2026-08-08T12:28:31.691+05:30",
-      "updatedAt": "2026-08-08T12:28:31.691+05:30",
+      "updatedAt": "2026-08-11T10:43:20.858+05:30",
       "author": "Ravie Lakshmanan",
       "category": "Zero-Day",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv2q8ukeawl9ALLfPnkrRkD2a9umOrSxPHUJdclgLcKj5zM8k19y-NWuTGLrV1yIU4u0F2-QbAsD4zO-NkeEuWPwDqdUYbVFDG69EgOl0v55K0Brjp7lfIb6hExJGyVj9rj5KjeZPtoU97DwoaHAi_umLzQVqpedMMt08eas1akWBhNXUZ2WHOqVXczAf4/s260-e100/metabase.jpg"
@@ -84,61 +139,6 @@
       "author": "Swati Khandelwal",
       "category": "Web Security",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAXYZlxtz4bLTF4gNuVpVMMykRZpDR7IKjIFSR7jhL6CBKSsE1PZ7aIRpSGE57XGGb69NbrYV7wMJLjsRG_lP4SJzyvNZ0nUj9SHArph87e8bWBHKUsOGy1-9rymiMesSAcvUFrPP2Xrf_EuUXiOmKJC2MeBYFRcXmgxKhAv5UBcRzV0ku-_DLEONVLQuV/s260-e100/word.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5578660910271229183",
-      "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
-      "summary": "A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath. The flaw has existed since 2008. The fix already shipped: stable kernels 7.1.6, 6.18.42, 6",
-      "url": "http://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
-      "publishedAt": "2026-08-07T16:40:33.767+05:30",
-      "updatedAt": "2026-08-07T16:40:33.768+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Linux",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmTGemKyDLZPr_sBbt2AdOQMEBEcRFzic8_Ddtkx92vtPOfFdoiwxJ60b00usecTjHuIGUJuUIR2aB8MU2P7-GLc0NOuWsa3ctofrA2-wD38wgI4Fke3moSskWjiRJEXT8Yxl7Ye56NgGl9DZKr8zf974rHRsc1PtHie_iIPVyD18HMx49S02tGZ2EeDY/s260-e100/linux-sctp.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5891290114965266325",
-      "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
-      "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called NatJack that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose mapped ports, and exhaust NAT tables. Presented at Black Hat USA 2026, ",
-      "url": "http://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
-      "publishedAt": "2026-08-07T16:28:38.291+05:30",
-      "updatedAt": "2026-08-07T16:28:38.314+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Network Security",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx8dmEkj0rsX2NREBfPOczKn7zadWRaVVOyVPVeaCPzCDdBAPhocCwP1CVbX_p1pj4Q7DVYsdusvWc9u9G7lO4BGYihT6BXnXY099zIs1B1PBefH71cXCHZucxaG2gEzqKdf9B3FVr9MJ34SntVezm4gNXWSxIMF05DpYUNF6qmfhb0hMiyNpsWDOtuRE/s260-e100/NatJack.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8411459252197294869",
-      "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
-      "summary": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate desync vectors. PortSwigger said a separate human-guided discovery cascade",
-      "url": "http://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
-      "publishedAt": "2026-08-07T15:39:54.612+05:30",
-      "updatedAt": "2026-08-07T16:55:44.619+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Web Security",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgynSSg0CZ1sssmMR8F0u09LmQ82liuj5nt2aor3klmi-xPcKTmalo4JLFQ7jd2mU9Ycnltsrnw2MiVVjmlT-wcYR74Ob7NMN31KNnny14lqVRdrmj30r3yqTSxapzCmQPk9lPG7v9GDSVKQwE4ufB-jWfsx1lc2O5GNd0bHd5M6FbMNah3dcLzu2EAFXo/s260-e100/Desync.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7615828288231754542",
-      "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
-      "summary": "Entra ID researcher Dirk-jan Mollema demonstrated that malware already running in a signed-in Windows session can silently use the victim's Windows Hello for Business key to authenticate to Microsoft Entra ID. The attacker can then establish longer-term cloud access, register a d",
-      "url": "http://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
-      "publishedAt": "2026-08-07T14:22:11.878+05:30",
-      "updatedAt": "2026-08-07T15:25:35.012+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Endpoint Security",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj81b6_YckjrqqfRrJQNRdIf3nu4xfqLNScukFYEao4VeF5QNlt16sbEwrdutizdB9Q1nOWRQpqeSZg4gYZsL8cIhRSJ43XJqMKWKgdKF28oeTl19HQQ75dnOKVHsa6DtXr4zhlmIF43nbUWV5jyEh4D1TjIvBKjgoAX2MpUbjJH3cN4hd4zDvIu_t4Jec/s260-e100/windows-hello-keys.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5631803174328864208",
-      "title": "Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets",
-      "summary": "A GitHub issue opened by an account with no repository privileges was enough to execute code on the CI runners behind Anthropic's and Google's own coding-agent repositories. On OpenAI's, it was enough to hijack the next agent run. Novee Security ran the attack against each vendor",
-      "url": "http://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html",
-      "publishedAt": "2026-08-07T13:48:35.982+05:30",
-      "updatedAt": "2026-08-07T13:48:36.014+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Artificial Intelligence",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguukj-eRhx9RtAq9X96hAxHi0IU3ZWgM_W5XkdWhF8ezevuBQygkpv-ku5PSri9Gt5hRkNVxe6HmJJr5Mg33X_PhOGziqaho9bwm-mkRZSBl2jo94XF3jRwTZOb_PocueKWJkEtvl7kG_YqmbVfUxNht8_ODzLOERIqQteMdPxnWpobM-c9-fHhn0cLMQ/s260-e100/claude-github.jpg"
     }
   ]
 }
