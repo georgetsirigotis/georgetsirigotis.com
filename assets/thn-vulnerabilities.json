@@ -2,12 +2,122 @@
   "source": "https://thehackernews.com/feeds/posts/default/-/Vulnerability?alt=json&max-results=24",
   "sourceTitle": "The Hacker News | #1 Trusted Source for Cybersecurity News",
   "labelUrl": "https://thehackernews.com/search/label/Vulnerability",
-  "sourceUpdatedAt": "2026-08-11T11:34:54.857+05:30",
-  "generatedAt": "2026-08-11T06:05:46.053Z",
+  "sourceUpdatedAt": "2026-08-12T12:11:38.763+05:30",
+  "generatedAt": "2026-08-12T06:44:20.007Z",
   "retentionMonths": 6,
   "maxItems": 12,
   "itemCount": 12,
   "items": [
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4924963158113321221",
+      "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
+      "summary": "The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak. The vulnerability, rooted in Microsoft Defender for Windows, demonstrates ",
+      "url": "http://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
+      "publishedAt": "2026-08-12T12:11:38.763+05:30",
+      "updatedAt": "2026-08-12T12:11:38.763+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Zero-Day",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9fX7D-qoT4QD3pjSuUtavTiarjtyitt3-JMji-nzNa8XTKefzPp2QGMAR6FkLA8r8Ll9VVFHCMEJSKWgi5Gk0GOdYU4RA1itDyf8ZQc12IXczcxoGHKXcJ9GAWUv-fPaRhRXnDyFfxo9nhjQoJbBPxQQbixY9RxaR_Oz_NrHD2P_EMER6yKTV3nWCSAoq/s260-e100/zero-day.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1801160341773109821",
+      "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
+      "summary": "Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild. The high-severity flaw, tracked as CVE-2026-20349 (CVSS score: 8.6), is a case of insuf",
+      "url": "http://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
+      "publishedAt": "2026-08-12T11:45:58.171+05:30",
+      "updatedAt": "2026-08-12T11:45:58.171+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Network Security",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRIn51DQNDe2IfVEJzqiWXY9k8QyRhulSTcOh67As0Pj7Da1DCB5Lu1RBhjI55Y7_TF9PW9F9HOBn6moaPRNrpl0G_OGeMbC9z5BMfdOqtF6sHpd5tJLvQqnvlCd77R-4oCYiDVfFlUtRe4mp7W8cFDCHmJ8kz4TueVL06-jbGzpVdWasZF02YRwYyrZJc/s260-e100/cisco-powerhouse.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6037214324517257611",
+      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
+      "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacker with code already running on a machine can use it to escal",
+      "url": "http://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
+      "publishedAt": "2026-08-12T01:40:55.751+05:30",
+      "updatedAt": "2026-08-12T01:40:55.751+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4HtkIdWjqoYaSkO4edq9d5ZotqTE-LNMM14UlVoPaVKw2hwBahFYrPkB3jttURH0gcBXxCDtyHhiGMAIrxCX74gYCb_ivX4INmfRzt7HRb-bPTNt1lV-nUQm_pHQQHrhUwx4JWS7DtAzOZ1etx-yjPAVrNJXGBltqXjHPSI5NcfnWQqYurz0LK-dRRMo/s260-e100/aug-ms-patch.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2604890529628101385",
+      "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
+      "summary": "Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct distributed denial-of-service (DDoS) attacks. The new version, trac",
+      "url": "http://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
+      "publishedAt": "2026-08-12T01:06:37.542+05:30",
+      "updatedAt": "2026-08-12T01:06:37.542+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Botnet",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieGDZmdQhY70KqvppH4w5wMVhbs804WeageCN1UXtRK4KpFkYWNk-wkTeTv9CUSNGYQMsaZ04XYWimXsIQmfl0uYSFgNJe7uBbXsg1xPw-cukXwJY3O3TAHUpWiiYmleWgDpu4PLMRfjgIQtOxb6Wq2yFjvqyb6lpoCOcOyWOpZoURLpddzyGkmc8soRHe/s260-e100/android-botnet.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5791959648448294832",
+      "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
+      "summary": "Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's. The flaw sat in the annotation tool, the feature that lets participants draw and type on a shared screen, and it asked n",
+      "url": "http://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
+      "publishedAt": "2026-08-12T00:38:47.099+05:30",
+      "updatedAt": "2026-08-12T00:38:47.099+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIX-dcsP7VVws3iI-g-myaz7Wyt8fgrlR9U3CtweEsSriOayyy8r9uyB_1mVcMhSBPyulDXj47SOLsWhl7XQjgMpLYGSjF79fiMTw7zEVOAceKqtAlHCVAMs38paehT0bmDN1zdAyMjHgvdUfYzqRCGEU1StMPyrYW5xIkJzG6DIHh9R9gemNCus_Mwlc/s260-e100/zoomsday.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5033550381851555795",
+      "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
+      "summary": "Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an AI agent. The flaw, tracked as CVE-2026-55040 (CVSS 9.1), affects SharePoint Ser",
+      "url": "http://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
+      "publishedAt": "2026-08-11T22:17:44.667+05:30",
+      "updatedAt": "2026-08-11T22:19:00.818+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbDSDTAbeeAZ8pykGFRAGcCDs_3LZBuD8tYUJfh0jG35r_o84zM_bNo7q3TWcoEMPmZqvhzucujEF72b2c2HnzfDjowsj4Iw4psQEwcgADR_rVMCXVw18arcpSB0WLblkZeypa-bgJPsD0qwrqBUk2umKezFZTtuDpbi_kQlsGUSiveb2suBMRyc3oZhQ/s260-e100/admin.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6924250809652111202",
+      "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
+      "summary": "OpenAI on Monday unveiled a new cybersecurity-focused model called GPT‑5.6‑Cyber that it said is focused on vulnerability research, penetration testing, and incident response. \"Built on GPT‑5.6 Sol, it is trained to improve capabilities on several specialized cybersecurity tasks ",
+      "url": "http://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
+      "publishedAt": "2026-08-11T18:41:23.267+05:30",
+      "updatedAt": "2026-08-11T18:41:23.267+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Artificial Intelligence",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEFEJ72sE5G8XpyLqNLnPaYpMcgnUe7K9XLKyJD3zxcwPABaJlkkFpiQd4p3GW4TSWg-eDlFRplyPtmKQjfHR7OwsvO0hOJQo8xmzqxpXy1v1k1VLpxFVs2Nghd6IDGpAcraSGGUYI1_pnFQ8A3Tcox-iKzHIayhoCiXMJPska8cfsiTvNd6dmSMLKEUmN/s260-e100/openai-exploit.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8492094473290756086",
+      "title": "A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices",
+      "summary": "A malicious SIM card can order the device it sits in to run commands of the attacker's choosing. On the cellular modules built into electric-vehicle chargers, industrial routers, and car telematics units, that is enough to take the whole device over. Researchers at the University",
+      "url": "http://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html",
+      "publishedAt": "2026-08-11T17:35:03.970+05:30",
+      "updatedAt": "2026-08-11T17:42:16.120+05:30",
+      "author": "Swati Khandelwal",
+      "category": "IoT Security",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-_ftAONA3vSU_pho_96pouqt_n3CXa1PRfS2fhilG7JBshSuPpKNZzKVFvPRASkzNSVrDj-U4sISWf8TN9fuNqgAr4g07OYcRzZ7ecqVlAkd_C1EBL2bJZBCKMA90CLSrWN_s3I2-dhBLDGuH3juBdciPUruhDBkC2826KaVwB41tr122SnxgBeWw3VM/s260-e100/malware-sim.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1858299092682711084",
+      "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
+      "summary": "Windows Plug and Play can be abused to fetch signed vendor software for an emulated USB device and execute privileged installation components that researchers chained to SYSTEM access on a fully updated Windows 11 machine. The same PnP path can be triggered over Remote Desktop wi",
+      "url": "http://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
+      "publishedAt": "2026-08-11T16:18:26.482+05:30",
+      "updatedAt": "2026-08-11T16:18:26.482+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIoEoCsvghUx_eKGXl-WAFq7pyoOLwg_Sk9a5Ne8vX1Cb7l_DOib3wtO_5NwoogbHqFvU_VWJZd3ceL5ftpWOX5qNx5HNJCmD4_RR7GaiExk0ph2F3sp5eKPthiuTcmnDlJQyvUdkTMfxBUsIlXp_I9-qkSi4zxwVnLPb9bG-T3zFC7oFCI1Mps4VJf1s/s260-e100/pnp.gif"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5996975003287862331",
+      "title": "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
+      "summary": "Cybersecurity and intelligence agencies from South Korea and the U.S. warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world. Targets of these attacks include healthcare and public health, financial services, government ser",
+      "url": "http://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
+      "publishedAt": "2026-08-11T14:46:24.959+05:30",
+      "updatedAt": "2026-08-11T18:14:08.834+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Ransomware",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3nDJhjEnxo7k9DyrL4evBwNBVgGuv1CIsdfm0F5ed4HANv9HprVu790o5CVg8xQqft_tFRqLTrmQTrmkmZVTzEUZk08exDnnQjjnPLd4uhuicurtZbhpo-cMrv-yR_qIl58aJHvaPEP0aFgxpbnXYWKkk74qSytUvhk8LGSbewWumopWiQ6GECxsZ-1ff/s260-e100/ransomware-gunra.jpg"
+    },
     {
       "id": "tag:blogger.com,1999:blog-4802841478634147276.post-9022524134559219889",
       "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
@@ -29,116 +139,6 @@
       "author": "Ravie Lakshmanan",
       "category": "Ransomware",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNv5C82jT_6YlarerdXnoAR_tT3E8xP65ZWuJfpvOKU9baBT5UACUTb88XvDQgQA6RrYuqPK3FstaqwacR9gDjD0qwk3HUYl0wK848phyphenhyphenFuqRrOA1AqdISQaA6tpEqg0n2XJIA22NeNNbhei1bAgcyghnc2qaVfSvh4fd9J1oD4xVi-DQcNSOYWQovyUst/s260-e100/strom-ransomware.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-504216790572169225",
-      "title": "⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
-      "summary": "A lot of security problems still begin with someone doing a completely normal thing. Cloning a repo. Answering a call. Leaving a box exposed. Trusting the default. That pretty much covers the mood this week. Old bugs are back, supply chains are getting stranger, and some exploit ",
-      "url": "http://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html",
-      "publishedAt": "2026-08-10T20:30:29.902+05:30",
-      "updatedAt": "2026-08-10T20:33:24.228+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Cybersecurity",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtXmkUOPD6prrNPMK9N1Rhu2dm3QFGQ2DUTiu3xrj2WWbauZ_IK2HemME36-4WBIqGh01SFOkNJuutFeXLgS_ZMUBFn5ZDzIP5_IeNrwJWDfKcOPQgZl3spOFVS8R84Hbthy6o3sx9IWJ1yRo4FiW5acGYGBrf2nljmx6yvSd55LWRrkX6JhJ9b5bHJX0g/s260-e100/recaps.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4115649765874347434",
-      "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
-      "summary": "Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on. Passkeys are designed to replace reusable passwords and resist phishing. The attacks instead reused signed authentication material that Window",
-      "url": "http://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
-      "publishedAt": "2026-08-10T17:55:04.684+05:30",
-      "updatedAt": "2026-08-10T17:55:04.684+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Identity Security",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWKCkGCqH-c6Yaqkd_NnzFQijViu34tjAEsdl9tl2CmZLHL4m1rLhezO76zF6XFRTGS9Sr4R3jhMD7z15QV0BMqG948bjg8SoZb_j6HtQajd0PUDR8Tmw06GMqDwS6VhAtH-ZNtD06lzb9KMhJsHi-Vvkps0n6bl6C8n6rSBHCldBuc1cMczr30h11N-8/s260-e100/passkeys.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6141527794520335683",
-      "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
-      "summary": "The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, transport, energy, IT, and software development sectors. Russian cybersecurity v",
-      "url": "http://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
-      "publishedAt": "2026-08-10T17:03:41.983+05:30",
-      "updatedAt": "2026-08-10T17:06:58.160+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Malware",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwaZH1uRwKD4SlLCwgb-7zVkEGjYYXdFxb21glBm3grBdwOZ_M-ECnOmNVFPPY6mg6wXUCf4R4xm9mI8mBiEm21Ixh6y9GXYvL9DKQgKEBkTN65AVQqFz9DJpMs6BRmrGWjGC5vDC-cFgx774ASr7j73D0wiRxrs9tKNdovUbwmLuGicKgcZeQR53z71bT/s260-e100/trueconf.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-285006385860665616",
-      "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
-      "summary": "OpenAI has announced that it's pausing some \"internal activities\" involving its upcoming artificial intelligence (AI) model Astra after an internal evaluation found it had made significant advancements in agentic coding and cybersecurity. In response to the discovery, the AI upst",
-      "url": "http://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
-      "publishedAt": "2026-08-10T11:20:03.124+05:30",
-      "updatedAt": "2026-08-10T11:20:03.124+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Artificial Intelligence",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgat4Wvo6Fpe6pNG66UengjFIWRohQUVp-khyphenhyphenxa57n9Ued3-mWlDeeTQkblpAP-OEjgSCbY0n1bC_MhI3a5_BF1bWq7rBohkS2DG1AXUtcDI8MuWPRMFKGNdteA7_Xkg-_6w-y-wao14ZPQWoRF8cnbibQYHUAGP1byqwYyBpcyvCBQd0h2fe6t94zvoa4j/s260-e100/openai-astra.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6601393518698015906",
-      "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
-      "summary": "Attacker-controlled instructions can make Atlassian's Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security firms found that behavior independently, by different routes. Only one of those routes is confirm",
-      "url": "http://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
-      "publishedAt": "2026-08-08T14:24:50.896+05:30",
-      "updatedAt": "2026-08-08T14:24:50.897+05:30",
-      "author": "Swati Khandelwal",
-      "category": "AI Security",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFYjJTxVoOMkR9DDRPZ5PkeR_EWAqmBScR3TPw3mlweipGlnQKq0OdfVqR2f26QIV3kBJWQIM65f8XwMSFq3zT6Bl4fsTvkPHxJiU2LilhK9s0tcreXt2gotEpE8sKoDrLQJ3SSVY9B-RS0FsS2dC480op8OV-caeaZvNyTiIipQbeNFJGMnAcjWEVq7g/s260-e100/rovo.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1836816046713815764",
-      "title": "New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens",
-      "summary": "New research shows content inside an email can escape its message boundary and interfere with the webmail interface. Across attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail, and AOL Mail, the techniques can capture passwords, take over third-party accounts",
-      "url": "http://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
-      "publishedAt": "2026-08-08T13:33:57.693+05:30",
-      "updatedAt": "2026-08-08T13:33:57.693+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Email Security",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCUnWbFb6UGu3ML1MqcuVXYwk0yoD6WzgXIQmi8ijkZQjS6M3g1F3kgV-RanNgyP1bdpNxDOOqMJzJnutZGh4MUVyYCbbu98sNXtAp-GWxueyKH9fDo3z9HmBl4tL-rj91kb11bhdhRvWGAYe56YGYMEzJgGIZeUqj9eGH10Bynj0YE6WMLl0J7O-HhLc/s260-e100/css-bomb.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5271370877219891386",
-      "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
-      "summary": "Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day. The vulnerability (CVSS score: 10.0), which does not carry a CVE identifier, allows an unauthenticat",
-      "url": "http://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
-      "publishedAt": "2026-08-08T12:28:31.691+05:30",
-      "updatedAt": "2026-08-11T10:43:20.858+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Zero-Day",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv2q8ukeawl9ALLfPnkrRkD2a9umOrSxPHUJdclgLcKj5zM8k19y-NWuTGLrV1yIU4u0F2-QbAsD4zO-NkeEuWPwDqdUYbVFDG69EgOl0v55K0Brjp7lfIb6hExJGyVj9rj5KjeZPtoU97DwoaHAi_umLzQVqpedMMt08eas1akWBhNXUZ2WHOqVXczAf4/s260-e100/metabase.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7673139814884382419",
-      "title": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist",
-      "summary": "N-able has released a fresh round of hotfixes for N‑central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and Management (RMM) product. \"We are proactively expanding protections in response to ongoing monitor",
-      "url": "http://thehackernews.com/2026/08/n-central-attackers-reach-managed.html",
-      "publishedAt": "2026-08-08T12:27:43.878+05:30",
-      "updatedAt": "2026-08-08T12:54:50.756+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsaNpVaG83aDE1lJwcNllVSeS-ebafbbt4FgaKHH1_4dt1i4qvCtw-dYVrE_MiWf2GZ5vyGPhyphenhyphenCieChBz2IChMJew0I1Ze2HEYJpB-j3rB2VnfNrzbFpPDD7VFkWCkYBn2CJRLpOBIKNaeKPXlVPHpz7-1Wx9go7IfyUKSVNliDO644rNsoMmAk5a3Qf_W/s260-e100/nc.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6087068456984218640",
-      "title": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. The vulnerability, tra",
-      "url": "http://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
-      "publishedAt": "2026-08-08T12:22:16.571+05:30",
-      "updatedAt": "2026-08-08T12:22:16.571+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_DF22WirQj4KZe5A4NxYmG3UhC2o4BRQ4AybyFlmr80n5Wkf15sbtMn11P0msoMyAe65WBqMpL2XBsqTiHdDNNH1i6qz11ydD9X4AIOoiaSfCYb1MCe7dfJD0n4TEIc5_83tsMq5zJ5zVpGbpCq7b8rACen1oMvW8XGBbz3T4hy_9J6igpOk0oCDp6vkA/s260-e100/progress.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3664194536160536617",
-      "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
-      "summary": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be chained into PHP code execution on the server when a logged-in administrator",
-      "url": "http://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
-      "publishedAt": "2026-08-07T18:26:23.901+05:30",
-      "updatedAt": "2026-08-08T13:37:09.881+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Web Security",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAXYZlxtz4bLTF4gNuVpVMMykRZpDR7IKjIFSR7jhL6CBKSsE1PZ7aIRpSGE57XGGb69NbrYV7wMJLjsRG_lP4SJzyvNZ0nUj9SHArph87e8bWBHKUsOGy1-9rymiMesSAcvUFrPP2Xrf_EuUXiOmKJC2MeBYFRcXmgxKhAv5UBcRzV0ku-_DLEONVLQuV/s260-e100/word.jpg"
     }
   ]
 }
