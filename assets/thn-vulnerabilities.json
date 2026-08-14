@@ -2,19 +2,52 @@
   "source": "https://thehackernews.com/feeds/posts/default/-/Vulnerability?alt=json&max-results=24",
   "sourceTitle": "The Hacker News | #1 Trusted Source for Cybersecurity News",
   "labelUrl": "https://thehackernews.com/search/label/Vulnerability",
-  "sourceUpdatedAt": "2026-08-13T11:39:48.469+05:30",
-  "generatedAt": "2026-08-13T06:46:37.813Z",
+  "sourceUpdatedAt": "2026-08-14T12:06:33.833+05:30",
+  "generatedAt": "2026-08-14T06:44:13.563Z",
   "retentionMonths": 6,
   "maxItems": 12,
   "itemCount": 12,
   "items": [
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7357834902239284715",
+      "title": "Unpatched GeoServer Zero-Day Targeted in Active Exploitation Attempts, Can Lead to RCE",
+      "summary": "A newly disclosed zero-day flaw in GeoServer is seeing active exploitation efforts, per watchTowr. The vulnerability, which has yet to be assigned a CVE identifier, is an SQL injection vulnerability in the open-source platform that can lead to remote code execution (RCE). The sec",
+      "url": "http://thehackernews.com/2026/08/unpatched-geoserver-zero-day-targeted.html",
+      "publishedAt": "2026-08-14T00:15:12.138+05:30",
+      "updatedAt": "2026-08-14T12:06:33.833+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Zero-Day",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBHrFMdn5ekgZuyeE4m-ez0biA_lSQ3abNCs7s0YNhWXi-MvjTNhJBgQtjTw_j9zNfDNtp0DtDC6wH9lJcD7obhh9ujkfuk6E0FiX9qH3njE5mcNrtyaxWR3E2RO1ROmlx4B4YbjBtby_P9FXXpl-Be9voGWxC7PbkyVpBrk1zB3KanenH2jVRf_Uv48s4/s260-e100/geo.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7821039475484173452",
+      "title": "ThreatsDay: GhostJacking AI Attacks, EtherHiding ClickFix, Cursor CLI Flaw + 17 More Stories",
+      "summary": "Some weeks have one big security story. Others bring many smaller updates that are easy to miss but still matter. This week has plenty of them, covering cloud services, AI tools, malware, data breaches, scams, and new attack methods. The latest ThreatsDay Bulletin puts all of the",
+      "url": "http://thehackernews.com/2026/08/threatsday-ghostjacking-ai-attacks.html",
+      "publishedAt": "2026-08-13T23:47:10.243+05:30",
+      "updatedAt": "2026-08-14T12:06:03.077+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Hacking News",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnZSPrbeVOhfz52pccm_PbosfzvUlARZ8YoAhLmLd28aHQJ0Nw4T-TeYS2gCgc4bQaNS_c7sFfSFY-tQdGZDD4Uajt1hFhjPzl-XZVyoM72eC5vYStjyfuKwis_vDgrvUgTK7MUJx0kkEHwBJxmIuqp6qkPB-km81UXl6ycj1u9uIORUrVXtYz9L5-Julh/s260-e100/td.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8854735295899497250",
+      "title": "AmnesiaStealer Hijacks Chromium Sessions to Give Attackers Live Browser Control on macOS",
+      "summary": "Cybersecurity researchers have disclosed details of a new macOS-oriented, Rust-based information stealer called AmnesiaStealer that's capable of hijacking Chromium web browsers to steal session data. The multi-stage stealer is spread via a counterfeit GitHub download page titled ",
+      "url": "http://thehackernews.com/2026/08/amnesiastealer-hijacks-chromium.html",
+      "publishedAt": "2026-08-13T19:13:14.925+05:30",
+      "updatedAt": "2026-08-13T19:13:14.926+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Malware",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKseTvCwFqcMpefo-t9iVJcgB3VNAmPh_RHG1CadNUW-VA2Dn2NRE2HJQwnnwY9JqGD4AEElHZHGX9IlrT2Ts9ayfnIqk_sEJz4uSNzDi8wZhneDyiEovqm8LvP_8QTN5XoF92mQcWDeQFiS_1cJeOeWSC7J11alfbow-dRhIAOVL5y_ggDVEmsbDQSGpo/s260-e100/chrome-remote.jpg"
+    },
     {
       "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8352487863604946919",
       "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
       "summary": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which refers to a critical security feature bypass that stems from w",
       "url": "http://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
       "publishedAt": "2026-08-13T11:39:48.468+05:30",
-      "updatedAt": "2026-08-13T11:39:48.469+05:30",
+      "updatedAt": "2026-08-13T16:47:01.074+05:30",
       "author": "Ravie Lakshmanan",
       "category": "Vulnerability",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_e1WsuZlqC_AfMpdI4wXB0wzIA6nGpPb5ktYmwO5jRhFqH2t56eGghhYAV7he6u0qTqiPacKD-Wf3c1vXxUmBV159KAObOJUTEDGdDafl9B0makdRgyKTUwWHZ5qxLpGbWRg33JJl_0KaY0K0fiWLaV2xghWX4KqUSeaoNgD9Z5ql1Q5VesZQyH-1eO7W/s260-e100/poc.jpg"
@@ -25,7 +58,7 @@
       "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil, and",
       "url": "http://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
       "publishedAt": "2026-08-12T23:09:27.802+05:30",
-      "updatedAt": "2026-08-12T23:09:27.802+05:30",
+      "updatedAt": "2026-08-13T23:20:41.984+05:30",
       "author": "Ravie Lakshmanan",
       "category": "Vulnerability",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1jrzxrBozKDsDhAGM8SBKcqbTE4M0zWSJqfp709iguQU21GwUzshBdYSvKkicSkfQD1bNsYhROcsx5p5vAT3jyM90H6w6p8imCjtLbHySKnpGKlsQqfSS-BhcdHNuwJKFPZfBiVkh49xDvJbRI-rvfBKePL6CeHYIWOpwvGG0T-ha3x__xznmdsYybs9v/s260-e100/windows-shell.jpg"
@@ -106,39 +139,6 @@
       "author": "Ravie Lakshmanan",
       "category": "Network Security",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRIn51DQNDe2IfVEJzqiWXY9k8QyRhulSTcOh67As0Pj7Da1DCB5Lu1RBhjI55Y7_TF9PW9F9HOBn6moaPRNrpl0G_OGeMbC9z5BMfdOqtF6sHpd5tJLvQqnvlCd77R-4oCYiDVfFlUtRe4mp7W8cFDCHmJ8kz4TueVL06-jbGzpVdWasZF02YRwYyrZJc/s260-e100/cisco-powerhouse.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6037214324517257611",
-      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
-      "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacker with code already running on a machine can use it to escal",
-      "url": "http://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
-      "publishedAt": "2026-08-12T01:40:55.751+05:30",
-      "updatedAt": "2026-08-12T01:40:55.751+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4HtkIdWjqoYaSkO4edq9d5ZotqTE-LNMM14UlVoPaVKw2hwBahFYrPkB3jttURH0gcBXxCDtyHhiGMAIrxCX74gYCb_ivX4INmfRzt7HRb-bPTNt1lV-nUQm_pHQQHrhUwx4JWS7DtAzOZ1etx-yjPAVrNJXGBltqXjHPSI5NcfnWQqYurz0LK-dRRMo/s260-e100/aug-ms-patch.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2604890529628101385",
-      "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
-      "summary": "Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct distributed denial-of-service (DDoS) attacks. The new version, trac",
-      "url": "http://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
-      "publishedAt": "2026-08-12T01:06:37.542+05:30",
-      "updatedAt": "2026-08-12T01:06:37.542+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Botnet",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieGDZmdQhY70KqvppH4w5wMVhbs804WeageCN1UXtRK4KpFkYWNk-wkTeTv9CUSNGYQMsaZ04XYWimXsIQmfl0uYSFgNJe7uBbXsg1xPw-cukXwJY3O3TAHUpWiiYmleWgDpu4PLMRfjgIQtOxb6Wq2yFjvqyb6lpoCOcOyWOpZoURLpddzyGkmc8soRHe/s260-e100/android-botnet.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5791959648448294832",
-      "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
-      "summary": "Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's. The flaw sat in the annotation tool, the feature that lets participants draw and type on a shared screen, and it asked n",
-      "url": "http://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
-      "publishedAt": "2026-08-12T00:38:47.099+05:30",
-      "updatedAt": "2026-08-12T00:38:47.099+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIX-dcsP7VVws3iI-g-myaz7Wyt8fgrlR9U3CtweEsSriOayyy8r9uyB_1mVcMhSBPyulDXj47SOLsWhl7XQjgMpLYGSjF79fiMTw7zEVOAceKqtAlHCVAMs38paehT0bmDN1zdAyMjHgvdUfYzqRCGEU1StMPyrYW5xIkJzG6DIHh9R9gemNCus_Mwlc/s260-e100/zoomsday.jpg"
     }
   ]
 }
