@@ -2,19 +2,107 @@
   "source": "https://thehackernews.com/feeds/posts/default/-/Vulnerability?alt=json&max-results=24",
   "sourceTitle": "The Hacker News | #1 Trusted Source for Cybersecurity News",
   "labelUrl": "https://thehackernews.com/search/label/Vulnerability",
-  "sourceUpdatedAt": "2026-08-17T09:47:45.074+05:30",
-  "generatedAt": "2026-08-17T05:51:54.495Z",
+  "sourceUpdatedAt": "2026-08-18T02:33:04.403+05:30",
+  "generatedAt": "2026-08-18T05:46:36.566Z",
   "retentionMonths": 6,
   "maxItems": 12,
   "itemCount": 12,
   "items": [
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8235126672999633216",
+      "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
+      "summary": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or delete public projects and user data. T",
+      "url": "http://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
+      "publishedAt": "2026-08-18T02:33:04.403+05:30",
+      "updatedAt": "2026-08-18T02:33:04.403+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLiZpsYdSdkh6GE1rDDV3XVwWiGdjWBlx3B1irY9V5RtHt1cv7sQYPaa16y78EJdluo3FTMr5Wq0O2ZCWZjRMdrewgLrGJS3Ii_NLOQKQKN18PEGHhDiSyJtvf8TpdFrrIplaynGWNVmUxdAkyL7E8h_GtKfog8EE_TV25SySHFqbQgK3ChyphenhyphenKaKktnUic/s260-e100/gitlab.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7272137004386403090",
+      "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
+      "summary": "Cybersecurity researchers at Wiz have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to execute commands in a workflow containing i",
+      "url": "http://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
+      "publishedAt": "2026-08-18T00:14:17.742+05:30",
+      "updatedAt": "2026-08-18T00:14:17.743+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJW5BJKjwNfnH2t8RrvgW0wUO3_ZJWnw30aS6GlU9qoaOWMQcyoZ9ZOZmTgLo7hWAqHlKDK2b4MrtF23Jv_1-1Ffd6bo6VlR8exLvIISBANwjHnW3dv7wLgCtyCIDlndpJ67TajeEpN-Ww9eVVutmS4fTpcDPJtlAk_ZU0GLtnkDvYLlqWPv75uMH7ob__/s260-e100/snowflake.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3041024946595418880",
+      "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
+      "summary": "A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susceptible sites. The vulnerability, tracked as CVE-2026-15748, is rated 9.8 out of 10.",
+      "url": "http://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
+      "publishedAt": "2026-08-17T23:52:09.356+05:30",
+      "updatedAt": "2026-08-17T23:52:09.357+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5Jfag1_E06odK7mkATjCOSPdD_fHy2kcYYHfi9fDNTsk0CRkV2yJD0Uz4MV82XjbMR5QNyK3Akw5Ysf0N7fDQ3DwApNb5Tf9R4axktScKF3UZlMVtrY3ulTzrYjFviMA8HmIUCBZhxmR59TtnJ7xf-B_iJtl3SWiBZAFbOfhUoldNdZX0sOStx6ULNMSZ/s260-e100/wordpress-flaw.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3202925884279933103",
+      "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+      "summary": "The expensive attacks are not always the clever ones. This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading farther than the original compromise. A lot of it came down to a",
+      "url": "http://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
+      "publishedAt": "2026-08-17T18:53:51.482+05:30",
+      "updatedAt": "2026-08-17T23:27:48.374+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Cybersecurity",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgObgx3d_pR3qN3UrW69UfMgB-yM7RmfpKrQjvzqtAsNaQ3nVsIKNIiz5p0BsZCppmE4BWH9Wle92WombnIdCdT0BsHkv-_lDcEdIkYvsGrnch6OQHbAr3FUj-QjM8aDdKPNdnez6SXczT4sXNn8KX4QgmG6BiapFhq35I0cdZckWblyoaTVr7rjY5idp5V/s260-e100/cyber-recap.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5737373750984107883",
+      "title": "How MCP Servers Can Expose Enterprise Secrets",
+      "summary": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI agents into their systems, that exposure can silently become",
+      "url": "http://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
+      "publishedAt": "2026-08-17T17:28:00.000+05:30",
+      "updatedAt": "2026-08-17T17:28:00.111+05:30",
+      "author": "Unknown",
+      "category": "AI Security",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmy_mE0_W-wEeuppBUYhS19P_uTo6RifgrGEV5eLim_B6KkhI_BO5wSL930qS_NCD6aR7nL5mAizU4RAfinzkWhz-oq1wCnHszL6C25H0Sj_MahJIBsr7lw_wzJ7xZ4YF7-GVJJO0L1wxe8LQXv3rHuLV3vbuDUEQ9D7vXa6D4zK6ARD1aFmiQv4fka5Y/s260-e100/keeper.png"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7616725666054160750",
+      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
+      "summary": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, with no fix from the chipset maker. The advisory, published August 17, 2026, is the",
+      "url": "http://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
+      "publishedAt": "2026-08-17T16:22:34.249+05:30",
+      "updatedAt": "2026-08-17T16:22:34.249+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIqVuTpKFLy55ilEFObjJqUsVDu7qTrQCYAFsh7bbMcF4xv61h8I6tfue0tGw04yWGhDg_cZ-r0v9Jw-kjNmm5ZYpbebrvlgixiqID5pSUwXb8dQSg12cI5kFkR4BKK0mwc6rMP-9ULTHob-bi7rgfYxGBixmNhGy75tlqn5tlc6OXjpGGZemXbq0yHRY/s260-e100/android.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7654142036189845498",
+      "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
+      "summary": "Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn internet-facing devices into SOCKS proxies. \"While the malware reuses the DDoS engin",
+      "url": "http://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
+      "publishedAt": "2026-08-17T14:59:55.621+05:30",
+      "updatedAt": "2026-08-17T14:59:55.621+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Malware",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIDrkyaW1magTuvTfLfkhtk_8stt1zYUxgonTZX1yaI_OGxsGMV9wCRE8bglbRubclVma7bkghEbmah6ku4T2ZVnpSngl6k5Cw0iCXgNNpuy6I2ZNPQOYYIfqKNgcVQxkqZdgvFLLM82bK1By0hrAm4i9slLnFQwQmwLmpR8I9eb8Paze2sf2UJMlol81Q/s260-e100/linux-botnet.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8501606915826305927",
+      "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
+      "summary": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT). The attacks involve the exploitation of CVE-2026-59310 (CVSS score: 9.8), a severe directory-travers",
+      "url": "http://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
+      "publishedAt": "2026-08-17T13:06:19.183+05:30",
+      "updatedAt": "2026-08-17T22:29:09.842+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN5GzIjo1DOb9leWRsG7hi5zemNCi6kb_NBf-391nF9pphXhTgf8DZLMlk-fUyp-j4rT_cFv4coBpP821rfQkUc4ydAu5YQBcn9Y6nj-SeQGDNu10DmSN2JYDmWJTzLUSXsvDYPTBQ_cQkkCFAIkdMCyRgRv5YIPdMgkp62BtqaYE49b3aWnm4QbYM7YeK/s260-e100/vmware.jpg"
+    },
     {
       "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5192906613403480707",
       "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
       "summary": "A maximum-severity security vulnerability impacting SAP Commerce Cloud is witnessing active exploitation efforts. The vulnerability, tracked as CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It relates to an instance of insufficient authorization checks and input valid",
       "url": "http://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html",
       "publishedAt": "2026-08-15T14:08:46.306+05:30",
-      "updatedAt": "2026-08-15T14:08:46.306+05:30",
+      "updatedAt": "2026-08-17T23:27:08.955+05:30",
       "author": "Ravie Lakshmanan",
       "category": "Vulnerability",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8_2sx5UM3v1F5xNjCrlFAeBp6t7ioSfSER_6yl7jFtH3NvB_wwrwdT2Njk21qvm5m_dh2UZ3u-3UnZOWSz9sawqkuPmg0FLwuOEeLYhMlqP8lWjeXhg7ETTrRx19wiPebTSCcGeqC-Gz3zpiYPZz69kKTlL2mWSO1xW_-RotwAT4poWJ8VhQ6yklDDebs/s260-e100/sap-flaw.jpg"
@@ -22,10 +110,10 @@
     {
       "id": "tag:blogger.com,1999:blog-4802841478634147276.post-231150776363382778",
       "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
-      "summary": "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC) has warned. The vulnerability in question is CVE-2026-65400 (CVSS score: 9.8), a critical authent",
+      "summary": "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC-NL) has warned. The vulnerability in question is CVE-2026-65400 (CVSS score: 9.8), a critical auth",
       "url": "http://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html",
       "publishedAt": "2026-08-15T12:54:04.300+05:30",
-      "updatedAt": "2026-08-15T20:15:08.269+05:30",
+      "updatedAt": "2026-08-17T22:35:19.157+05:30",
       "author": "Ravie Lakshmanan",
       "category": "Vulnerability",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhudlXOxVGnImI0OoIDMwrIy0pc2zaf1aV0B4ga_QSrt5UPX5G_BJl76VvdEUxkxJ4pjopKLsohJrwVwBgS0a-xLJvW7ZvCPvG3ezz_5vY1ABYZnysPR-ZFvVlEXVdZkCWuuHp2IAra5N3IgH_Lf8wuwVF7hx4zYXf0qF7MyOC8M83ZpQVQ5jcjzbLP4Jq/s260-e100/apple-screenshare.jpg"
@@ -36,7 +124,7 @@
       "summary": "A newly disclosed zero-day flaw in GeoServer is seeing active exploitation efforts, per watchTowr. The vulnerability, which has yet to be assigned a CVE identifier, is an SQL injection vulnerability in the open-source platform that can lead to remote code execution (RCE). The sec",
       "url": "http://thehackernews.com/2026/08/unpatched-geoserver-zero-day-targeted.html",
       "publishedAt": "2026-08-14T00:15:12.138+05:30",
-      "updatedAt": "2026-08-15T20:14:46.826+05:30",
+      "updatedAt": "2026-08-17T22:35:39.806+05:30",
       "author": "Ravie Lakshmanan",
       "category": "Zero-Day",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBHrFMdn5ekgZuyeE4m-ez0biA_lSQ3abNCs7s0YNhWXi-MvjTNhJBgQtjTw_j9zNfDNtp0DtDC6wH9lJcD7obhh9ujkfuk6E0FiX9qH3njE5mcNrtyaxWR3E2RO1ROmlx4B4YbjBtby_P9FXXpl-Be9voGWxC7PbkyVpBrk1zB3KanenH2jVRf_Uv48s4/s260-e100/geo.jpg"
@@ -51,94 +139,6 @@
       "author": "Ravie Lakshmanan",
       "category": "Hacking News",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnZSPrbeVOhfz52pccm_PbosfzvUlARZ8YoAhLmLd28aHQJ0Nw4T-TeYS2gCgc4bQaNS_c7sFfSFY-tQdGZDD4Uajt1hFhjPzl-XZVyoM72eC5vYStjyfuKwis_vDgrvUgTK7MUJx0kkEHwBJxmIuqp6qkPB-km81UXl6ycj1u9uIORUrVXtYz9L5-Julh/s260-e100/td.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8854735295899497250",
-      "title": "AmnesiaStealer Hijacks Chromium Sessions to Give Attackers Live Browser Control on macOS",
-      "summary": "Cybersecurity researchers have disclosed details of a new macOS-oriented, Rust-based information stealer called AmnesiaStealer that's capable of hijacking Chromium web browsers to steal session data. The multi-stage stealer is spread via a counterfeit GitHub download page titled ",
-      "url": "http://thehackernews.com/2026/08/amnesiastealer-hijacks-chromium.html",
-      "publishedAt": "2026-08-13T19:13:14.925+05:30",
-      "updatedAt": "2026-08-13T19:13:14.926+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Malware",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKseTvCwFqcMpefo-t9iVJcgB3VNAmPh_RHG1CadNUW-VA2Dn2NRE2HJQwnnwY9JqGD4AEElHZHGX9IlrT2Ts9ayfnIqk_sEJz4uSNzDi8wZhneDyiEovqm8LvP_8QTN5XoF92mQcWDeQFiS_1cJeOeWSC7J11alfbow-dRhIAOVL5y_ggDVEmsbDQSGpo/s260-e100/chrome-remote.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8352487863604946919",
-      "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
-      "summary": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which refers to a critical security feature bypass that stems from w",
-      "url": "http://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
-      "publishedAt": "2026-08-13T11:39:48.468+05:30",
-      "updatedAt": "2026-08-13T16:47:01.074+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_e1WsuZlqC_AfMpdI4wXB0wzIA6nGpPb5ktYmwO5jRhFqH2t56eGghhYAV7he6u0qTqiPacKD-Wf3c1vXxUmBV159KAObOJUTEDGdDafl9B0makdRgyKTUwWHZ5qxLpGbWRg33JJl_0KaY0K0fiWLaV2xghWX4KqUSeaoNgD9Z5ql1Q5VesZQyH-1eO7W/s260-e100/poc.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1936664231865211917",
-      "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
-      "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil, and",
-      "url": "http://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
-      "publishedAt": "2026-08-12T23:09:27.802+05:30",
-      "updatedAt": "2026-08-15T00:13:30.098+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1jrzxrBozKDsDhAGM8SBKcqbTE4M0zWSJqfp709iguQU21GwUzshBdYSvKkicSkfQD1bNsYhROcsx5p5vAT3jyM90H6w6p8imCjtLbHySKnpGKlsQqfSS-BhcdHNuwJKFPZfBiVkh49xDvJbRI-rvfBKePL6CeHYIWOpwvGG0T-ha3x__xznmdsYybs9v/s260-e100/windows-shell.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1066383333655676214",
-      "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-      "summary": "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords. The weakness affected encrypted reasoning objects used by the ",
-      "url": "http://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
-      "publishedAt": "2026-08-12T17:17:38.428+05:30",
-      "updatedAt": "2026-08-12T17:17:38.429+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZP21lJn1EY_0JXWBul8gpBgRD_ryI4ACYqFiu6icbKCgIMyta9UqjQrtnzjTkO1Yi9tdzTaQw6X949lzMwtQPKUPPIxA5_EwFjJqjMDwBtFSc56vaCyybwJNcsjVZMfMW4KHQ_VVCjz3AVeovFEtsI8ENZTQmQuc9rDIF5yd0n9uciJmwqlWS_EKf5mo/s260-e100/ai-models.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4655283795435125224",
-      "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
-      "summary": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation. The most severe of the flaws are listed below -",
-      "url": "http://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
-      "publishedAt": "2026-08-12T16:43:03.459+05:30",
-      "updatedAt": "2026-08-13T11:09:38.617+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj36vXq6xqWIDA09DIFwTp0gAZyTEpTdUoOrczmHr0NAOmxBDBySv4K6oEmzSup0sZylULeZlzf2unPADh99H5kx8-oktejFUPTM2t5aM6WrdTy99m6Qs12z4A58UYbqU2LhZRa20yY9FGy8FFB-pMvUFsA3MolrrA4nYOWVf9IS42Y0vUn3sMtu0BCty3g/s260-e100/adobe-cve.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-507401212454971518",
-      "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
-      "summary": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO. The vulnerability in question is CVE-2026-59310 (CVSS score: 9.8), a directory-traversal vulnerability in the VMware vCenter s",
-      "url": "http://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
-      "publishedAt": "2026-08-12T14:31:54.940+05:30",
-      "updatedAt": "2026-08-12T22:11:52.999+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuo4K_GT6YrQhFiPQrrf58NN4PQM0_aYVTxWXeaJ1KsqjBJ69c746Hj6DyhGH-uzhZvEowVR8YMbITHBpOcT3OQevcTJg36qwJ1WfPtFZySMVg_B2JVBE763_JVHh3gn563WAYxf72bnd1g9QC2tkWd6Bbm9_TWXPhMxk1vnk6gxnUM4eDQNxXouVEtJ9i/s260-e100/vmware.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4959767429613257806",
-      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
-      "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them. Threat intelligence firm CloudSEK now ",
-      "url": "http://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
-      "publishedAt": "2026-08-12T13:34:52.247+05:30",
-      "updatedAt": "2026-08-12T13:35:18.607+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Software Supply Chain",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjTLayRrpqM-bUGPU8pmWZIGJ_TCnkLLvykLv9Z_-R-QFmC1f6nIxSff2TTqZ77xC1n-l7Y44qKhUVdvRX9bUgNjVcGhF7A0vkRGnumHe6-bUoCFNH4PAb11zHkdjq3Xd2kF1jiGi8quRW4WFOy-0I_CRCorkQGuh9D2K8KhDAFxzsA7a0yxp2VkM-uGo/s260-e100/llmhack.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-478949204429883636",
-      "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
-      "summary": "SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution. The vulnerability, assigned the CVE identifier CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It has been des",
-      "url": "http://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
-      "publishedAt": "2026-08-12T13:01:40.333+05:30",
-      "updatedAt": "2026-08-12T13:01:40.333+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Enterprise Security",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbIbhajZdWb8FMAsUCcL8bufmUEbpuTCSFvKhvJgecxUZcO3rH1QV1bVNrOJ1W8oqge3sBIMwmHZxXR9l1PyrOGDEuAZZJkwFBmMlFGWwjU5-3CDmUQsz08HzrZ23kg9HSv3X7MrOryUe-T-PZCmpr8csna-nQcAg-b3RSeWiWsHuaBFAiJmjTrVI5WBQM/s260-e100/sap.jpg"
     }
   ]
 }
