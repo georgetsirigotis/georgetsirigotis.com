@@ -2,12 +2,45 @@
   "source": "https://thehackernews.com/feeds/posts/default/-/Vulnerability?alt=json&max-results=24",
   "sourceTitle": "The Hacker News | #1 Trusted Source for Cybersecurity News",
   "labelUrl": "https://thehackernews.com/search/label/Vulnerability",
-  "sourceUpdatedAt": "2026-08-21T11:16:24.988+05:30",
-  "generatedAt": "2026-08-21T05:49:14.480Z",
+  "sourceUpdatedAt": "2026-08-22T01:26:26.126+05:30",
+  "generatedAt": "2026-08-22T05:44:06.617Z",
   "retentionMonths": 6,
   "maxItems": 12,
   "itemCount": 12,
   "items": [
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1901192983867487220",
+      "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
+      "summary": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security vulnerabilities affect Crosswork Data Gateway, Crosswork Network Controller, and Crosswor",
+      "url": "http://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
+      "publishedAt": "2026-08-21T15:33:11.724+05:30",
+      "updatedAt": "2026-08-21T15:33:11.724+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis5Ujhq79PHPVr7VjuOjS0fOAyYm0aDTCJi9c5ieu-uya3FUM4Dh58yAT5U5J3VaXaGfNb4XowkyJ1lj3UTy8bOoF-u0O-5qdl-O7leomQjQw5jAI3m8WpZvC3se70f8mRP_KKIcScS0Nf9wJcsq4TWgiS_li3K6CSUbbG643IMhZBVGzW5XflwAbz0d1M/s260-e100/cisco.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5034838800185445602",
+      "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
+      "summary": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows an unauthenticated attacker to modify or ",
+      "url": "http://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
+      "publishedAt": "2026-08-21T12:34:25.738+05:30",
+      "updatedAt": "2026-08-21T12:34:25.739+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8jpyIqzuMd0vBKcxrQRj7eBbEebcRgNHLRFpx7YuxJlTPksUDEar7HPu4unQPNaOzpChBl1-dYyPHwuyjhgetrrh6PZ9OHPRqnc6nXeNdaX9f8AcSDe6gpmRecFfryf3-3BgsNoxvOyNc6xz703Qzsd7hJLuKbQt4Q6bgVxRZDGdpFzy8O2SByvUouC3J/s260-e100/gitlab-cve.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5981637457497793334",
+      "title": "Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution",
+      "summary": "Update: The story was updated after publication to note that the vulnerability has not been exploited. Although the security bulletin originally marked the \"Exploited\" field under the Exploitability Assessment table as \"Yes,\" on August 21, 2026, Microsoft corrected the \"Exploited",
+      "url": "http://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
+      "publishedAt": "2026-08-21T11:36:11.050+05:30",
+      "updatedAt": "2026-08-22T01:26:26.126+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid22xatm4tPGWO1VA9heA8p7i0iK4au3br36QORRasXlUO2uY5836xkZe6gywLOId9oHICopC6jZ8J-di4JI9O3CPOSOGsqoOR4Ps4DrEbKCXSXwMxX_wOGo0fY3zaTW4By4nzbY6jldD58kLAlBYfFxMOEeZOglaQu8R0TtT23Q2jLbQjHwJSoS21pqu5/s260-e100/entraid.jpg"
+    },
     {
       "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4643517499416210622",
       "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More",
@@ -106,39 +139,6 @@
       "author": "Swati Khandelwal",
       "category": "Vulnerability",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0aHi13XpphD98KUUKTJJB0T5eJW8TLe8qecYWanC8lqujxWOn4dtJUXThwqpfnrd9daSkiLMxXb7r6EFFbYY2fy3qSZteMtPB5Sl5t4K01MKoHywiyohPzUQX17h3oj126zywGtTEP8twGQnbs0wjaecaY8nLhAWXLw0anuJuL2iSJmKBVnzlZhy842E/s260-e100/nasa.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1964953964852855066",
-      "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
-      "summary": "Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution. The vulnerability, tracked as CVE-2026-32475, carries a CVSS score of 9.0 out of 10.0. It has been descr",
-      "url": "http://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
-      "publishedAt": "2026-08-20T11:34:34.449+05:30",
-      "updatedAt": "2026-08-20T11:34:34.449+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitKWjeNJOL_DEahUmMAYpH9qh94s2iFi8igtfSlAzOVWiUBU-EIM0MWMsFYPmA5NDL6Rs9E-w9vvCmw3Cc6Og0q-TDt87Q2hwYIePNAQ0xQ3OJYHzgCizDFm-YK9SxW4ncWnuVLaOzgb3SPO7Qpx17zHMaFzBQfYllgz5IP-p1jMALgWlasRkj1nV3Tq3G/s260-e100/wordpress.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1641799291855126428",
-      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
-      "summary": "Cybersecurity researchers have disclosed details of a remote Spectre attack against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits per second, 360 times the rate of an earlier attack demonstrated in 20",
-      "url": "http://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
-      "publishedAt": "2026-08-20T00:32:40.028+05:30",
-      "updatedAt": "2026-08-20T00:32:40.028+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Cloud Security",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi50HcHSWt796lc8zQ8Anp_fHUqgV-BM0xiS1NxJW8zRDgBRJ9ovZOECiIhdQt0aVTUdhduJYP1o5wTa5RpDoCwhihq8rKqWmh73E9E8UzafyDcq1n1khCEIDCikK2L6NEt1mbIuMRm6F36bap74JtZawFqqCPvWF72SAm25BzREVerWYaRIDEo1O89V4k/s260-e100/jwt.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8459003076841846289",
-      "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
-      "summary": "Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two authentication-bypass flaws, and a peer-to-peer (P2P) relay technique. The activity,",
-      "url": "http://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
-      "publishedAt": "2026-08-19T17:04:28.424+05:30",
-      "updatedAt": "2026-08-19T17:04:28.424+05:30",
-      "author": "Swati Khandelwal",
-      "category": "IoT Security",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMoFWi-QSod_BQxqARN9B9-f3XXRsEk-QHunmW3JSc9DHyZNKRK91l5KTzt_DYxGnTUtGqRMo1WHR9zfREMAXDAeDOYFgXpSJdgyUXHgOGTnpiokI06ZsJ1syAzn8GYlkzZqr6L73IsPJDAKgCbobSSkzZfWfJPapFiVJS4Kc1DyP3SBsMFgyZjCL6V6Y/s260-e100/camera.jpg"
     }
   ]
 }
