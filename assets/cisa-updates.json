@@ -1,13 +1,49 @@
 {
   "source": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
   "sourceTitle": "CISA Catalog of Known Exploited Vulnerabilities",
-  "catalogVersion": "2026.08.26",
-  "sourceReleasedAt": "2026-08-26T17:00:09.8976Z",
-  "generatedAt": "2026-08-27T16:32:29.587Z",
+  "catalogVersion": "2026.08.27",
+  "sourceReleasedAt": "2026-08-27T17:00:36.6632Z",
+  "generatedAt": "2026-08-28T17:27:33.634Z",
   "retentionMonths": 6,
   "maxItems": 12,
   "itemCount": 12,
   "items": [
+    {
+      "cveID": "CVE-2023-49105",
+      "vendorProject": "ownCloud",
+      "product": "ownCloud",
+      "vulnerabilityName": "ownCloud Improper Authentication Vulnerability",
+      "dateAdded": "2026-08-27",
+      "dueDate": "2026-08-30",
+      "knownRansomwareCampaignUse": "Unknown",
+      "shortDescription": "ownCloud contains an improper authentication vulnerability that allows an attacker to access, modify, or delete any file without authentication if the username of a victim is known, and the victim has no signing-key configured.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "url": "https://owncloud.org/security"
+    },
+    {
+      "cveID": "CVE-2026-53362",
+      "vendorProject": "Linux",
+      "product": "Kernel",
+      "vulnerabilityName": "Linux Kernel Unspecified Vulnerability",
+      "dateAdded": "2026-08-27",
+      "dueDate": "2026-08-30",
+      "knownRansomwareCampaignUse": "Unknown",
+      "shortDescription": "Linux Kernel contains an unspecified vulnerability that can allow for privilege escalation via IPv6 networking subsystem. This vulnerability can impact multiple products, including but not limited to Suse, Red Hat, and other products using Linux. ",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "url": "https://git.kernel.org/stable/c/14200d435af9a9eeb444f529fc2f689a236b7962"
+    },
+    {
+      "cveID": "CVE-2026-66384",
+      "vendorProject": "JFrog",
+      "product": "Artifactory",
+      "vulnerabilityName": "JFrog Artifactory Improper Limitation of a Pathname to a Restricted Directory Vulnerability",
+      "dateAdded": "2026-08-27",
+      "dueDate": "2026-09-10",
+      "knownRansomwareCampaignUse": "Unknown",
+      "shortDescription": "JFrog Artifactory contains an improper limitation of a pathname to a restricted directory vulnerability. This can allow an authenticated user to write data outside the intended Docker cache path under specific remote-repository conditions.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "url": "https://docs.jfrog.com/releases/docs/jfrog-security-advisories"
+    },
     {
       "cveID": "CVE-2021-23758",
       "vendorProject": "Ajax.NET Professional",
@@ -115,42 +151,6 @@
       "shortDescription": "Zimbra Collaboration Suite (ZCS) contains an OS command injection vulnerability which could allow an unauthenticated attacker to send specially crafted SMTP requests that may result in execution of arbitrary operating system commands as the Zimbra user.",
       "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
       "url": "https://wiki.zimbra.com/wiki/Zimbra_Security_Advisories"
-    },
-    {
-      "cveID": "CVE-2026-72530",
-      "vendorProject": "TrueConf",
-      "product": "Server",
-      "vulnerabilityName": "TrueConf Server Code Injection Vulnerability",
-      "dateAdded": "2026-08-20",
-      "dueDate": "2026-09-03",
-      "knownRansomwareCampaignUse": "Unknown",
-      "shortDescription": "TrueConf Server contains a code injection vulnerability that could allow an unauthorized remote attacker with network access via port 4307/TCP to use a specially crafted script to break out of the isolated environment and execute arbitrary code on the host system.",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "url": "https://trueconf.com/blog/news/security-fixes-updates-and-advisories"
-    },
-    {
-      "cveID": "CVE-2026-72529",
-      "vendorProject": "TrueConf",
-      "product": "Server",
-      "vulnerabilityName": "TrueConf Server Missing Authentication for Critical Function Vulnerability",
-      "dateAdded": "2026-08-20",
-      "dueDate": "2026-08-23",
-      "knownRansomwareCampaignUse": "Unknown",
-      "shortDescription": "TrueConf Server contains a missing authentication for critical function vulnerability which could allow a remote unauthorized attacker with network access via port 4307/TCP to execute an arbitrary script.",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "url": "https://trueconf.com/blog/news/security-fixes-updates-and-advisories"
-    },
-    {
-      "cveID": "CVE-2026-64849",
-      "vendorProject": "MLflow",
-      "product": "MLflow",
-      "vulnerabilityName": "MLflow Server-Side Request Forgery Vulnerability",
-      "dateAdded": "2026-08-19",
-      "dueDate": "2026-09-02",
-      "knownRansomwareCampaignUse": "Unknown",
-      "shortDescription": "MLflow contains a server-side request forgery vulnerability that can allow attackers to reach internal or cloud metadata services and receive response_status and response_body.",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "url": "https://github.com/mlflow/mlflow/pull/24258"
     }
   ]
 }
