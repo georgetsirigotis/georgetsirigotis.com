@@ -2,8 +2,8 @@
   "source": "https://thehackernews.com/feeds/posts/default/-/Vulnerability?alt=json&max-results=24",
   "sourceTitle": "The Hacker News | #1 Trusted Source for Cybersecurity News",
   "labelUrl": "https://thehackernews.com/search/label/Vulnerability",
-  "sourceUpdatedAt": "2026-08-30T13:06:33.395+05:30",
-  "generatedAt": "2026-08-30T10:30:01.152Z",
+  "sourceUpdatedAt": "2026-08-31T17:04:15.275+05:30",
+  "generatedAt": "2026-08-31T11:37:25.617Z",
   "retentionMonths": 6,
   "maxItems": 12,
   "itemCount": 12,
@@ -36,7 +36,7 @@
       "summary": "Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released a fresh emergency fix with additional hardening. \"This vulnerability gives an unauthenticated attacker remote control ov",
       "url": "http://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
       "publishedAt": "2026-08-28T22:42:15.408+05:30",
-      "updatedAt": "2026-08-29T20:50:01.081+05:30",
+      "updatedAt": "2026-08-31T11:42:10.181+05:30",
       "author": "Ravie Lakshmanan",
       "category": "Vulnerability",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdtPabCvuR_F2UFdCw8LS5eoXtD-jOpbuCy8WZYRycSP2vu_6yQK45qTehHimhoS-eXFPMTwg5jNM3m_X7ma5ELVz60Rjt3rlQhrqE4iTz8ggysLCt388GyaBVQbT28sGDv9a6drKNZooBiQNy0L3v8Gc3vxB9JILUD-eTtj5LZAlBbA3EyLlp5SkgIKPG/s260-e100/1000103914.jpg"
@@ -102,7 +102,7 @@
       "summary": "PaperCut has alerted customers that bad actors are actively exploiting a vulnerability impacting all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. The company has released an emergency patch for v25 and v26 to address the issue. It sai",
       "url": "http://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
       "publishedAt": "2026-08-28T13:55:36.584+05:30",
-      "updatedAt": "2026-08-28T13:55:36.584+05:30",
+      "updatedAt": "2026-08-31T11:40:30.871+05:30",
       "author": "Ravie Lakshmanan",
       "category": "Vulnerability",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3avAnoYOOKqF8JpZv9Lng1lKE0AqmHOqM-Mq2T297NQrtDBM90yMYIzzVMHgzqytcCvFz7LuBXoPp-d9mRh0_dywBaM8NxZaiKPG0gDuYbSt2oRJdxSkHG5tWjxAMKvWUYZe6YINf_-7i5zUS7xGrDcaXulRvT5jVihWDJzAHSlaXQ6UYlHa6cPMpxbDC/s260-e100/papercut.jpg"
