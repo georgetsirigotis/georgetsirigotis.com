@@ -2,12 +2,45 @@
   "source": "https://thehackernews.com/feeds/posts/default/-/Vulnerability?alt=json&max-results=24",
   "sourceTitle": "The Hacker News | #1 Trusted Source for Cybersecurity News",
   "labelUrl": "https://thehackernews.com/search/label/Vulnerability",
-  "sourceUpdatedAt": "2026-08-31T17:04:15.275+05:30",
-  "generatedAt": "2026-08-31T11:37:25.617Z",
+  "sourceUpdatedAt": "2026-09-01T14:35:30.244+05:30",
+  "generatedAt": "2026-09-01T10:09:42.271Z",
   "retentionMonths": 6,
   "maxItems": 12,
   "itemCount": 12,
   "items": [
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6320490168137822016",
+      "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
+      "summary": "METR (short for Model Evaluation and Threat Research and pronounced \"Meter\"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic tasks, disclosed that it suffered \"two notable security incidents\" ",
+      "url": "http://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
+      "publishedAt": "2026-09-01T14:35:30.243+05:30",
+      "updatedAt": "2026-09-01T14:35:30.244+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Cyber Attack",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2b-1gQHvYc7ZLc86QFtZ2LoJ7zFalpJtSy_e_laxiM_f4Ftnhuvp5eCJZRSk2NL_0tZAZAl2z1UPYfOBSTbdGOPOZexgt3GkuUqsrZPgFB2F-qG2Ir_c7Ioj6zcJVdWjzBo90HpcObPWan5eID2df6OXyn3F7-LRpdOvO8TfiZSp8L2j89p2UbsDi3zM4/s260-e100/metr.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-630456353113805024",
+      "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
+      "summary": "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck. The vulnerabilities in question are listed below - CVE-2026-0768 (CVSS score: 9.8) - A lack of proper validation of a user-supplied input vulnerability ",
+      "url": "http://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
+      "publishedAt": "2026-09-01T12:52:30.101+05:30",
+      "updatedAt": "2026-09-01T12:53:04.448+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9_EygYWh8fZRphLL1V9dg-h1jgQ0f9xmlVuPwPAaaEUUCBkKbQ4nTaL27WIevCJg42GWtDGMKyRvzBUz9MWtD2FxPx7vCKwXLirO-N1YRcpPy0mX_B_fTG2gBS-JPRJGXfCh_I2yHJgoi1V5lve7Opcm-M0ApWs6gohPjNhBi-0CsP49guHlM2lzHLsiD/s260-e100/lang.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5201960337840437773",
+      "title": "⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
+      "summary": "The boring parts caused most of the trouble. A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs. Old bugs formed new attack chains. Even an AI agent decided its assigned task wa",
+      "url": "http://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
+      "publishedAt": "2026-08-31T19:20:00.294+05:30",
+      "updatedAt": "2026-08-31T19:20:00.294+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Cybersecurity",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEQHUlnyxCIYFLSRsvotvppFdq5zZ2BQQXJ4PI03uluqvzH3d4FhLogVr2pn0zbUGUQlQQXrk53CDaRZ3q4jC3wLxxG9NPQMtAsx0qkU4yatwjEogU-3RF4s2jpxb394Sd2JMEYhBKbv9TJd41QqI3WRZEcd5UWHXvszq1cKblrRBthblIYeefUx3wPbBM/s260-e100/recap.jpg"
+    },
     {
       "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4198398808591118077",
       "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
@@ -36,7 +69,7 @@
       "summary": "Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released a fresh emergency fix with additional hardening. \"This vulnerability gives an unauthenticated attacker remote control ov",
       "url": "http://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
       "publishedAt": "2026-08-28T22:42:15.408+05:30",
-      "updatedAt": "2026-08-31T11:42:10.181+05:30",
+      "updatedAt": "2026-09-01T12:05:11.482+05:30",
       "author": "Ravie Lakshmanan",
       "category": "Vulnerability",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdtPabCvuR_F2UFdCw8LS5eoXtD-jOpbuCy8WZYRycSP2vu_6yQK45qTehHimhoS-eXFPMTwg5jNM3m_X7ma5ELVz60Rjt3rlQhrqE4iTz8ggysLCt388GyaBVQbT28sGDv9a6drKNZooBiQNy0L3v8Gc3vxB9JILUD-eTtj5LZAlBbA3EyLlp5SkgIKPG/s260-e100/1000103914.jpg"
@@ -106,39 +139,6 @@
       "author": "Ravie Lakshmanan",
       "category": "Vulnerability",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3avAnoYOOKqF8JpZv9Lng1lKE0AqmHOqM-Mq2T297NQrtDBM90yMYIzzVMHgzqytcCvFz7LuBXoPp-d9mRh0_dywBaM8NxZaiKPG0gDuYbSt2oRJdxSkHG5tWjxAMKvWUYZe6YINf_-7i5zUS7xGrDcaXulRvT5jVihWDJzAHSlaXQ6UYlHa6cPMpxbDC/s260-e100/papercut.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-848720871913294579",
-      "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
-      "summary": "OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late May. The incident, the company said, took place during cybersec",
-      "url": "http://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
-      "publishedAt": "2026-08-28T00:06:19.179+05:30",
-      "updatedAt": "2026-08-28T13:31:32.184+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Artificial Intelligence",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpo4ImsmaHcawsJN9e4E5SzjUF-nbgOxCyybx3DIguSY_exMP1jhR2BZJ3yE2ZqGOE5c6_NvldW6id4Nm_NgcVrrRPALnw1fNbiisTiy8QFiIKriNiWRq6JMb5QcQTcDBaV_T3r6QYR9VC_FwtLg-G6lSYNM0F3n7q_HXI7aScGzMNB-OwLs6U9iqdk7Gs/s260-e100/openai.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7592756425046301870",
-      "title": "Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE",
-      "summary": "Credit: Hacktron Vercel has released security patches for two critical-severity vulnerabilities in the Next.js web framework, both of which allow unauthenticated remote code execution, one exploitable via specially crafted AVIF image files and the other through a path traversal f",
-      "url": "http://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html",
-      "publishedAt": "2026-08-27T20:43:00.960+05:30",
-      "updatedAt": "2026-08-27T20:46:14.500+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYbQmCgjQOeGU5sXrRRnYNbfxDed_Evv1vYrDL4L4NOguQ5wIxE6glQW7yQvhR1Dzs4Gbddc2ktadXWc2VkaGHE4pvMmjaXHMRuepjwrzefXNHb6B3Shk51VRBQw0etS5WWsS9JuNN4q_Y8lDSFtzKNEgi2X-NvAllwzw5_03HwGdC7iNJc6METEjcUNc/s260-e100/nodejs.gif"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3332430691878409384",
-      "title": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
-      "summary": "A fake login page. A fake security scan. A fake productivity app. Apparently, pretending to be useful is still one of the easier ways into a machine. The rest of the week gets stranger: botnets borrowing AI, command traffic hiding in public infrastructure, malicious tools waiting",
-      "url": "http://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
-      "publishedAt": "2026-08-27T20:42:16.466+05:30",
-      "updatedAt": "2026-08-28T13:32:10.024+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Hacking News",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwWCb2shFhaav60Wjr2-8DoStCVaQrYqkE6EBZ8F5sREap-Khi19y-w9NVmFHyHosV6xVB0fTeN_DcSpGIyCZ621SnjqZozRVG70ceOey_D8djA5r5rpP9tFkRSESgs4kHZilTMoz2y8uqX-iTLR0JjjZkhypYjCCAEvQKzyU7xarQpt3sYvJc-fnWSWlb/s260-e100/threats.jpg"
     }
   ]
 }
