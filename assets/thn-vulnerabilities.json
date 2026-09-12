@@ -2,12 +2,45 @@
   "source": "https://thehackernews.com/feeds/posts/default/-/Vulnerability?alt=json&max-results=24",
   "sourceTitle": "The Hacker News | #1 Trusted Source for Cybersecurity News",
   "labelUrl": "https://thehackernews.com/search/label/Vulnerability",
-  "sourceUpdatedAt": "2026-09-11T13:01:05.301+05:30",
-  "generatedAt": "2026-09-11T09:45:20.601Z",
+  "sourceUpdatedAt": "2026-09-12T14:37:56.005+05:30",
+  "generatedAt": "2026-09-12T09:24:20.205Z",
   "retentionMonths": 6,
   "maxItems": 12,
   "itemCount": 12,
   "items": [
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-9009428608589687012",
+      "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
+      "summary": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. On May 12, Maciej Mensfeld, senior product manager for software supply ch",
+      "url": "http://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
+      "publishedAt": "2026-09-12T14:37:56.004+05:30",
+      "updatedAt": "2026-09-12T14:37:56.005+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSyR4P1ZPtVeXKeb60Ut1xdO4OhRvHWFmoYNgM7SI3NEwfwcTi3Ut60xwcqIfP56OzGFtixKW4Aeo14cVZNE6TPmpC-x8qFgofgMToETQ82bp1aMIMBuaOER2Rq6PkhONMhZPGLFSKFfxVjY4_zDNJOXYHPbQaorfgr74o2PimTPeCf1hgZQ0spe-nJoiU/s260-e100/rubygems-openai.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8207261269349575298",
+      "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
+      "summary": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure. The vulnerability in question is CVE-2026-85706 (CVSS score: 10.0), a path traversal issue in the re",
+      "url": "http://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
+      "publishedAt": "2026-09-11T22:00:18.938+05:30",
+      "updatedAt": "2026-09-12T14:23:51.493+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioFH6aWhF9NgRW1O3yFExc7paTA9akN5-3IUQF8mvEiSTaFJjKvm6YQzFX6MP2uimYplHe1MJXz6eZtPtnxaLy25jJBhU6KuhsWFpIlnqhbn6OI6QTcfp6Olp1-VDUEF4KEYFF7hQDBdmgtxibsg9MkvbcOJIlR8Of2Flyw2m9zYfXC6gUm-TV8XA6vU43/s260-e100/gitlab-wild.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-217916837299982814",
+      "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
+      "summary": "Security teams have become exceptionally talented at finding vulnerabilities. Now, it’s time to turn our attention to optimizing the process for determining which of those vulnerabilities actually create a path to compromise. A critical vulnerability may look alarming on a scanne",
+      "url": "http://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
+      "publishedAt": "2026-09-11T17:00:00.000+05:30",
+      "updatedAt": "2026-09-11T17:00:00.317+05:30",
+      "author": "Unknown",
+      "category": "Penetration Testing",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPPe_ve3Cylrq2fJ8HTFPebWF7lR7tvzMvL3mwFcGZNF2KWesOGc66BfO7NbiPxmsiao8jcItyikguKNqsEGfpJEcAvacbP7rflAaAT-e0Y1IbsNCNvdqvXMbwERLlPpV0PMhk9c5esoEjCE97wglh8rU9xZ7eGz2N4BOpzFYTb9-Ln3FaBRQiscqzK7U/s260-e100/breachlock.jpg"
+    },
     {
       "id": "tag:blogger.com,1999:blog-4802841478634147276.post-561102034028206476",
       "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
@@ -106,39 +139,6 @@
       "author": "Swati Khandelwal",
       "category": "Cloud Security",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfjbI1DXHJ4wQzSRFbddkmgQ9CTLSPPGP8fcQ6a37qbwKvgd4JxU51YhADR8S4IsWaiQ4fRApn-ih4m0AhsizM3wa6aJ3P8MlgBztNQm-oH4bE_TkPsmUZHhblcNMrQFxGdWnDHePCQDcSz-AJeWMoKH6YVcXXFCjK2ajZfbmObdeVkWmvv8O_fufqsl0/s260-e100/litellm.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8215137575346111595",
-      "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
-      "summary": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrome. The first in-the-wild use of BlueMoon has been attributed to",
-      "url": "http://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
-      "publishedAt": "2026-09-09T22:04:05.815+05:30",
-      "updatedAt": "2026-09-10T12:10:35.003+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxouoVfK0MjZpruL0J1chmWnC7avUov1fOLbgX-XyFGrTcXeOh08tVntBjzJ7wBMmOB3P-PpxMr6E868Wpsaky-b-Nrf1LajzoQFfmjnkI1KHQzGXrCcVnC57nF2ndYZHCLx5WA3dENCWmCbZlSAb5TC-p8DXCGWxWB7I3iRIsdMMk6SS6IV03722lZIS4/s260-e100/spy.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6984996824537517729",
-      "title": "Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE",
-      "summary": "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed? For many security teams, answering that means jumping between vulnerability scanners, endpoint tools, cloud inventories, SBOMs, repositories, and application ",
-      "url": "http://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
-      "publishedAt": "2026-09-09T17:27:36.604+05:30",
-      "updatedAt": "2026-09-09T17:27:36.605+05:30",
-      "author": "Unknown",
-      "category": "Security Operations",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6J-Pt0v8CDXEvzMCsK37Gumde1WYysaqiuzK3Rg_dGXBeFEhbxFpLRbwaFSMOVcAz5XsbJXD9977trBg0eHEY-x4mZiu9W4ASLWGnIIA4kWkTmtIF-uBYlQWfLhQjAUL0llbl1Jn2hKfz5Wr78TR4Retzt9PlGD4mEGifQCvrEfFfqMy5966fDGvFHgY/s260-e100/tines-webinar.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3525999956997343161",
-      "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
-      "summary": "A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command. The tool runs an agent's commands inside an operating-system sandbox, so that an agent working on u",
-      "url": "http://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
-      "publishedAt": "2026-09-09T16:47:07.239+05:30",
-      "updatedAt": "2026-09-09T16:47:07.240+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0fUTc6rz4ZeeaMmjDLOfb2qNhnJf_TdNHK3F3qbNCQLLJbaF-nbSw5YPdeSAwg1HjoGwfQJZaXBpwvEbasFDhQb5ZkUm158shateq7uubMyrlejW4SDZAAzNQGUYkYdsxHupipxzRA7dQwTwTt9ArVJgU-wA5bGxIXduJj3CdyBF69Ixp6_qAU1LGzfI/s260-e100/deepseek.jpg"
     }
   ]
 }
