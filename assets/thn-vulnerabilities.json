@@ -2,19 +2,30 @@
   "source": "https://thehackernews.com/feeds/posts/default/-/Vulnerability?alt=json&max-results=24",
   "sourceTitle": "The Hacker News | #1 Trusted Source for Cybersecurity News",
   "labelUrl": "https://thehackernews.com/search/label/Vulnerability",
-  "sourceUpdatedAt": "2026-09-12T14:37:56.005+05:30",
-  "generatedAt": "2026-09-12T09:24:20.205Z",
+  "sourceUpdatedAt": "2026-09-13T15:43:14.676+05:30",
+  "generatedAt": "2026-09-13T10:18:57.117Z",
   "retentionMonths": 6,
   "maxItems": 12,
   "itemCount": 12,
   "items": [
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2162689053693183343",
+      "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.",
+      "url": "http://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
+      "publishedAt": "2026-09-12T21:24:45.724+05:30",
+      "updatedAt": "2026-09-12T21:24:45.724+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhva55LDIsAmtR2cRnUJw2XZ3Rvo4YhdJe39cfng8EZ1oHjLevxwRcYoFdg-ydI2I7fdt9OxGj7aMcaHMekZmy9hwSlopIZ4_KQgRnmiSy0OfGh8zO26StiEeOsHaQ4fYed0dbEUCUcz4gJM9Lu6Wt7m-ppDmI7iMl52-cRfQfsu9d90Sp2ncuvbVpAPupe/s260-e100/jj.jpg"
+    },
     {
       "id": "tag:blogger.com,1999:blog-4802841478634147276.post-9009428608589687012",
       "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
       "summary": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. On May 12, Maciej Mensfeld, senior product manager for software supply ch",
       "url": "http://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
       "publishedAt": "2026-09-12T14:37:56.004+05:30",
-      "updatedAt": "2026-09-12T14:37:56.005+05:30",
+      "updatedAt": "2026-09-13T15:28:38.469+05:30",
       "author": "Ravie Lakshmanan",
       "category": "Vulnerability",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSyR4P1ZPtVeXKeb60Ut1xdO4OhRvHWFmoYNgM7SI3NEwfwcTi3Ut60xwcqIfP56OzGFtixKW4Aeo14cVZNE6TPmpC-x8qFgofgMToETQ82bp1aMIMBuaOER2Rq6PkhONMhZPGLFSKFfxVjY4_zDNJOXYHPbQaorfgr74o2PimTPeCf1hgZQ0spe-nJoiU/s260-e100/rubygems-openai.jpg"
@@ -25,7 +36,7 @@
       "summary": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure. The vulnerability in question is CVE-2026-85706 (CVSS score: 10.0), a path traversal issue in the re",
       "url": "http://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
       "publishedAt": "2026-09-11T22:00:18.938+05:30",
-      "updatedAt": "2026-09-12T14:23:51.493+05:30",
+      "updatedAt": "2026-09-12T15:07:28.335+05:30",
       "author": "Ravie Lakshmanan",
       "category": "Vulnerability",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioFH6aWhF9NgRW1O3yFExc7paTA9akN5-3IUQF8mvEiSTaFJjKvm6YQzFX6MP2uimYplHe1MJXz6eZtPtnxaLy25jJBhU6KuhsWFpIlnqhbn6OI6QTcfp6Olp1-VDUEF4KEYFF7hQDBdmgtxibsg9MkvbcOJIlR8Of2Flyw2m9zYfXC6gUm-TV8XA6vU43/s260-e100/gitlab-wild.jpg"
@@ -128,17 +139,6 @@
       "author": "Ravie Lakshmanan",
       "category": "Vulnerability",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7j6Sm8OqDeYzrbb5faLBuDOc0zIMlvfjiKbn1aCMpx_2iBl6gb3HhJhpbqU8SPajHUClJEXUwnFbY1DcubmzWeVaWCyGcHkw45rCYqU_4IFO_g4OwdyNrTFFK3l3YsXwfOWQj2QtW3UTeglKmyRJ4GvbVKMxLTByMgeZ7E0WWpxpi50qie2lx9DbCY9rr/s260-e100/cisa-list.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8246411968475905083",
-      "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
-      "summary": "Nearly one in ten of the internet-facing LiteLLM servers that Wiz Research scanned in February accepted sk-1234, the example admin key in LiteLLM's own setup guide. LiteLLM is an open-source AI gateway, the software a company puts between its applications and the model providers ",
-      "url": "http://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
-      "publishedAt": "2026-09-10T12:42:55.229+05:30",
-      "updatedAt": "2026-09-10T12:43:24.880+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Cloud Security",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfjbI1DXHJ4wQzSRFbddkmgQ9CTLSPPGP8fcQ6a37qbwKvgd4JxU51YhADR8S4IsWaiQ4fRApn-ih4m0AhsizM3wa6aJ3P8MlgBztNQm-oH4bE_TkPsmUZHhblcNMrQFxGdWnDHePCQDcSz-AJeWMoKH6YVcXXFCjK2ajZfbmObdeVkWmvv8O_fufqsl0/s260-e100/litellm.jpg"
     }
   ]
 }
