@@ -1,9 +1,9 @@
 {
   "source": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
   "sourceTitle": "CISA Catalog of Known Exploited Vulnerabilities",
-  "catalogVersion": "2026.09.22",
-  "sourceReleasedAt": "2026-09-22T19:02:09.9788Z",
-  "generatedAt": "2026-09-23T10:01:01.171Z",
+  "catalogVersion": "2026.09.23",
+  "sourceReleasedAt": "2026-09-23T12:51:35.821Z",
+  "generatedAt": "2026-09-24T10:04:15.176Z",
   "retentionMonths": 6,
   "maxItems": 12,
   "itemCount": 12,

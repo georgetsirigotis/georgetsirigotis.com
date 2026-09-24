@@ -2,12 +2,67 @@
   "source": "https://thehackernews.com/feeds/posts/default/-/Vulnerability?alt=json&max-results=24",
   "sourceTitle": "The Hacker News | #1 Trusted Source for Cybersecurity News",
   "labelUrl": "https://thehackernews.com/search/label/Vulnerability",
-  "sourceUpdatedAt": "2026-09-23T13:59:48.356+05:30",
-  "generatedAt": "2026-09-23T10:01:01.727Z",
+  "sourceUpdatedAt": "2026-09-24T14:44:21.511+05:30",
+  "generatedAt": "2026-09-24T10:04:15.887Z",
   "retentionMonths": 6,
   "maxItems": 12,
   "itemCount": 12,
   "items": [
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8934481038872648640",
+      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
+      "summary": "Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure. The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an unauthenticated attacker to obtain remote code execution (RCE). \"An unauth",
+      "url": "http://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
+      "publishedAt": "2026-09-24T11:06:18.564+05:30",
+      "updatedAt": "2026-09-24T11:06:18.565+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizoRcyQE1N3fGUKa2FY_q_T7EG_CyjTpMGGk1oFUF-XpBZa0zCA6V2yEuv3_Z1OrEjMmhbHdaVmo6NMrwb98U9VFGXDpRcItboVuZH7qc9QgPd5ZLDudfJPWoaSDbtkoXJeLTZw-6JDbq5F6YEp4AkeoJd10Nb_H9tuU0fYdgqkLrP6BTpAPOYwO6WdmkN/s260-e100/wordpress-exploits.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5631030368940879288",
+      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+      "summary": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication. The chain, which CERT Polska calls MikroTrick, combines an SSH state-machine flaw (CVE-2",
+      "url": "http://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
+      "publishedAt": "2026-09-23T21:36:41.489+05:30",
+      "updatedAt": "2026-09-23T21:36:41.489+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjudzrtqX93WzCbZQoGI06WzKFtFpQsZaQB7GUao4yzBncGN3nxn0GzmYNybpL9SeKFttznMsVCZpQEQ_fD5kP_0nJRL4ZN6ZgHrXR2c33bpZN33gEyIkk6aBtx0k7znzalUe6epmrCO5VSCCH6beY_chvz9Pl0t5BbBtCLntTnNMwi3cFPXFd0p09FxA4/s260-e100/microtik.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1441986270317655617",
+      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
+      "summary": "A flaw in cPanel's CalDAV and CardDAV service lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22. A second bug in the WP Toolkit plugin, used to install and manage WordPress sites, allows an account h",
+      "url": "http://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
+      "publishedAt": "2026-09-23T17:46:00.164+05:30",
+      "updatedAt": "2026-09-23T17:46:00.164+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT5quc0dmRWhh6WOC80Gx9QoHTMYyq5srnXBXjybOKZk_qoUn1Q2nKLE9MifqCEyRIha_NFvRsyr8Nx5EyxGIREXaTb5Fh59cz4Ln8yZj9Zv7piqM49wmm7rfmchW1cVlss1wn47qNypaYarZUVNHBO8rzXaYTvRMi9u1phgfXVd8OZx8_Vjxm34684BE/s260-e100/cpanel-0day.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5953951710467275608",
+      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
+      "summary": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: confident prose, a list of findings, and no way to tell which of them happened. So",
+      "url": "http://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
+      "publishedAt": "2026-09-23T17:17:19.703+05:30",
+      "updatedAt": "2026-09-23T17:17:19.703+05:30",
+      "author": "Unknown",
+      "category": "Artificial Intelligence",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio2c14ELRJEhvTuDrxQmhUG4G9aGoVRrooBMMfuK7LyHPKW6HuJbI9PkKF-WG_5HlEz8NKcuj08XRmv1jNqfBtiDwXmC7e9P9lxoSHK5nUz023YCgoLQuo0BI_9hX4U9Vv97bGJejb4W0jvgv_3btkfj6BWnXwalfyI3k34wveC6n3k47ZdoGq2P0Yaw0/s260-e100/main.png"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1070227164637203757",
+      "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
+      "summary": "A use-after-free in the Linux kernel's AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst said in research published September 22. The flaw, tracked as CVE-2026-80521 (CVSS score: 7.8), was fixed upstream on August 6, bu",
+      "url": "http://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
+      "publishedAt": "2026-09-23T16:42:18.982+05:30",
+      "updatedAt": "2026-09-23T16:46:14.534+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZjw_aCdQxMfwTv_-KFLK5KRCd96MoivCQPTAZcAWJal5_84FgCny9Um8csMgDDqta40CUGMPDO14hdbUo9CRk-FMJwY70MsDfV25AC8VmL-8_yDO_UWHYXbmeJ9jZANptIeHqJX9axqzxxn68AHEj8zFhYbh8coIbxWAVC9XbtG9CjxMBpQqclG14QuM/s260-e100/linux.gif"
+    },
     {
       "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3798492638808435311",
       "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
@@ -47,7 +102,7 @@
       "summary": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency. \"We have compromised the FBI. We hold very sensitive data on almost ALL FBI Agents ",
       "url": "http://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
       "publishedAt": "2026-09-23T11:00:09.708+05:30",
-      "updatedAt": "2026-09-23T11:00:09.708+05:30",
+      "updatedAt": "2026-09-24T13:17:26.132+05:30",
       "author": "Ravie Lakshmanan",
       "category": "Data Breach",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBUSHHkVbK1vPy2WO_E9jEZ2NEd8UcPTpCFgCYTkbSPiSzDEpXRe6HRXan3z9Xg1huRk3-47hZbveFeG06vkRhAmGuL73zdPFjQEkVb6LISZIcHpPugYCMKQPtsEIihip_T7F1GWczJNWNTikwbM-SzC_UNeQsUjrg6AIeHYBwOnpOUlSOWyimHb07TzWz/s260-e100/shinyhunters.png"
@@ -80,65 +135,10 @@
       "summary": "A critical vulnerability in Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway server with a single HTTP request. The flaw, tracked as CVE-2026-90898 (CVSS score: 9.8),",
       "url": "http://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
       "publishedAt": "2026-09-22T22:11:12.992+05:30",
-      "updatedAt": "2026-09-22T22:11:12.992+05:30",
+      "updatedAt": "2026-09-23T21:59:04.873+05:30",
       "author": "Swati Khandelwal",
       "category": "Artificial Intelligence",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieRvfWKvxkIOajVIJ1qC7l54ZBCtHMwZTfUHGqSZ_35vGzAl23py6GfaqrxYkcfWZ_K75t9BGC6btqJQiS9jwaV7O4kJsCSIIQxmn9VnZrBbdjxSN4AzQ05K9G-ES82qV1G6IUcsBetsb0mVO5e5IHTr2FyAA3gtCN8Vne5N1H5Swgd2FLLlwi0GXFQ0o/s260-e100/bifrost.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-316335155298708125",
-      "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
-      "summary": "A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was published on GitHub on September 19. The tool, called BigDiskBuster, has no patch, no CVE, and no Microsoft advisory. Its author, ",
-      "url": "http://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
-      "publishedAt": "2026-09-22T21:44:04.786+05:30",
-      "updatedAt": "2026-09-22T21:44:04.786+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf-fkqiHh6b0UEKMHUcsG54QVwJxghIbQLMNWeEG5LWKfUsicLMxisz4Mi8lXdfTdwVYDFpIrCFj5D7-JXXynq8lWhnNn1rJH2t8mgKUeZ4WMePwZktZRnIe2549JW3VXc2HYD9qpsvO8He0J0zCyAzsaRxWtiP46RSrd7jt4QnzKACJhfWnkmyWcFcQs/s260-e100/ms-def.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8440344876738373118",
-      "title": "New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups",
-      "summary": "Attackers are exploiting a new flaw in on-premises VeloCloud Orchestrator (VCO), the server that manages the Edge devices in a VeloCloud SD-WAN, Arista said on September 22. The flaw, tracked as CVE-2026-93952, may allow a remote attacker with no login access to privilege interna",
-      "url": "http://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html",
-      "publishedAt": "2026-09-22T17:59:00.000+05:30",
-      "updatedAt": "2026-09-22T18:03:45.780+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN5Up_REU7_SnA-Ce9D8UGRsM8WbkkcjR6kjirzb-tSFejrL-qnZkXrp2gNa3OA-4PgvkUqHs59j9Qc8srbfm2JOUIOvEa1c_d8Il3kUDAGyr49FuXwq_n438Vf9txfq1fVwcpykkZAKz1o2QFGUJDLF4wnXzNWLdH1tYft3bd-vJywPppGjEfoikG22s/s260-e100/VeloCloud.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2615883969626041054",
-      "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
-      "summary": "A new flaw in the Linux kernel's KVM virtualization code for ARM64 processors can leave a freed piece of host memory exposed to a guest virtual machine on hosts with nested virtualization enabled. The bug, tracked as CVE-2026-89775, allows a guest to read and write host kernel me",
-      "url": "http://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
-      "publishedAt": "2026-09-22T17:08:40.908+05:30",
-      "updatedAt": "2026-09-22T17:08:40.909+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCjDxUEx5QKzby2TlrL6Swi0MV7BdrkgjM6Y5Xby9IU8L9JSdG09pwRemVtrYQtUrvp8QIDduyiDuojZVzZ6GrpzUJIVrThvC4CZ_kd8kckdhBt0MLWDLXD_QwN2wciIA9bqLee51246mEpWx0ZnlcOfXD2U3QWpvmpKZyxx75T7MXK-b8zBMmrouCZJc/s260-e100/linux-kvm.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-127121350200476653",
-      "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
-      "summary": "A SharePoint Server vulnerability that Microsoft initially classified as a spoofing flaw with a CVSS score of 6.5 actually enables authenticated remote code execution, according to full technical details published today by Viettel Cyber Security researcher Dinh Ho Anh Khoa. The f",
-      "url": "http://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
-      "publishedAt": "2026-09-22T16:47:41.292+05:30",
-      "updatedAt": "2026-09-22T16:50:26.260+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu0R8P6iyk50vNReEGl0FkwYoFPk5n2fkVC3_3Mf2J5SaQ7yFIHbA3xuQpCATCQ9Y5Ie2ysz9EVaDb_vR5Bbnp209w28bSDK2Rqggotv4NPQbFB5LX4SUT4eztA-6939clsV9QQ41MHwIl8MFSzaJwyFFeBusztZ9H7oZhiUOlFYrL8BQh6hXWegn39uU/s260-e100/ms-rce.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4230192611384758873",
-      "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
-      "summary": "Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a proof-of-concept released on September 21. It works by changing a hidden setting so that when the use",
-      "url": "http://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
-      "publishedAt": "2026-09-22T12:03:57.921+05:30",
-      "updatedAt": "2026-09-22T13:39:04.632+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjZLVTtI-AEbGRQqJ7aGa0tbXedD5L6P7VCEKIOGXOBZe7S3mhA-PnoHVEoZf3LBMzhcZSIX5sCTveGyZ-8qAqyAVaMXfEoxPL70OIESq-Iolqjkv8GuDjcVs1Jgh3k3SoOOGPDWFr6Lmk83avLqG1whcaiDclv5waXYhCuEqXk569wfwV8Ilrmvv3IKE/s260-e100/muse.jpg"
     }
   ]
 }
