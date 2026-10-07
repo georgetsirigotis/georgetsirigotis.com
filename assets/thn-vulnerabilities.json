@@ -2,12 +2,34 @@
   "source": "https://thehackernews.com/feeds/posts/default/-/Vulnerability?alt=json&max-results=24",
   "sourceTitle": "The Hacker News | #1 Trusted Source for Cybersecurity News",
   "labelUrl": "https://thehackernews.com/search/label/Vulnerability",
-  "sourceUpdatedAt": "2026-10-06T17:27:01.260+05:30",
-  "generatedAt": "2026-10-06T12:03:05.911Z",
+  "sourceUpdatedAt": "2026-10-07T17:17:37.928+05:30",
+  "generatedAt": "2026-10-07T11:48:38.972Z",
   "retentionMonths": 6,
   "maxItems": 12,
   "itemCount": 12,
   "items": [
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4265052005184258414",
+      "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
+      "summary": "If you’re evaluating an agentic pentesting solution right now, you’ve probably heard the same pitch more than once: point it at a target, and it discovers, validates, and exploits attack paths autonomously, the way a real attacker would. That promise is worth taking seriously. It",
+      "url": "http://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
+      "publishedAt": "2026-10-07T17:12:24.481+05:30",
+      "updatedAt": "2026-10-07T17:12:24.481+05:30",
+      "author": "Unknown",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO1QPuCVJ1H3gtD86nRRlfnM6eqqqaj0OebVAzFmzsFPWvzvQJhgkREoKOwTkm8c4tqQru3V3rxzEswwX_F_cjqz_v3CG1wNrLNblT0uror88ZssE0gIRR7YNbfDvOj3QTGdqpT1z7j2HFmWiZ-_lIN9FEaCsCt32Z0k0GvOiguuLRiuMPu4Tp-YdSlW8/s260-e100/picus.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8106017603238286290",
+      "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
+      "summary": "Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company claimed its Project Glasswing initiative uncovered at least ",
+      "url": "http://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
+      "publishedAt": "2026-10-07T13:37:38.821+05:30",
+      "updatedAt": "2026-10-07T13:37:38.822+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Artificial Intelligence",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimg1tAvNh5aMWuNTZXjb4kKfxIQ0iWkuo2bCznozA8oz2Fm36WzbPnBI1bBDX5Mc3hpyOMIcjS_fcdYzzpQnrtUkex17u0_fn7r3bgcRYEN4o2hoGf4vlw5hQKEgcDd2VoVT2P9unKzsVOlly1QFlu6WfySqGPZ4Pf7xrZXaL4pEy1vrhWQBHR7SiqHHvf/s260-e100/claude-flaws.jpg"
+    },
     {
       "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6216087967980083747",
       "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
@@ -91,7 +113,7 @@
       "summary": "Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents. \"Some developers are using Full Disk Access in ways that could put users at risk, exposing every",
       "url": "http://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
       "publishedAt": "2026-10-05T16:08:50.550+05:30",
-      "updatedAt": "2026-10-05T16:08:50.550+05:30",
+      "updatedAt": "2026-10-07T17:11:19.267+05:30",
       "author": "Ravie Lakshmanan",
       "category": "Vulnerability",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDBg5lUcW7uXfKt2vo4Pq5MQUxOty2Xq3pApCIyhUAuSpTzu1jR_CGkNNS2UkAKxYvqk4KCyP1Ehr0PYcW6xVolcSuSdfRPx4rSDDnkuAKaCkgBii_l7kH-s9u7oEhyK2FpvAnaTRWDV48t9XBXEv-MpUIWhBaZYIBx3CFY_zSUXxdw-3C5rB_30Y0VEtf/s260-e100/macos-ai.jpg"
@@ -117,28 +139,6 @@
       "author": "Ravie Lakshmanan",
       "category": "Zero-Day",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV4of0Q-gWaIOffgWXdEfAxmI1ENcyrpDSSDjBurAHSpUuAI8lASQI5wrUvL3Evb0iqA31rRywo51olFOzoWe_lQ9cwN7Sp5QQw_2h-y44n0Va4vwlRQZipZ5fkm98BRmTOoVDPTs8pUMW_ClnH2GlPobgQQ33rNzL8EBnBW84aacH3dLXdyyLW9bBEqG5/s260-e100/citrix-offline.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7301617506583398406",
-      "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
-      "summary": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries. The activity, observed by the Symantec and Ca",
-      "url": "http://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
-      "publishedAt": "2026-10-03T20:06:33.759+05:30",
-      "updatedAt": "2026-10-03T20:07:02.652+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCZSaqs29yWFrct8zgOikM9e4CS0xuAXppzGJ1tskKpKC2gbGuITsYlHYNcnXDMvrFpPuAVS_ZlyEF8Obp7Mgw7CUXe4UsKP3pNEvZWNfszKQVxogslYpoWBZG-QQbEvmS6SDcbgVtXiFFGIEjreD_HSkCYZTfcwL1Rt90qDbbPj946SbMX0FR5CEKRt_H/s260-e100/sharepoint-ransomware.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3144536918739871413",
-      "title": "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations",
-      "summary": "Featuring: Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, devices, data, and internet-facing infrastructure, security is shifting toward con",
-      "url": "http://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
-      "publishedAt": "2026-10-03T16:30:00.000+05:30",
-      "updatedAt": "2026-10-05T20:32:41.641+05:30",
-      "author": "Unknown",
-      "category": "Identity Security",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6JJFsgFmlQyQC0ZFye5jB8OydQuNv7BQYFdVh0meweGiJD5bXisFLalhMTHPTfkPkbOewEeAepAz9Pd1mOIRy_1q67d4J-ougj5reZ4j9PjmpzIgk7wAr8HGlY4Mk8o3js2s_6Wpa0z4IC55ozyl4Yc60OEFjU1U8FXz8562V3IYFnoikN16KsrVu1w/s260-e100/py-report.jpg"
     }
   ]
 }
