@@ -2,12 +2,67 @@
   "source": "https://thehackernews.com/feeds/posts/default/-/Vulnerability?alt=json&max-results=24",
   "sourceTitle": "The Hacker News | #1 Trusted Source for Cybersecurity News",
   "labelUrl": "https://thehackernews.com/search/label/Vulnerability",
-  "sourceUpdatedAt": "2026-10-07T17:17:37.928+05:30",
-  "generatedAt": "2026-10-07T11:48:38.972Z",
+  "sourceUpdatedAt": "2026-10-08T17:27:42.290+05:30",
+  "generatedAt": "2026-10-08T12:03:40.432Z",
   "retentionMonths": 6,
   "maxItems": 12,
   "itemCount": 12,
   "items": [
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1999584274337632556",
+      "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
+      "summary": "The U.S. State Department is offering up to $10 million for information leading to the identification or location of Zhang Yu, a Chinese national charged in the United States in connection with the 2021 Microsoft Exchange Server attacks known as HAFNIUM. The reward is for informa",
+      "url": "http://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
+      "publishedAt": "2026-10-08T13:12:04.168+05:30",
+      "updatedAt": "2026-10-08T13:12:04.169+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Cybercrime",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgFF6VpR3wVqISJUhvijTLl00h_uH1hImVFzJiqEyaGpgFqwRMQxT1VEbay1QbGWehkEmZXIa5rAvkjA5K326ZRtVY7OKq9luzZo1gRXX6jUPX3ajFp6gLfpFf6tQg6D5wBgsctILhw7Ma_dpUgswrwXUYTphyphenhyphenj2rT9nfz3zURxMwvma9EZvKYEzkqlIk/s260-e100/reward.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1957261655427600464",
+      "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
+      "summary": "SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker without a login to send requests through the appliance and reach internal funct",
+      "url": "http://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
+      "publishedAt": "2026-10-07T21:47:44.889+05:30",
+      "updatedAt": "2026-10-07T21:47:44.893+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg93cv3mDcrVCz0IYIpCH3eRNzbDYkM2Z_N2acg9D6bCFGvE3cr3eJ1uGJblGasKplvyvuO6pSuMCxamTwHJSP2ztJ7WBswe1igBdzoadRJPZSDfs5K2og83_iMDMZYuh-LpFdA4qb4Pv7SyJ1A4EQtO_gi6nuxV5ioid32rXABiS0Il9t8boUATp2lTes/s260-e100/sonicwall.png"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1576768260223589870",
+      "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
+      "summary": "A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixed version is available. The flaw is in LMCache's multiprocess mode, where the cac",
+      "url": "http://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
+      "publishedAt": "2026-10-07T21:04:53.529+05:30",
+      "updatedAt": "2026-10-07T21:04:53.529+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyMSiFF8XNm1OpF4uWou7e4nt4fqsuPc0IXyUXhHky9w8ydKkauWm_j0yxdpMsRFlDx-5PHhtAxYNg3Z-rYqvexgILhokXO8tARRTtDHn2P83GOlUhiD6jN7rtkf3Ul1-Hp7O4VyvwV6EGNUgjmcC-B_o_P-xQy9eD7RaTnO_RoDpDwgjTePDvkjC9xso/s260-e100/lm.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5900965111309235944",
+      "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
+      "summary": "Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy cryptocurrency miners and further expand the scale of the botnet. The ",
+      "url": "http://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
+      "publishedAt": "2026-10-07T21:03:51.182+05:30",
+      "updatedAt": "2026-10-07T21:03:51.183+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Botnet",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDjQ8O0UFcl1dpOxEJoAM0s1mXXZHJNpJF4uJV_4jg7UPhHlDEvGHVxHKtyZQpnFC4HC3stGB-jJOSYUB5vdayfwx_eWPq-0F_l_ViYZNcA768t1N95JWhhbhUzY8anGOjVSL06QtsKVv_mz4lKgGrBMNBckAtFPxaW-KuG3mbWuUJrsyJP2vdWVbq8r9P/s260-e100/crypto.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3945885812879603630",
+      "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
+      "summary": "Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions. The arbitrary file access flaw, tracked as CVE-2026-21589 (CVSS score: 9.3) affects multiple ",
+      "url": "http://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
+      "publishedAt": "2026-10-07T17:19:26.516+05:30",
+      "updatedAt": "2026-10-08T10:44:03.950+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEityRbZfy1N9Y0SuqWl7yeWTYMjeirrTbDx719fM65Be6yXOt2Zl0YweAi0hAfswNzV_LrHa4eFCpcCemC3FNwxZve4bPkSelQiRnCdXpZofAnI7Si96nULBV6i25jgFaZkEY1T3LuPRhj6QzTSsWHZtLuoH1zXlLKZN3WwSiKS7QoY_Zug0CtaaCGozT6N/s260-e100/jira-attack.jpg"
+    },
     {
       "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4265052005184258414",
       "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
@@ -84,61 +139,6 @@
       "author": "Ravie Lakshmanan",
       "category": "Vulnerability",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBNa12GUjRngANug2kbws6i9X_HPN2PRVbOcxr7GtaXMKq9PloaCTD7DuYC8zZIcrg5Wa-F5pDv9y-00EMX4QWvovMz-ZWK5vNZ-gkIdEA7UiZQ1SqBCZof411VOQt6nQrvZCYxZpmzPA3hUeFia9KVP45Q1J1OPkiIH_Fhy5hoiOo9z6eYw1H16RgvKs5/s260-e100/ms-emails.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7304764772073318031",
-      "title": "⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
-      "summary": "A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week’s threats keep finding leverage in small things that were easy to overlook. There are actively exploited bugs in the mix, cleaner intrusio",
-      "url": "http://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
-      "publishedAt": "2026-10-05T19:50:43.564+05:30",
-      "updatedAt": "2026-10-05T19:50:43.564+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Cybersecurity News",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbylNkbHSjWFkh2Ms0FmUT7jm2Qp-l5l9XwzA-O0LeP6LLE2WY9Z5yTiZ6AjikPfdOuId00XC9R_m_HYap_zbOAxUpLNKMK8UAVGiQHr-1zb_IOLyuhyMo_dhlqB5SM6p9b5qabPdThNFnyaHBznmq3H66qlbHxPAzCSuA_glVaWuKcJy51sOkoZp7BIuf/s260-e100/infosec-recap.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2249530468810747398",
-      "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
-      "summary": "Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deploy a botnet malware called Cling. \"Cling is notable not because it introduces a new propagation technique, but because it",
-      "url": "http://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
-      "publishedAt": "2026-10-05T17:16:25.026+05:30",
-      "updatedAt": "2026-10-05T20:49:16.408+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeczuQyi5eCbsZFxILJKWiHZ8_JC8gnKqr2sExCgq_Dk-7879VVbd8qcA475L-uEn3X30CIyqn-iDilE7Sl9T5FM3XGFPU6LbyE7KUH8OpWTjlirCFq8EaY-MuielVGOXFuECLLpehX9R8HQrniMulUnAUd2f_uRbZ1Fget8hT0Tf19c1N-q06dtFpAZPj/s260-e100/botnet.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-9111827742720329123",
-      "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
-      "summary": "Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents. \"Some developers are using Full Disk Access in ways that could put users at risk, exposing every",
-      "url": "http://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
-      "publishedAt": "2026-10-05T16:08:50.550+05:30",
-      "updatedAt": "2026-10-07T17:11:19.267+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDBg5lUcW7uXfKt2vo4Pq5MQUxOty2Xq3pApCIyhUAuSpTzu1jR_CGkNNS2UkAKxYvqk4KCyP1Ehr0PYcW6xVolcSuSdfRPx4rSDDnkuAKaCkgBii_l7kH-s9u7oEhyK2FpvAnaTRWDV48t9XBXEv-MpUIWhBaZYIBx3CFY_zSUXxdw-3C5rB_30Y0VEtf/s260-e100/macos-ai.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6894648985018104663",
-      "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
-      "summary": "A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck. The vulnerability in question is CVE-2026-61500 (CVSS score: 9.3), a case of session forgery stemming from the use of a weak pseudo-random number ",
-      "url": "http://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
-      "publishedAt": "2026-10-05T13:39:23.393+05:30",
-      "updatedAt": "2026-10-05T20:48:42.144+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTCvFj7lVSH1eLS0oYdxqBa4wQkNQvuemuCAL5XqwKueywAUl8Fg6zY-5UT9cdx3fZZ81DHX_emE9JXthW_OfH-axyWn3bE5CpCp4CDs4HREWjv_1uBtt5iJE947S-Bkn-4Mn1Shwt1kV9FF4RO9Wa7_4jmUtvbWrx2zs4-cdSg-FkUtxW-erVx2CXKhU3/s260-e100/hfs-rce-main.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2570644909926920825",
-      "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
-      "summary": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and NetScaler Gateway that has been exploited as part of targeted zero-day attacks. The vulnerability, tracked as CVE-2026-88779, carries a CVSS score of 8.7 out of 10.0. \"CVE-2026-88779 is a ",
-      "url": "http://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
-      "publishedAt": "2026-10-05T12:10:19.734+05:30",
-      "updatedAt": "2026-10-05T20:48:15.131+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Zero-Day",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV4of0Q-gWaIOffgWXdEfAxmI1ENcyrpDSSDjBurAHSpUuAI8lASQI5wrUvL3Evb0iqA31rRywo51olFOzoWe_lQ9cwN7Sp5QQw_2h-y44n0Va4vwlRQZipZ5fkm98BRmTOoVDPTs8pUMW_ClnH2GlPobgQQ33rNzL8EBnBW84aacH3dLXdyyLW9bBEqG5/s260-e100/citrix-offline.jpg"
     }
   ]
 }
