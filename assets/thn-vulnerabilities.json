@@ -2,12 +2,89 @@
   "source": "https://thehackernews.com/feeds/posts/default/-/Vulnerability?alt=json&max-results=24",
   "sourceTitle": "The Hacker News | #1 Trusted Source for Cybersecurity News",
   "labelUrl": "https://thehackernews.com/search/label/Vulnerability",
-  "sourceUpdatedAt": "2026-10-09T17:00:00.207+05:30",
-  "generatedAt": "2026-10-09T11:55:34.144Z",
+  "sourceUpdatedAt": "2026-10-10T16:30:00.120+05:30",
+  "generatedAt": "2026-10-10T11:12:07.839Z",
   "retentionMonths": 6,
   "maxItems": 12,
   "itemCount": 12,
   "items": [
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4283026146456269443",
+      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+      "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites. The AI company said it identified fo",
+      "url": "http://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
+      "publishedAt": "2026-10-10T14:48:45.871+05:30",
+      "updatedAt": "2026-10-10T14:48:45.871+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Artificial Intelligence",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk6Q5kUrLA2Pfuqcghyphenhyphen1q3pECWSE72HYp9BB9GM5i3b_6XxNHMtwlR7yrPj_xTpcwoIaMy0vJt8A1g_D9Riz6JhbU5WyVPV69DFvk1oIzv2jp-eG-qbfx8lIHF2zX_XEAxz5gC51xn2hPUwYVh9thUuQslxqfIp1Pg3bgmWQYaXXW4LuUxTdUZzUo2R22C/s260-e100/claude-internet.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1536028203754426926",
+      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+      "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-wallet theft, and adds two ",
+      "url": "http://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "publishedAt": "2026-10-09T21:59:55.673+05:30",
+      "updatedAt": "2026-10-10T14:12:27.936+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Mobile Security",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT-SCb1qpP1Z0zyo_WOtyHzQKUiqJ3RudpC9uowSePmGcLZ9sPHcE-lvDGMZTHeB7YckgDmaBA775L13GvrYHl_gAVSg46-5sUJWzcA7Q3ec5h8WIuKO5l0Td2CCk5nlSvNByqPL22qlTNwHms3rbdXsJYoEe7gRqHiqmM8DHtvEkKniOP4Q70Dq_5Dr8I/s260-e100/ios.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3133719604294287943",
+      "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
+      "summary": "Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with  Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege the California company misled buyers about how secure its routers are and how separate it is from Ch",
+      "url": "http://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
+      "publishedAt": "2026-10-09T18:52:53.191+05:30",
+      "updatedAt": "2026-10-09T18:52:53.191+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Network Security",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigXm446RUyCxv1-oRtdkXFCb2Hax0UsQEnanQtli1OViTiFpjV4Jb96qpsy94Td6DK6LDrre8q2masVzeA9X1hQE8ct3TEChlzZmNTaqux1CDT52o1A_6cuQYY4-inbvKDNYN4rqTGNrmrit-YcGBZbTppW5RUxNvcom2OV9pS8jU8twPWsj_Vtwgjqvg/s260-e100/tp.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7291278751000271523",
+      "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
+      "summary": "Security researchers have published a full working exploit for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access before anyone approves the connection. AnyDesk patched the flaw in version 8.0.3 in June, but its changelog described t",
+      "url": "http://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
+      "publishedAt": "2026-10-09T18:29:22.769+05:30",
+      "updatedAt": "2026-10-09T18:29:22.769+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnUnGcAOHQNX9naCpXjsvEAI4YXmS_pbFwgn9i_YTjR8esP-PpNXc0s-jOWo3r_M4S-an0mnZA4PwDjt3lOihJqWP60TMj3F37iIno8hynwj5xXex2Voy3Khj3QraiYO7oyeEgNtZtjB5q-FYXg9E0hNk93q7mTKdhBdPNGr0p1I35R0wxuY0IOmAlG_E/s260-e100/anyrun.gif"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-790771354561932728",
+      "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
+      "summary": "Anthropic on Thursday unveiled OSS Scanner as an opt-in vulnerability scanner to help secure the open-source ecosystem using artificial intelligence (AI). \"It's an opt-in service informed by our experience using Claude to find vulnerabilities during Project Glasswing,\" Anthropic ",
+      "url": "http://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
+      "publishedAt": "2026-10-09T18:17:28.873+05:30",
+      "updatedAt": "2026-10-09T18:17:28.873+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiio2imi6QlJLQlD8KAZaktPeycFFCAWdkRp7q1TNwNHKUibXYACipc5GG2rDcZtmUR8TftkRHNTrdEXLXsGxcGoTDrTY5Eye77n1OFyeFbHP-VGUTwlhIoaHNoMGVIsUWBk07kSc-Gi3y_U0OuS-6gWBjYJEj8pxJVQ9lkEJfI_we3rVvZtAMXp0i8qs7t/s260-e100/oss-scanner.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2723423138001943864",
+      "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
+      "summary": "Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners. Details of the flaws are below - CVE-2026-105133 (CVSS v4 score: 5.5) - An improper ",
+      "url": "http://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
+      "publishedAt": "2026-10-09T18:17:26.320+05:30",
+      "updatedAt": "2026-10-10T14:10:33.543+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMpbMY9pFBnt6TekKFIlEqpeqQoPBjBuhu8rYuYtU7ce5P3LTFKwlv_F_BUDzfuuMu0gRU645YStocoUQnNtS11MoEIRrfxrgPZtShsFgr8YH1VYTtjPr2l6aHPFDBYPHJKLT-fa-KqaHGSJHeiDPKzUgA12IJH5zhAHpMnoGZc5Qsz9sJhCOB_3gYHQar/s260-e100/edge.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5269703500450785688",
+      "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, following their abuse by a China-linked threat actor known as Flax Typhoon. The vulnerabilities in question are listed belo",
+      "url": "http://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
+      "publishedAt": "2026-10-09T17:51:51.183+05:30",
+      "updatedAt": "2026-10-09T17:51:51.183+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7eHv-Bv5ZZISuomW-aV50jkJ7Aqg-S56iEuV2y8Kl9w7SB4cp-zTDj8WicvMzPcw5tXuq-o5rIG0KPPmKxPZPcR5V47hVwbGvi7aLNE_1wgq_iDkNERTzz5kc9ivagiHEKM9BcsYjJRRB0_HWk_gsi9jzHudV_-4Ax4dUFaV5vpDlUnW2PywmEZHzN8mm/s260-e100/kevs.jpg"
+    },
     {
       "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8435145192991445107",
       "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
@@ -58,87 +135,10 @@
       "summary": "The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and traces of an intrusion. Apparently, keeping things secure is a problem on both sides of the fence. ",
       "url": "http://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
       "publishedAt": "2026-10-08T23:28:02.491+05:30",
-      "updatedAt": "2026-10-08T23:28:02.491+05:30",
+      "updatedAt": "2026-10-10T14:13:01.860+05:30",
       "author": "Ravie Lakshmanan",
       "category": "Hacking News",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR_DE5ORKWCpLgZgXBuH-MFmuqfxFNnkGQxremc0ffY4dopMHnx-2HvgZTMh48BvVr8k22lGaM__jTS83DuXnLpF4NC9u4bsQF-8_K34gZU0kJS_-10pUSL7WNxecJG0pCiHyNFiqxXEqWP7NqUK2-uvwzo8-ETqwZkPWdNOjhNn5S1Y0uFQX2HGBE5_5J/s260-e100/t-day.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2863508626611624442",
-      "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
-      "summary": "Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC) said. The Tokyo-based center, which takes incident reports, based its October 8, 2026 alert on",
-      "url": "http://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
-      "publishedAt": "2026-10-08T21:15:56.801+05:30",
-      "updatedAt": "2026-10-08T21:15:56.802+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Data Breach",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCKjRUY0kVdYD5knK69g1IBPPL21WViperTcXNtjnWiYjNuL6GsohD9A6Q_SpyDpAT6mNMjLTZGOJ_eB1FIMUllxUVEnkUXA1zTWGU1aw5LYJrVZu5gNxH1zSpxX5elSBB-f2OG4LjdhzWTX97lT16uAdvKClT_gP4ucRJjKAXKU4a-3KxbbNLU5RdwKc/s260-e100/japan.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1999584274337632556",
-      "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
-      "summary": "The U.S. State Department is offering up to $10 million for information leading to the identification or location of Zhang Yu, a Chinese national charged in the United States in connection with the 2021 Microsoft Exchange Server attacks known as HAFNIUM. The reward is for informa",
-      "url": "http://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
-      "publishedAt": "2026-10-08T13:12:04.168+05:30",
-      "updatedAt": "2026-10-08T13:12:04.169+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Cybercrime",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgFF6VpR3wVqISJUhvijTLl00h_uH1hImVFzJiqEyaGpgFqwRMQxT1VEbay1QbGWehkEmZXIa5rAvkjA5K326ZRtVY7OKq9luzZo1gRXX6jUPX3ajFp6gLfpFf6tQg6D5wBgsctILhw7Ma_dpUgswrwXUYTphyphenhyphenj2rT9nfz3zURxMwvma9EZvKYEzkqlIk/s260-e100/reward.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1957261655427600464",
-      "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
-      "summary": "SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker without a login to send requests through the appliance and reach internal funct",
-      "url": "http://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
-      "publishedAt": "2026-10-07T21:47:44.889+05:30",
-      "updatedAt": "2026-10-07T21:47:44.893+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg93cv3mDcrVCz0IYIpCH3eRNzbDYkM2Z_N2acg9D6bCFGvE3cr3eJ1uGJblGasKplvyvuO6pSuMCxamTwHJSP2ztJ7WBswe1igBdzoadRJPZSDfs5K2og83_iMDMZYuh-LpFdA4qb4Pv7SyJ1A4EQtO_gi6nuxV5ioid32rXABiS0Il9t8boUATp2lTes/s260-e100/sonicwall.png"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1576768260223589870",
-      "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
-      "summary": "A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixed version is available. The flaw is in LMCache's multiprocess mode, where the cac",
-      "url": "http://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
-      "publishedAt": "2026-10-07T21:04:53.529+05:30",
-      "updatedAt": "2026-10-07T21:04:53.529+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyMSiFF8XNm1OpF4uWou7e4nt4fqsuPc0IXyUXhHky9w8ydKkauWm_j0yxdpMsRFlDx-5PHhtAxYNg3Z-rYqvexgILhokXO8tARRTtDHn2P83GOlUhiD6jN7rtkf3Ul1-Hp7O4VyvwV6EGNUgjmcC-B_o_P-xQy9eD7RaTnO_RoDpDwgjTePDvkjC9xso/s260-e100/lm.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5900965111309235944",
-      "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
-      "summary": "Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy cryptocurrency miners and further expand the scale of the botnet. The ",
-      "url": "http://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
-      "publishedAt": "2026-10-07T21:03:51.182+05:30",
-      "updatedAt": "2026-10-09T11:27:29.398+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Botnet",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDjQ8O0UFcl1dpOxEJoAM0s1mXXZHJNpJF4uJV_4jg7UPhHlDEvGHVxHKtyZQpnFC4HC3stGB-jJOSYUB5vdayfwx_eWPq-0F_l_ViYZNcA768t1N95JWhhbhUzY8anGOjVSL06QtsKVv_mz4lKgGrBMNBckAtFPxaW-KuG3mbWuUJrsyJP2vdWVbq8r9P/s260-e100/crypto.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3945885812879603630",
-      "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
-      "summary": "Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions. The arbitrary file access flaw, tracked as CVE-2026-21589 (CVSS score: 9.3) affects multiple ",
-      "url": "http://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
-      "publishedAt": "2026-10-07T17:19:26.516+05:30",
-      "updatedAt": "2026-10-08T10:44:03.950+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEityRbZfy1N9Y0SuqWl7yeWTYMjeirrTbDx719fM65Be6yXOt2Zl0YweAi0hAfswNzV_LrHa4eFCpcCemC3FNwxZve4bPkSelQiRnCdXpZofAnI7Si96nULBV6i25jgFaZkEY1T3LuPRhj6QzTSsWHZtLuoH1zXlLKZN3WwSiKS7QoY_Zug0CtaaCGozT6N/s260-e100/jira-attack.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4265052005184258414",
-      "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
-      "summary": "If you’re evaluating an agentic pentesting solution right now, you’ve probably heard the same pitch more than once: point it at a target, and it discovers, validates, and exploits attack paths autonomously, the way a real attacker would. That promise is worth taking seriously. It",
-      "url": "http://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
-      "publishedAt": "2026-10-07T17:12:24.481+05:30",
-      "updatedAt": "2026-10-07T17:12:24.481+05:30",
-      "author": "Unknown",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO1QPuCVJ1H3gtD86nRRlfnM6eqqqaj0OebVAzFmzsFPWvzvQJhgkREoKOwTkm8c4tqQru3V3rxzEswwX_F_cjqz_v3CG1wNrLNblT0uror88ZssE0gIRR7YNbfDvOj3QTGdqpT1z7j2HFmWiZ-_lIN9FEaCsCt32Z0k0GvOiguuLRiuMPu4Tp-YdSlW8/s260-e100/picus.jpg"
     }
   ]
 }
