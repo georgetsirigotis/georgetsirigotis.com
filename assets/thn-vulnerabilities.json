@@ -2,33 +2,33 @@
   "source": "https://thehackernews.com/feeds/posts/default/-/Vulnerability?alt=json&max-results=24",
   "sourceTitle": "The Hacker News | #1 Trusted Source for Cybersecurity News",
   "labelUrl": "https://thehackernews.com/search/label/Vulnerability",
-  "sourceUpdatedAt": "2026-10-10T16:30:00.120+05:30",
-  "generatedAt": "2026-10-10T11:12:07.839Z",
+  "sourceUpdatedAt": "2026-10-11T09:54:34.449+05:30",
+  "generatedAt": "2026-10-11T11:25:32.620Z",
   "retentionMonths": 6,
   "maxItems": 12,
   "itemCount": 12,
   "items": [
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1536028203754426926",
+      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+      "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-wallet theft, and adds two ",
+      "url": "http://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "publishedAt": "2026-10-11T09:54:34.414+05:30",
+      "updatedAt": "2026-10-11T09:54:34.449+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Mobile Security",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT-SCb1qpP1Z0zyo_WOtyHzQKUiqJ3RudpC9uowSePmGcLZ9sPHcE-lvDGMZTHeB7YckgDmaBA775L13GvrYHl_gAVSg46-5sUJWzcA7Q3ec5h8WIuKO5l0Td2CCk5nlSvNByqPL22qlTNwHms3rbdXsJYoEe7gRqHiqmM8DHtvEkKniOP4Q70Dq_5Dr8I/s260-e100/ios.jpg"
+    },
     {
       "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4283026146456269443",
       "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
       "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites. The AI company said it identified fo",
       "url": "http://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
       "publishedAt": "2026-10-10T14:48:45.871+05:30",
-      "updatedAt": "2026-10-10T14:48:45.871+05:30",
+      "updatedAt": "2026-10-10T18:54:04.443+05:30",
       "author": "Ravie Lakshmanan",
       "category": "Artificial Intelligence",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk6Q5kUrLA2Pfuqcghyphenhyphen1q3pECWSE72HYp9BB9GM5i3b_6XxNHMtwlR7yrPj_xTpcwoIaMy0vJt8A1g_D9Riz6JhbU5WyVPV69DFvk1oIzv2jp-eG-qbfx8lIHF2zX_XEAxz5gC51xn2hPUwYVh9thUuQslxqfIp1Pg3bgmWQYaXXW4LuUxTdUZzUo2R22C/s260-e100/claude-internet.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1536028203754426926",
-      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
-      "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-wallet theft, and adds two ",
-      "url": "http://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
-      "publishedAt": "2026-10-09T21:59:55.673+05:30",
-      "updatedAt": "2026-10-10T14:12:27.936+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Mobile Security",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT-SCb1qpP1Z0zyo_WOtyHzQKUiqJ3RudpC9uowSePmGcLZ9sPHcE-lvDGMZTHeB7YckgDmaBA775L13GvrYHl_gAVSg46-5sUJWzcA7Q3ec5h8WIuKO5l0Td2CCk5nlSvNByqPL22qlTNwHms3rbdXsJYoEe7gRqHiqmM8DHtvEkKniOP4Q70Dq_5Dr8I/s260-e100/ios.jpg"
     },
     {
       "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3133719604294287943",
@@ -135,7 +135,7 @@
       "summary": "The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and traces of an intrusion. Apparently, keeping things secure is a problem on both sides of the fence. ",
       "url": "http://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
       "publishedAt": "2026-10-08T23:28:02.491+05:30",
-      "updatedAt": "2026-10-10T14:13:01.860+05:30",
+      "updatedAt": "2026-10-10T18:53:27.242+05:30",
       "author": "Ravie Lakshmanan",
       "category": "Hacking News",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR_DE5ORKWCpLgZgXBuH-MFmuqfxFNnkGQxremc0ffY4dopMHnx-2HvgZTMh48BvVr8k22lGaM__jTS83DuXnLpF4NC9u4bsQF-8_K34gZU0kJS_-10pUSL7WNxecJG0pCiHyNFiqxXEqWP7NqUK2-uvwzo8-ETqwZkPWdNOjhNn5S1Y0uFQX2HGBE5_5J/s260-e100/t-day.jpg"
