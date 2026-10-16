@@ -2,19 +2,118 @@
   "source": "https://thehackernews.com/feeds/posts/default/-/Vulnerability?alt=json&max-results=24",
   "sourceTitle": "The Hacker News | #1 Trusted Source for Cybersecurity News",
   "labelUrl": "https://thehackernews.com/search/label/Vulnerability",
-  "sourceUpdatedAt": "2026-10-15T14:33:21.359+05:30",
-  "generatedAt": "2026-10-15T09:58:21.177Z",
+  "sourceUpdatedAt": "2026-10-16T15:18:21.524+05:30",
+  "generatedAt": "2026-10-16T09:52:48.420Z",
   "retentionMonths": 6,
   "maxItems": 12,
   "itemCount": 12,
   "items": [
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3739555292343348926",
+      "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
+      "summary": "The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 2026. The vulnerability, tracked as CVE-2026-102764 (CVSS score",
+      "url": "http://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
+      "publishedAt": "2026-10-16T12:25:55.980+05:30",
+      "updatedAt": "2026-10-16T12:28:32.212+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Zero-Day",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5zD5GBvYxe93igsDOMdwS6eyfDORIWio42Z9UY0enK0XKWYcQlLB9RLx3iO_V1xm8vqBxMVZ_R8Lt-xxOumO5_RIFN3hgB-yZyGGlVMypRx5lm2GJq-1c9cbzfRcjrMAIfBI67L4QUI-MwjjQjKL1RcgPnzFdYuAF3k1y2Ev-ppSmiG8sdQ5dbJkbjKR/s260-e100/beyond.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6023428539982308459",
+      "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
+      "summary": "A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH. The attack involves the exploitation of CVE-2025-61624 (CVSS score: 5.4), a path traversal flaw",
+      "url": "http://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
+      "publishedAt": "2026-10-16T10:29:36.489+05:30",
+      "updatedAt": "2026-10-16T10:31:37.974+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMvdc6m999SfUEEWC89wHnBiUX9WAMCSdWtbFP_lrH4DuREHfOJL7G29LkM4uAvittg3XsHxnq6dq_VEX1zB_jCGi5RJDbQZlrq37gHSCXpRrn11FEN-hezQn0Dt4Xcw4DcanklKW_8iLEnQN6JpzkQ7JHBOS1_dMzDAs2h_jJcWDqOGjbkMoeabOCkSFK/s260-e100/f.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3348898992174848269",
+      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+      "summary": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Vercel confirmed it. The flaw, now tracked as CVE-2026-99999 and ",
+      "url": "http://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
+      "publishedAt": "2026-10-16T01:54:36.568+05:30",
+      "updatedAt": "2026-10-16T01:54:36.569+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Linux",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Y0ZP5acV4vjjJV9at7yMnz0frJTAeLd3nGmqMIcifTwGoe2NsB7pDInUjGa6aocyqoM3o-NyXKpsfyy1LRdkH5UG67UVYC_lNZDYArvg-hkmtifcalWo67Mkl3A4_2qwXomi7iJURUjoiSlBdEWtJL5N63jfuMDjI7ewZHLlTZBXlkc4zqwyxKox7eE/s260-e100/pwnescape-main.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7991962059657400225",
+      "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
+      "summary": "Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with this week's security stories. The rest gets interesting in different ways. A small permission can lead to a big theft. A trusted ",
+      "url": "http://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
+      "publishedAt": "2026-10-16T00:19:33.611+05:30",
+      "updatedAt": "2026-10-16T00:19:33.612+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Hacking News",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8jHVMYXIjddaTrqHbBuPm3mQ6G_g8qlALwitmiIRM9OplZpPxLPDFet7ySOV0OVxPj6cW1oz0K6rydDvGYQGalR1jSt10bz8kti4dWnM0d3NnUBjuymD77_cReujy6AXmFgJgQQvl2qeICur3VHf5vYyOrxz8OFM-bEunzmK9PGDzCzzTVFVEdQyswYho/s260-e100/threatsday-oct.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7458038748959147340",
+      "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
+      "summary": "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS). The activity, observed from June 2025 through August 2026, involves four different infection chains that mak",
+      "url": "http://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
+      "publishedAt": "2026-10-15T21:30:26.287+05:30",
+      "updatedAt": "2026-10-15T21:30:26.287+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Cyber Espionage",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX-Vi04Qyk2-RKyXrnolcZ8TTBRKY43kIB_B7l-1Na3Xta_ed00DJtXclvIdp65s6Sdf3ksabzWKXmYTmKwx9xAlROi6eas704naXFtyx93xru04krAQ9kViM9rjKSgKhdMR0weIs4xOd7htm_gI_7CLg-N16wjCKt59vAoC-3UpMFJf8QawlMkfpRh745/s260-e100/winrar-hacker.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1275594424241795575",
+      "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
+      "summary": "NGINX released versions 1.30.6 and 1.31.7 on October 14 to fix five vulnerabilities, one of them present in every release since May 2005. There are three memory bugs that F5, the company behind NGINX, says could crash a worker process or possibly let an attacker run code, and eac",
+      "url": "http://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
+      "publishedAt": "2026-10-15T18:28:05.639+05:30",
+      "updatedAt": "2026-10-15T18:28:05.639+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEionuV8CAd7SP0bgEbHyb-0hp7JWNkWpPjYtkNH9p86nRQrxDN1T97D1cragnVVzAwCEFCuqrwuysgwzxJLfvTXrYhMSGj5rbBzrpjW-VPvAmrc2-9EAR_hBmPigJUOjynvkm0ArpyasyzCOAWUWFYdCqzsbCJVOsxC09LnYwH2dcV4j4Vm9S9VDelXUlc/s260-e100/tls.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2589499522049146310",
+      "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
+      "summary": "Next.js released an out-of-band security update on October 14 that fixes two critical flaws allowing unauthenticated remote code execution, along with a high-severity denial-of-service flaw. One code-execution flaw is in React Server Components, and the other in librsvg, the open",
+      "url": "http://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
+      "publishedAt": "2026-10-15T17:58:13.018+05:30",
+      "updatedAt": "2026-10-15T17:59:04.755+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9mXutJ2QPpC1NUCUZWdHjUDUGPSD3DaDY4b-T1EXbg07sNWADsV43EvUacKzn4Ohp2bRbD93t8kXBpv513XdMZEnMh8eNkY1bBaSuGICWbituq_jgWNCjQa_Cq6Ur0jInsfEwsHfdInKq4Tcp2kmfuYoCIMrgWcWwtzFlRPePDpW9gwemIkQpJXEVaHU/s260-e100/nextjs-rce.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8927280449548442336",
+      "title": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules",
+      "summary": "Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19. An attacker cannot reach the flaw through core alone, the Drupal Security Team said in it",
+      "url": "http://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
+      "publishedAt": "2026-10-15T17:37:20.741+05:30",
+      "updatedAt": "2026-10-15T17:49:14.428+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWENfwA4xQHfwINduJpVTTiNeAmBkevujxbloFijpq7PQV8xOV-iApTx_f5g9ImW_oKJolO1RuhlNeDc2NwoWKOdPfjfdDzMhCuOsWtdyCZOOs2fTW4vmXYixSIdOCw2CwsvSgvEOPxqHUwSoRpxxoMRKKRqsqezOqVNpF5uQaU3cdI7z9L_Y_2WeTImA/s260-e100/drupal.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6248682266057438863",
+      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
+      "summary": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of remote code execution in the management interface. \"A remote co",
+      "url": "http://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
+      "publishedAt": "2026-10-15T17:16:49.153+05:30",
+      "updatedAt": "2026-10-15T17:16:49.217+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4G5JAIF-hCnKf9QyWLzWIWxTrUIjqshujDHf0-_9m84O9f4S0Z-IQ4Jg-T11Ph_rwZvzsFU8Z-pI3uRsnvPSE-FK_VtrUx0pNZgHKf3PuMJCQmwopiE5hyMRSObeV7_VSrF7WC_iiG9T8wMNivOOBC12F7bLK8WI-MNjCffolAJnnhk-X-v1ecxwYtrQz/s260-e100/palo.jpg"
+    },
     {
       "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2610306732433099070",
       "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
       "summary": "Threat actors are exploiting a critical security flaw in Langflow, according to an alert from Previdian. Langflow is an open-source platform that allows developers to build artificial intelligence (AI) applications and agentic workflows. In February 2025, DataStax, the parent com",
       "url": "http://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
       "publishedAt": "2026-10-15T12:37:05.883+05:30",
-      "updatedAt": "2026-10-15T13:58:30.553+05:30",
+      "updatedAt": "2026-10-16T10:05:58.968+05:30",
       "author": "Ravie Lakshmanan",
       "category": "Vulnerability",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1tlAL_zc7Hg-gD5PRFa08hoOp2KRDu9kNSJk8nhZ91us8q-K7qGfnoasa6gONBjZoEtGJqPEZY3rKMy4Uqozk89X-L7IQBV8IrDqnJYdtAsCC4d08mmQUI4r_zACmvDVdey82w7FC4lTIoYfqdwYYu2Bp_Ql0AwOB54KRYrHk9ixjo27rKLWEK0dwsfw3/s260-e100/langflow.jpg"
@@ -31,17 +130,6 @@
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH_5A4EPZ4VVdF4dve5fMe4BwreUmtWCJQrgMiBdiZyoFInoZK_nO6ouOwLMCyyQPrXWE4_n3NE39b4C2UQi-G4uE3ufyv7A9IEYEp9O3ggTu7AyDRzOqwVqhLjISLvOTasPiAcdFafFtL7B5uoKtm8GPeFFxrKDupGCoqZJ2o88sUmaGbjKk6E3sJgIKD/s260-e100/backup.jpg"
     },
     {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6248682266057438863",
-      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
-      "summary": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of remote code execution in the management interface. \"A remote co",
-      "url": "http://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
-      "publishedAt": "2026-10-15T11:47:58.329+05:30",
-      "updatedAt": "2026-10-15T11:47:58.330+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4G5JAIF-hCnKf9QyWLzWIWxTrUIjqshujDHf0-_9m84O9f4S0Z-IQ4Jg-T11Ph_rwZvzsFU8Z-pI3uRsnvPSE-FK_VtrUx0pNZgHKf3PuMJCQmwopiE5hyMRSObeV7_VSrF7WC_iiG9T8wMNivOOBC12F7bLK8WI-MNjCffolAJnnhk-X-v1ecxwYtrQz/s260-e100/palo.jpg"
-    },
-    {
       "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2987705014218464716",
       "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
       "summary": "Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco said in an advisory on Wednesday. The attacker sends an email with a crafted attachment through the gateway and, if it su",
@@ -51,94 +139,6 @@
       "author": "Swati Khandelwal",
       "category": "Email Security",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh__fSqm3p4u0HNpmeikU6Mo4abprP417Zb3pPW3-6IGrTHwqkbz1CqiuqxL2D0O1PH8J4Ho3_ZpNdJ5VFluIj_KHX6qT0WqZYfHQzyu0cVzGee9EmAZ9pNzsZJZx40UxuKjuz9eNHvuzlMANKOkDr6aRdKWxs8SpJqSi6vDBQTP5ZFgpgqn3Yj2TYNJU/s260-e100/cisco-0day.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4371654909244933632",
-      "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App",
-      "summary": "Attackers exploited a flaw in an optional Nextcloud app, Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators reported the issue on GitHub, with the first logged attack on September 10. A web shell is a small file that executes a",
-      "url": "http://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
-      "publishedAt": "2026-10-14T23:08:31.418+05:30",
-      "updatedAt": "2026-10-14T23:17:26.690+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkZLcjmZtzt6NpWa8x4Wz7EdcOQEW6xYv6DA_mBnwy1ctZZeRAyeSYLES-H_mkr1QOBv72WNuGKwKQ-NN179Rw8BRTcYO38sYwxcbDkg1ISW_qWrCRJ9JfUXh3102OmwrF0HQq6dbSc58VXACXoi_EoI8ysPuSlzB_nBcHuFl9r3QakOsGG9GUm6UVOU8/s260-e100/nextcloud.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7093270694234559015",
-      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version following the disclosure of an actively exploited vulnerability. ",
-      "url": "http://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
-      "publishedAt": "2026-10-14T18:00:42.094+05:30",
-      "updatedAt": "2026-10-14T21:38:30.925+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBUpsAaH4Pe-HlsDhdSH5KK3VgWm9NEXXLNBOpxxp4d8WMZwSNNyPALzuapR_iUlq3-dLDe2bnPJfh42cdfH5m3LQWGKXZvHF3sYacyDbtZacKIIoluyNgP01-6bjjEz-RBhAQqxw-VHGD7gpn3ToRulgeH0ydeWXOucoK4hLBwvXtlCg81tB1scdjPbKN/s260-e100/i-h.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5703735085708038188",
-      "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
-      "summary": "A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading machine. The curl project fixed it on October 14 in curl 8.23.0. Taking over a cl",
-      "url": "http://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
-      "publishedAt": "2026-10-14T17:43:36.914+05:30",
-      "updatedAt": "2026-10-14T17:43:36.914+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4S_5rQ2kApGYmSMOh6PFsgD3yRugV3_nzSexwBhEe3BoSTQeBfSu2-3JSO4wDCnU2LmVMWtgA6AcBEcf2wOpsL2v22woZ5fel0XaSonlbgDWSXMuV3iu5ewohp9kqgf4OwmCvtnRyyYjFEP6Z3RRLT5sX8g7-xI1robnLmWtqFp6SvrGvpBeXI_D4ICo/s260-e100/curl.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4162484171469771210",
-      "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
-      "summary": "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said. Its researchers built the attack in six days by directing AI agents running OpenAI's publicl",
-      "url": "http://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
-      "publishedAt": "2026-10-14T16:49:02.363+05:30",
-      "updatedAt": "2026-10-14T16:49:02.364+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLXn6RSZOSq2StbSf2fHVaHwVEetIYN0wGfuaIcyaEnwSnXLaY1FBfSKPFzzQuKvtpRygCR7AvNixA-SCkIA98QjnT7gE2UWYtoiZLs5VxQC8KTSJwwlcP0helOb3F4hbSo4uqITjJYPiZHSSuKkm1O_BXFYeyEU7koe_77QSmKbU33o5hteBC5-0dxrs/s260-e100/chrome-exploit.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8653006582242814421",
-      "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
-      "summary": "The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part. TL;DR During an authorized assessment, an AI pentesting agent found a critical authentication bypass on a major insurer's production website, on its own. One",
-      "url": "http://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
-      "publishedAt": "2026-10-14T16:30:00.000+05:30",
-      "updatedAt": "2026-10-14T16:30:00.122+05:30",
-      "author": "Unknown",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_bop9V2vtfHPW4Obd0zupOPpNFCd9N5HtVwWVs9u-njx8RuEgOkAh75uRjWLS_h3zHQ847m7xc01PkVAdKhyphenhyphen5Pkg2Pb_qthWVQe-9lcpKclCOq3ZDpQ2iSfRSFCQQU8gxyBl6lWEjTKWZHn9LiNSq2rQ4_nUIM6Sjcqv5fwgVRnFpiuxpYDfhrkbikLE/s260-e100/case.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-9059903354456619439",
-      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
-      "summary": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted virtual machine write to the host's memory and hijack the program that runs the vi",
-      "url": "http://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
-      "publishedAt": "2026-10-14T13:16:57.494+05:30",
-      "updatedAt": "2026-10-14T13:16:57.494+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhavZnpNnmOBy6Wnkh7wfYD4-I32k65R7uyhYW32Doh3YVqtfJaagZZ_uo9JN-cixODo6h846eR89Aa55TGuMKfXmpjZEVZQ0ssFoP4-qVX6qrvSoyfRsu_q3MQcLKwolyKeE3Lw3MByz2Su8O0XOdRWNkJmyBdwpxsAtxi5y2goE7RhOSBPOLh4Evb60c/s260-e100/linux-exploit.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2162694192505036123",
-      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
-      "summary": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over. The protected area is a VBS enclave, an isolated slice of memory the operating system uses to guard secrets, and the one t",
-      "url": "http://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
-      "publishedAt": "2026-10-14T11:22:28.403+05:30",
-      "updatedAt": "2026-10-14T11:22:28.403+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizNi7OCo6m5vsFkEP85LndyXnfiDgk2h5R0WwW_yHZ7mdK6Uh9xuLaI5ddFQJ45fW7jG8eC4VtIHJT1IQaUJCoAEMClMEiv9dA9kASwDQJj4l61ZSIlqW2bw605LQLL5kNUszoxI8Wkr54oguKY7guQGE9rwUmvzCVUjt19-0pWJpxir366NU5eqopHmk/s260-e100/enclave.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3577957300787853637",
-      "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
-      "summary": "Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation. These include 1,102 flaws in Windows, 134 in Office, 61 in Developer Tools, 36 in SharePoint Server",
-      "url": "http://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
-      "publishedAt": "2026-10-14T10:04:43.675+05:30",
-      "updatedAt": "2026-10-14T10:04:43.675+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_wUoSEpf7bMmgL7Aa7NRI6qvluN83g3TcKAONrL5REtzYQIVR4TqrNs0awkDsRCXvaSEaOn83V0t1jpwkrh5FULBjyQJnxe-m4gkgjMHRC0SZHpkBDNjOSuZUrOXU5R6JGt4dwZXXn4JHYSoc4n22nIXcFIYtC51Vv89hGimRebEKzQ9-PX1U7M4Lk4ST/s260-e100/windows-patch.jpg"
     }
   ]
 }
