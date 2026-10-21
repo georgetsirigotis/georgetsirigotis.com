@@ -2,12 +2,111 @@
   "source": "https://thehackernews.com/feeds/posts/default/-/Vulnerability?alt=json&max-results=24",
   "sourceTitle": "The Hacker News | #1 Trusted Source for Cybersecurity News",
   "labelUrl": "https://thehackernews.com/search/label/Vulnerability",
-  "sourceUpdatedAt": "2026-10-20T14:04:51.848+05:30",
-  "generatedAt": "2026-10-20T10:06:27.795Z",
+  "sourceUpdatedAt": "2026-10-21T14:50:01.918+05:30",
+  "generatedAt": "2026-10-21T10:13:03.832Z",
   "retentionMonths": 6,
   "maxItems": 12,
   "itemCount": 12,
   "items": [
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5074610428079947730",
+      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+      "summary": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory. PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, f",
+      "url": "http://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+      "publishedAt": "2026-10-21T14:35:17.882+05:30",
+      "updatedAt": "2026-10-21T14:35:17.990+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxq1wmaSTaMiFJnrulXjwGrIIkIHBR3Q9Yv6Lky3rAie6XPOnFmXOVckMgVzGn9yvodrbkt6kV623Ofg8Iw-1MTDRoCVzXPiikivnZ5R7OynIF5-QC0DAiwXq8q2MRS3PZaz9NpjhJUqa-QWi1AQJ2XnJ-nvUNEvG3f1E0UpU5slUwzguAI-cESkZ5Xc/s260-e100/php2shell.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-206892827678052068",
+      "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting Plex Media Server that's collectively called Plex2Shell. The vulnerabilities are l",
+      "url": "http://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
+      "publishedAt": "2026-10-21T12:56:49.068+05:30",
+      "updatedAt": "2026-10-21T14:50:01.918+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNWLuogjq0EVRQo6oTMUucF21anDW9Jpvs5w98qm-I6hOqH4fU1ZeHA1DqNilI_drxE548BnZD4vkXfB3KmWXAm4xfU3KU3j38LI-ZXhB03kZy4rWc9qiQqSED6vVjxihA1-uM_46qlXjjDchlvKmtgFG-ym3oosqXFEED6w2mG_Zb-yHjq4IIPcFDeX13/s260-e100/cisa-patch.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4253089942592776280",
+      "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
+      "summary": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on October 20. An intermediate CA signs the certificates that websites present, so anyone holding one of these keys could issu",
+      "url": "http://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
+      "publishedAt": "2026-10-20T22:39:53.713+05:30",
+      "updatedAt": "2026-10-21T12:38:27.793+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Web Security",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJOWLzgriXXM626bAOaX_LEoNH97Ab_XV4oQ0GxBeY3-PqkdXdcae52-wrl8r0LipTFBsvl4R7Y5j6jFsiG_9V8ZAwHOkAlsZaRcOAswStHhAG1FYm9W6kjA4FmOz0bXgVXO6LyEs9Fv75UrRFphZEzhXodKdTlYzfPK8sqW3DpxKBnD7OFQfqJJ_ay2c/s260-e100/ecert.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-445200343961929342",
+      "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
+      "summary": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-106173 (CVSS score: 9.4), is a critical path t",
+      "url": "http://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
+      "publishedAt": "2026-10-20T21:08:52.884+05:30",
+      "updatedAt": "2026-10-20T21:08:52.884+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3BuJLxcpzxzxwpUcwsPb7L-gNCeXeyuPtNysOMHtf06VmANCx2DR3O52Puw9AQwUu0C8ccQ77MF_l0bAf4zL-hrvYO8jSHs6Km0Xz6-Q4yYm1thRvJ-y59qLRX9Qni0zD161qJ53oCgzEIo3NjOLKtgOrIAbOMsAhITOhL9qoy2v9D6tRU26m0fBoMDhJ/s260-e100/fort-poc.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6450582823396389309",
+      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+      "summary": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting  PAN-OS and Prisma Access by ransomware actors. The activity relates to CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw that could be exploited by",
+      "url": "http://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
+      "publishedAt": "2026-10-20T21:02:27.488+05:30",
+      "updatedAt": "2026-10-20T21:02:27.489+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd71tvun8MRT5muo9ZiruSzkyqhGkeh-_5dP4QardwiC54o4wW3PtC7I1jtP_vVX1rPujN_YdrmILFSZw_Ikl6v8Gn2w75v-90aSHpnngi2WE-Ezv6OAO37YY4pJpNwe_DcGWRMgIOUxAEPyVisI3SxXnV30HejoGfGtlXDfAgGkdqrdFJjAI7x6jjFFj-/s260-e100/palo-ransomware.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5771516333363798595",
+      "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
+      "summary": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on the internet. The agents tried more than 1,200 sites and rea",
+      "url": "http://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
+      "publishedAt": "2026-10-20T19:37:17.704+05:30",
+      "updatedAt": "2026-10-20T19:37:17.705+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Artificial Intelligence",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYic0qXjDFjrKdw3Ed58Uv28Xt2G7GTuEZhXrAiV07Xnn_I9DPNeQuntZ-TNMi_4i0JdPOyLj4geWCj8K_Zv2OBO4qaujmlDFzBDljcRvvbDx-3r1hSDDaDN-mI3u61F2gJW6zhShFGLZBKrLM0k0Y9yl5-VOVXFHiJaEg3V65-yfT1yXWc5FSfaYLCKg/s260-e100/bot-attack.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-906293967082220396",
+      "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
+      "summary": "The iPhone of Vladan Đokić, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's Pegasus spyware in 2026, the Citizen Lab said on October 19. The finding came six days before Serbia's October 25 snap pa",
+      "url": "http://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
+      "publishedAt": "2026-10-20T18:29:44.538+05:30",
+      "updatedAt": "2026-10-20T18:29:44.538+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Spyware",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_cQrX8zsqCvWd9Pl1mfmh8oQBwRAG_IcrKQB-EpiVEn2GXf5UJBh0UrLXCKzAmJo2Z-Di9G7-16n5hV-gmtfMi-JtB9sOd9neC-b1-6CpErVOYE7CUjBmZhunV45nzsFcDr03rK5RA8q7gFZXIuJZ4c6ND0VSQHYuppDkdTqq04MI7nVCz-10-K-xmc0/s260-e100/iphone-spyware.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4036303214917236642",
+      "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
+      "summary": "Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of eight intermediate certificate authority keys. Programs built on the new release will refuse connections to sites and services whose certificat",
+      "url": "http://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
+      "publishedAt": "2026-10-20T17:02:59.058+05:30",
+      "updatedAt": "2026-10-20T17:02:59.059+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Encryption",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh12Jum-ReZMOyqaMubiLlMwx4-uDVxEJkD6-CJabWhHfCKV-Csw7P4MoeRX85Ag-3rxZMftHE6KGcdh059DoOPvF1Mirv05BQsflmg8RroWBt_t00BGTHsdhqkmVWVuRHKAs56AhNfdsq_YH0QWrMJ1z4dFT3I3xOK7Dwqu7aPp_P7tFSxQ-bzqyz8e4/s260-e100/go-certs.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5230201355339640298",
+      "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
+      "summary": "The Russia-linked state-sponsored threat actor tracked as APT28 (aka BlueDelta, Fancy Bear, and Forest Blizzard) has been attributed to attacks targeting two member states of the North Atlantic Treaty Organization (NATO). The Symantec Threat Hunter Team, which is tracking the act",
+      "url": "http://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
+      "publishedAt": "2026-10-20T16:36:25.858+05:30",
+      "updatedAt": "2026-10-20T18:07:46.335+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Cyber Espionage",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNLZ-1vEmoCyztDVMziqJlhZPTZfW4mOe-qDn6OxDQ-K2LVZTvqhoOe3MIip5bDJfiJd7e3HLcq4S-0xb2SlfWbEqp4vlvbOnQDSP5edsQIxHFtYSCt1qM7XZksq0NPZ9AGesx0YzqHsTeWUuPUTysC5dbuDOvKIjQW0DJvkg1UG9KLH2Doglq7WtgyiRM/s260-e100/russia-nato.jpg"
+    },
     {
       "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5873492576552175093",
       "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
@@ -40,105 +139,6 @@
       "author": "Swati Khandelwal",
       "category": "Web Security",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja-6AhEjL8YvRsoNjXIIDEnsVd8gMMW_cUqMvLNcRukJXjatSuo-phLfYxt2A76gSCk-uZFmo4EbJjQuMr8_k8Pxl2ho1TnUL_50Q_VknkR8JqnTiVOqZ48i5W6Mv6HB0cQfJoAjs8xHUu6urkucsPClURVP3aWM0aivfngCFZLykMYzJITwenYfSb9Sk/s260-e100/wordpress-rank.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1086360863197017110",
-      "title": "⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
-      "summary": "The worst problems don't always come with a warning. Sometimes they arrive through a service everyone trusts, a device someone bought, or a system nobody thought to check. By the time something looks wrong, the damage may already be done. This week had plenty of that. Trusted con",
-      "url": "http://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
-      "publishedAt": "2026-10-19T19:44:07.716+05:30",
-      "updatedAt": "2026-10-19T19:50:32.290+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Cybersecurity News",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTvDNJzlrpPvCifQ9zNcdkc0vjmmRwGCap_kODFlX5W_IimpUgTyObjSefO7gHjXKUMhEkIlmgnH1GbbbWna6eZWa8xcRDLXeRmYX0oSrhAgS8YXth6_T2CPXMMnZvgsf1Psq_DUB9JkjeELLHjnB2xFl9-8bM5BW19fJ1aHcOruzwKErZJkjwRBSRedBq/s260-e100/recap-1.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1498882586651288090",
-      "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software",
-      "summary": "In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data into the agent's prompt. Separately, Email-to-Case and Web-to-Case turn inbound customer messages into case records; it i",
-      "url": "http://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
-      "publishedAt": "2026-10-19T17:20:00.000+05:30",
-      "updatedAt": "2026-10-19T17:20:00.112+05:30",
-      "author": "Unknown",
-      "category": "Artificial Intelligence",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1uAZRypeHl_8TjAU-3mwmvjdbCH0SZJwZBZOoEXcehaQfod9rpBvAl72JCjV8xF2KF4VbSVzWezAmkXjmbaxdIkK854Pa-yV4nkkRNe-l82mPM_VW1fLSE5Ib-RhyphenhypheneGga3KZ_9wQu76clTABJwGp_3N_M-6QBZMXFSISC56JWHVHpylO-uTenNO3kRlg/s260-e100/reco.gif"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-703283065619382654",
-      "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
-      "summary": "A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin Kaiser disclosed on October 16. He showed the attack working against home gatewa",
-      "url": "http://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
-      "publishedAt": "2026-10-19T11:59:44.981+05:30",
-      "updatedAt": "2026-10-19T11:59:44.981+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKR22_EY_V4kc68OQN7vGigoOrsBiy_aMnJVifzUg15itznrR-KdvcSdcaVSGnA6A2kAgMCSUNbIoqzh10gy8wQzkpK55LJPTjPPoV73VzoJlNCtZOn0LltkE7gq8PwH29hLNlUn41qQV8A7fTGkCwHu2LQ0OtvvTFtNRHll7xY0_PUfQ5K08JtCWriXg/s260-e100/wifi.gif"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4827857839823742859",
-      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
-      "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections.Security firm Calif, whi",
-      "url": "http://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
-      "publishedAt": "2026-10-16T23:18:45.028+05:30",
-      "updatedAt": "2026-10-17T22:45:58.678+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqmitTMm5t8BBKfynqzFAKqJSzh_s7fQczmMm5u95RLUUzuWMubd5DeM8e8EH6YOpP-_gvbYwn8Cd3flsL-nGIupBw5HOo49Orr7J2rqhI99J7U4LcXW6shlxd3w0zFAng1mLw5xGb-F9GRmpDK82GC1-Dcb1gPcvkgl4wVi0-QTEGalDwPmelGE0TtNU/s260-e100/openbsd.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3739555292343348926",
-      "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
-      "summary": "The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 2026. The vulnerability, tracked as CVE-2026-102764 (CVSS score",
-      "url": "http://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
-      "publishedAt": "2026-10-16T12:25:55.980+05:30",
-      "updatedAt": "2026-10-17T11:54:21.297+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Zero-Day",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5zD5GBvYxe93igsDOMdwS6eyfDORIWio42Z9UY0enK0XKWYcQlLB9RLx3iO_V1xm8vqBxMVZ_R8Lt-xxOumO5_RIFN3hgB-yZyGGlVMypRx5lm2GJq-1c9cbzfRcjrMAIfBI67L4QUI-MwjjQjKL1RcgPnzFdYuAF3k1y2Ev-ppSmiG8sdQ5dbJkbjKR/s260-e100/beyond.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6023428539982308459",
-      "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
-      "summary": "A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH. The attack involves the exploitation of CVE-2025-61624 (CVSS score: 5.4), a path traversal flaw",
-      "url": "http://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
-      "publishedAt": "2026-10-16T10:29:36.489+05:30",
-      "updatedAt": "2026-10-17T11:54:02.769+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMvdc6m999SfUEEWC89wHnBiUX9WAMCSdWtbFP_lrH4DuREHfOJL7G29LkM4uAvittg3XsHxnq6dq_VEX1zB_jCGi5RJDbQZlrq37gHSCXpRrn11FEN-hezQn0Dt4Xcw4DcanklKW_8iLEnQN6JpzkQ7JHBOS1_dMzDAs2h_jJcWDqOGjbkMoeabOCkSFK/s260-e100/f.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3348898992174848269",
-      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
-      "summary": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Vercel confirmed it. The flaw, now tracked as CVE-2026-99999 and ",
-      "url": "http://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
-      "publishedAt": "2026-10-16T01:54:36.568+05:30",
-      "updatedAt": "2026-10-16T01:54:36.569+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Linux",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Y0ZP5acV4vjjJV9at7yMnz0frJTAeLd3nGmqMIcifTwGoe2NsB7pDInUjGa6aocyqoM3o-NyXKpsfyy1LRdkH5UG67UVYC_lNZDYArvg-hkmtifcalWo67Mkl3A4_2qwXomi7iJURUjoiSlBdEWtJL5N63jfuMDjI7ewZHLlTZBXlkc4zqwyxKox7eE/s260-e100/pwnescape-main.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7991962059657400225",
-      "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
-      "summary": "Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with this week's security stories. The rest gets interesting in different ways. A small permission can lead to a big theft. A trusted ",
-      "url": "http://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
-      "publishedAt": "2026-10-16T00:19:33.611+05:30",
-      "updatedAt": "2026-10-16T18:36:26.098+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Hacking News",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8jHVMYXIjddaTrqHbBuPm3mQ6G_g8qlALwitmiIRM9OplZpPxLPDFet7ySOV0OVxPj6cW1oz0K6rydDvGYQGalR1jSt10bz8kti4dWnM0d3NnUBjuymD77_cReujy6AXmFgJgQQvl2qeICur3VHf5vYyOrxz8OFM-bEunzmK9PGDzCzzTVFVEdQyswYho/s260-e100/threatsday-oct.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7458038748959147340",
-      "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
-      "summary": "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS). The activity, observed from June 2025 through August 2026, involves four different infection chains that mak",
-      "url": "http://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
-      "publishedAt": "2026-10-15T21:30:26.287+05:30",
-      "updatedAt": "2026-10-15T21:30:26.287+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Cyber Espionage",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX-Vi04Qyk2-RKyXrnolcZ8TTBRKY43kIB_B7l-1Na3Xta_ed00DJtXclvIdp65s6Sdf3ksabzWKXmYTmKwx9xAlROi6eas704naXFtyx93xru04krAQ9kViM9rjKSgKhdMR0weIs4xOd7htm_gI_7CLg-N16wjCKt59vAoC-3UpMFJf8QawlMkfpRh745/s260-e100/winrar-hacker.jpg"
     }
   ]
 }

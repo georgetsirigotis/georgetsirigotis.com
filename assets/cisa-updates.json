@@ -1,13 +1,85 @@
 {
   "source": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
   "sourceTitle": "CISA Catalog of Known Exploited Vulnerabilities",
-  "catalogVersion": "2026.10.16",
-  "sourceReleasedAt": "2026-10-16T17:15:48.8752Z",
-  "generatedAt": "2026-10-20T10:06:27.160Z",
+  "catalogVersion": "2026.10.20",
+  "sourceReleasedAt": "2026-10-20T19:00:31.8765Z",
+  "generatedAt": "2026-10-21T10:13:03.203Z",
   "retentionMonths": 6,
   "maxItems": 12,
   "itemCount": 12,
   "items": [
+    {
+      "cveID": "CVE-2026-106931",
+      "vendorProject": "EG Secure Solutions",
+      "product": "SiteGuard Server Edition",
+      "vulnerabilityName": "EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability",
+      "dateAdded": "2026-10-20",
+      "dueDate": "2026-10-23",
+      "knownRansomwareCampaignUse": "Unknown",
+      "shortDescription": "EG Secure Solutions SiteGuard Server Edition contains an OS command injection vulnerability which may allow an attacker to execute arbitrary OS commands with root or SYSTEM privileges on the system running the affected product.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "url": "https://www.eg-secure.co.jp/siteguard/news/alert-202610-1"
+    },
+    {
+      "cveID": "CVE-2026-96656",
+      "vendorProject": "Plex",
+      "product": "Media Server",
+      "vulnerabilityName": "Plex Media Server External Control of File Name or Path Vulnerability",
+      "dateAdded": "2026-10-20",
+      "dueDate": "2026-10-23",
+      "knownRansomwareCampaignUse": "Unknown",
+      "shortDescription": "Plex Media Server contains an external control of file name or path vulnerability which can allow an admin user to write arbitrary files that may be executed on load. This vulnerability can be chained with CVE-2026-96652, CVE-2026-96654, and CVE-2026-96655.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "url": "https://forums.plex.tv/t/important-security-update-for-plex-media-server-v1-43-2-and-earlier/942319"
+    },
+    {
+      "cveID": "CVE-2026-96655",
+      "vendorProject": "Plex",
+      "product": "Media Server",
+      "vulnerabilityName": "Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability",
+      "dateAdded": "2026-10-20",
+      "dueDate": "2026-11-03",
+      "knownRansomwareCampaignUse": "Unknown",
+      "shortDescription": "Plex Media Server contains a server-side request forgery (SSRF) vulnerability that could allow an authenticated user to request arbitrary internal or external addresses via the '/video/:/transcode/universal' path parameter. This vulnerability can be chained with CVE-2026-96652, CVE-2026-96654, and CVE-2026-96656.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "url": "https://forums.plex.tv/t/important-security-update-for-plex-media-server-v1-43-2-and-earlier/942319"
+    },
+    {
+      "cveID": "CVE-2026-96654",
+      "vendorProject": "Plex",
+      "product": "Media Server",
+      "vulnerabilityName": "Plex Media Server Improper Neutralization of Encoded URI Schemes in a Web Page Vulnerability",
+      "dateAdded": "2026-10-20",
+      "dueDate": "2026-10-23",
+      "knownRansomwareCampaignUse": "Unknown",
+      "shortDescription": "Plex Media Server contains an improper neutralization of encoded URI schemes in a web page vulnerability that could allow an attacker to call other plugins' functions and supply their own parameters. This vulnerability can be chained with CVE-2026-96652, CVE-2026-96655, and CVE-2026-96656.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "url": "https://forums.plex.tv/t/important-security-update-for-plex-media-server-v1-43-2-and-earlier/942319"
+    },
+    {
+      "cveID": "CVE-2026-96652",
+      "vendorProject": "Plex",
+      "product": "Media Server",
+      "vulnerabilityName": "Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability",
+      "dateAdded": "2026-10-20",
+      "dueDate": "2026-11-03",
+      "knownRansomwareCampaignUse": "Unknown",
+      "shortDescription": "Plex Media Server contains a server-side request forgery (SSRF) vulnerability which could allow an attacker using any X-Plex-Token value to include a full URL in the 'protocol' parameter and force the Plex server to POST to the attacker's chosen destination. This vulnerability can be chained with CVE-2026-96654, CVE-2026-96655, and CVE-2026-96656. ",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "url": "https://forums.plex.tv/t/important-security-update-for-plex-media-server-v1-43-2-and-earlier/942319"
+    },
+    {
+      "cveID": "CVE-2026-110936",
+      "vendorProject": "Siemens",
+      "product": "Software Center",
+      "vulnerabilityName": "Siemens Software Center Uncontrolled Search Path Element Vulnerability",
+      "dateAdded": "2026-10-20",
+      "dueDate": "2026-11-03",
+      "knownRansomwareCampaignUse": "Unknown",
+      "shortDescription": "Siemens Software Center contains an uncontrolled search path element vulnerability that could allow an authenticated local attacker to place a specially crafted DLL in a directory that the application searches, leading to arbitrary code execution with the privileges of the affected application.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "url": "https://productcert.siemens.com/productcert/html/ssa-580366.html"
+    },
     {
       "cveID": "CVE-2026-102764",
       "vendorProject": "BeyondTrust",
@@ -79,78 +151,6 @@
       "shortDescription": "Ahsay AhsayCBS contains an improper authentication vulnerability that could allow a remote attacker to bypass authentication via manipulation of the random parameter in the API component’s checkSysPwd function. This vulnerability can be chained with CVE-2026-105134.",
       "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
       "url": "https://www.ahsay.com/en/company/announcements/patch-cve-105133-105134-update"
-    },
-    {
-      "cveID": "CVE-2026-0322",
-      "vendorProject": "Palo Alto Networks",
-      "product": "PAN-OS",
-      "vulnerabilityName": "Palo Alto Networks PAN-OS Code Injection Vulnerability",
-      "dateAdded": "2026-10-14",
-      "dueDate": "2026-10-17",
-      "knownRansomwareCampaignUse": "Unknown",
-      "shortDescription": "Palo Alto Networks PAN-OS contains a code injection vulnerability that could allow an authenticated attacker with network access to execute arbitrary code with root privileges on the firewall.",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "url": "https://security.paloaltonetworks.com/CVE-2026-0322"
-    },
-    {
-      "cveID": "CVE-2026-104935",
-      "vendorProject": "Ivanti",
-      "product": "Connect Secure",
-      "vulnerabilityName": "Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability",
-      "dateAdded": "2026-10-13",
-      "dueDate": "2026-10-16",
-      "knownRansomwareCampaignUse": "Unknown",
-      "shortDescription": "Ivanti Connect Secure contains an authentication bypass by spoofing vulnerability that allows a remote unauthenticated attacker to execute arbitrary commands.",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-104935"
-    },
-    {
-      "cveID": "CVE-2026-96951",
-      "vendorProject": "Microsoft",
-      "product": "Windows",
-      "vulnerabilityName": "Microsoft Windows Command Injection Vulnerability",
-      "dateAdded": "2026-10-13",
-      "dueDate": "2026-10-16",
-      "knownRansomwareCampaignUse": "Unknown",
-      "shortDescription": "Microsoft Windows Shell contains a command injection vulnerability that allows an unauthorized attacker to bypass a security feature over a network.",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "url": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2026-96951"
-    },
-    {
-      "cveID": "CVE-2015-5477",
-      "vendorProject": "ISC",
-      "product": "BIND",
-      "vulnerabilityName": " ISC BIND Data Processing Errors Vulnerability",
-      "dateAdded": "2026-10-08",
-      "dueDate": "2026-10-11",
-      "knownRansomwareCampaignUse": "Unknown",
-      "shortDescription": "ISC BIND contains a data processing errors vulnerability that could allow remote attackers to cause a denial of service via TKEY queries.",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "url": "https://access.redhat.com/errata/RHSA-2015:1513.html"
-    },
-    {
-      "cveID": "CVE-2016-3081",
-      "vendorProject": "Apache",
-      "product": "Struts",
-      "vulnerabilityName": "Apache Struts Command Injection Vulnerability",
-      "dateAdded": "2026-10-08",
-      "dueDate": "2026-10-11",
-      "knownRansomwareCampaignUse": "Unknown",
-      "shortDescription": "Apache Struts contains a command injection vulnerability that could allow remote attackers to execute arbitrary code via method:prefix when Dynamic Method Invocation is enabled.",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2016-3081"
-    },
-    {
-      "cveID": "CVE-2023-22894",
-      "vendorProject": "Strapi",
-      "product": "Strapi",
-      "vulnerabilityName": "Strapi Cleartext Storage of Sensitive Information Vulnerability",
-      "dateAdded": "2026-10-08",
-      "dueDate": "2026-10-11",
-      "knownRansomwareCampaignUse": "Unknown",
-      "shortDescription": "Strapi contains a cleartext storage of sensitive information vulnerability that could allow attackers with access to the admin panel to discover sensitive user details via the query filter. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or transition to a supported version. This vulnerability can be chained with CVE-2023-22621 to achieve remote code execution. ",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "url": "https://github.com/strapi/strapi/releases"
     }
   ]
 }
