@@ -2,19 +2,96 @@
   "source": "https://thehackernews.com/feeds/posts/default/-/Vulnerability?alt=json&max-results=24",
   "sourceTitle": "The Hacker News | #1 Trusted Source for Cybersecurity News",
   "labelUrl": "https://thehackernews.com/search/label/Vulnerability",
-  "sourceUpdatedAt": "2026-10-21T14:50:01.918+05:30",
-  "generatedAt": "2026-10-21T10:13:03.832Z",
+  "sourceUpdatedAt": "2026-10-22T15:31:15.383+05:30",
+  "generatedAt": "2026-10-22T10:14:22.358Z",
   "retentionMonths": 6,
   "maxItems": 12,
   "itemCount": 12,
   "items": [
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1891540365172319861",
+      "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
+      "summary": "Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the project says can allow remote code execution, meaning an attacke",
+      "url": "http://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
+      "publishedAt": "2026-10-22T13:17:22.267+05:30",
+      "updatedAt": "2026-10-22T13:17:22.267+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFwR_FE94PTthun36oXfrSIiYx7N-Hb3Ww1w2gFs6x6qs0mML2v_TmYZmgqYKxB6VlMBzmIQksNdHldgX-UxykDBNwnszmBuB7IZWyWJhxei65NJlOImUWde5tYzB7D94dmieFBGhFNVAt3bL4qlhXkl4o3uw362QKgJpk37xutyRmM5bB3sHR8XMC3bc/s260-e100/nodejs-rce.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7610182617221450073",
+      "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
+      "summary": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO disclosed, releasing working proof-of-concept code. By sending a small batch of compressed HTTP headers that expands in memory to a much larger set, the attacke",
+      "url": "http://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
+      "publishedAt": "2026-10-22T12:08:31.773+05:30",
+      "updatedAt": "2026-10-22T12:08:31.773+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidksxeLP_h5vpqmr62J_72yOAmQIRsZDLE6bpclFaHY1yQX6Dv-omiTvu_j49FuvXUOwxQT8levg89_AGRMiPNidANkEn1PSGSaNFoCVnY_VQ2Ny9D7FhLwtd9VDboOjxPi6Ssg78CdLFUzShhEt8oK6x0obKcHCZbbIMWBylnQCVCbQGUqjfbBJAKCew/s260-e100/http3.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7028112380450365464",
+      "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
+      "summary": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the release of the patche",
+      "url": "http://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
+      "publishedAt": "2026-10-22T12:04:10.806+05:30",
+      "updatedAt": "2026-10-22T15:23:49.036+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZXm1gLzaKPP-QW888zIx_tXRCirkgZBsOOn0icTEOrFBf7w28955jH1zY8jxw2Cf-g2Qp9mPHgrBe7E5dux_L2XUzdaVZfvRgj_utCT-nTiU7haAkAr_F6eEeW5YJmtwbtJoIuumhnv5F9tFG_2BcLwnaqwkFGWEvFnWsUDHHuobMhZ_letCSD6I56Lw_/s260-e100/php-hacks.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8099076049840684253",
+      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+      "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014. The fix matters even for administrators who patched nine days earlier: the ",
+      "url": "http://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+      "publishedAt": "2026-10-22T00:27:34.987+05:30",
+      "updatedAt": "2026-10-22T07:02:37.226+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig4Pkd5r0GeWGSaCoHaEsZVVoh5Y6xBkFvMTGYKvD5oONYnczQGAUqpjD6eCiA6sxiiel6Zs0kPiBEWOZJ21URkE59iJm-LDUFPYwPEf8o8d8lnyiMOR53H7IeXGKn3tTG9pusA-HKwYo0n04WQ1m8kg8dxIWEtxFGMDiBzrV-zzqAH2R2OVT2E1ViX_U/s260-e100/git-rce.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4505797346692624659",
+      "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
+      "summary": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35, and the PHP team says only updating fully protects a server. The flaws, ",
+      "url": "http://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
+      "publishedAt": "2026-10-21T19:30:00.000+05:30",
+      "updatedAt": "2026-10-21T22:46:14.483+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz8MKP95jyzesxy1eZd6zQDCb3dr-9m-bRE9W0PYnomN3z8lodXmM_0Oo4AAiP_nt2QMNpLxsUNPKueH4TW6FnvXl7ijDGDwxnXcfiyAII6sUDd8cfKoB7Z3MgLOvcAWDeplnUdixy-zfpgVqCuAVZmqH-Orn4S-QhYREVcY1ew7_6kIG8LBsdLZC8Ofs/s260-e100/PHP2SHELL.gif"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3511617534003943780",
+      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
+      "summary": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggested it now says. PHP will release the fix at 14:00 UTC on October 21 for two flaws",
+      "url": "http://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
+      "publishedAt": "2026-10-21T16:06:53.890+05:30",
+      "updatedAt": "2026-10-21T20:08:49.637+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipzsA5sBIvBsTGT1YIrSeK_4YH5ISqTd40ZG1tV8YN1VkjjZuiY6CfQojYR-TIoYKM0EgZM4fYrmdtD25XjeTtgBkTFCQGny4DLL0fTKT5SEFpOFBcxNjLgif_FrX-1d-IX9DE58tQX6ELzGk4cWNpUpU5Eaig8pqdLL2h6qqVCC95ZmHFN6m7tD6m7BY/s260-e100/php-rce-patch.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5795854942374320379",
+      "title": "The Harness Is the Hard Part of Agentic Pentesting",
+      "summary": "An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run against production and worth acting on afterward lives in the harness around the ",
+      "url": "http://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
+      "publishedAt": "2026-10-21T16:02:40.246+05:30",
+      "updatedAt": "2026-10-21T16:02:40.246+05:30",
+      "author": "Unknown",
+      "category": "AI Penetration Testing",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTdLja8gnPl92G1mhffmAZ3Dy5Q8gX9wpjY22n1J2xerzpx0Eab4VMj2fzt3XAe_TjT8hlDkjdzW8DdBwWCvAPa9o5SKnFN4MSo5H0MnXylWX36NwFiwcI19f3MR0QDPT2uKXtXH4RAj5_rU3aBnmAVxsczeL2sfBj7G1r878XbJ6rAyEFgIg0XeuBNKk/s260-e100/pentera-main.jpg"
+    },
     {
       "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5074610428079947730",
       "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
       "summary": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory. PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, f",
       "url": "http://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
       "publishedAt": "2026-10-21T14:35:17.882+05:30",
-      "updatedAt": "2026-10-21T14:35:17.990+05:30",
+      "updatedAt": "2026-10-21T20:08:44.589+05:30",
       "author": "Swati Khandelwal",
       "category": "Vulnerability",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxq1wmaSTaMiFJnrulXjwGrIIkIHBR3Q9Yv6Lky3rAie6XPOnFmXOVckMgVzGn9yvodrbkt6kV623Ofg8Iw-1MTDRoCVzXPiikivnZ5R7OynIF5-QC0DAiwXq8q2MRS3PZaz9NpjhJUqa-QWi1AQJ2XnJ-nvUNEvG3f1E0UpU5slUwzguAI-cESkZ5Xc/s260-e100/php2shell.jpg"
@@ -36,7 +113,7 @@
       "summary": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on October 20. An intermediate CA signs the certificates that websites present, so anyone holding one of these keys could issu",
       "url": "http://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
       "publishedAt": "2026-10-20T22:39:53.713+05:30",
-      "updatedAt": "2026-10-21T12:38:27.793+05:30",
+      "updatedAt": "2026-10-21T22:19:17.336+05:30",
       "author": "Swati Khandelwal",
       "category": "Web Security",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJOWLzgriXXM626bAOaX_LEoNH97Ab_XV4oQ0GxBeY3-PqkdXdcae52-wrl8r0LipTFBsvl4R7Y5j6jFsiG_9V8ZAwHOkAlsZaRcOAswStHhAG1FYm9W6kjA4FmOz0bXgVXO6LyEs9Fv75UrRFphZEzhXodKdTlYzfPK8sqW3DpxKBnD7OFQfqJJ_ay2c/s260-e100/ecert.jpg"
@@ -62,83 +139,6 @@
       "author": "Ravie Lakshmanan",
       "category": "Vulnerability",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd71tvun8MRT5muo9ZiruSzkyqhGkeh-_5dP4QardwiC54o4wW3PtC7I1jtP_vVX1rPujN_YdrmILFSZw_Ikl6v8Gn2w75v-90aSHpnngi2WE-Ezv6OAO37YY4pJpNwe_DcGWRMgIOUxAEPyVisI3SxXnV30HejoGfGtlXDfAgGkdqrdFJjAI7x6jjFFj-/s260-e100/palo-ransomware.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5771516333363798595",
-      "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
-      "summary": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on the internet. The agents tried more than 1,200 sites and rea",
-      "url": "http://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
-      "publishedAt": "2026-10-20T19:37:17.704+05:30",
-      "updatedAt": "2026-10-20T19:37:17.705+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Artificial Intelligence",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYic0qXjDFjrKdw3Ed58Uv28Xt2G7GTuEZhXrAiV07Xnn_I9DPNeQuntZ-TNMi_4i0JdPOyLj4geWCj8K_Zv2OBO4qaujmlDFzBDljcRvvbDx-3r1hSDDaDN-mI3u61F2gJW6zhShFGLZBKrLM0k0Y9yl5-VOVXFHiJaEg3V65-yfT1yXWc5FSfaYLCKg/s260-e100/bot-attack.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-906293967082220396",
-      "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
-      "summary": "The iPhone of Vladan Đokić, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's Pegasus spyware in 2026, the Citizen Lab said on October 19. The finding came six days before Serbia's October 25 snap pa",
-      "url": "http://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
-      "publishedAt": "2026-10-20T18:29:44.538+05:30",
-      "updatedAt": "2026-10-20T18:29:44.538+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Spyware",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_cQrX8zsqCvWd9Pl1mfmh8oQBwRAG_IcrKQB-EpiVEn2GXf5UJBh0UrLXCKzAmJo2Z-Di9G7-16n5hV-gmtfMi-JtB9sOd9neC-b1-6CpErVOYE7CUjBmZhunV45nzsFcDr03rK5RA8q7gFZXIuJZ4c6ND0VSQHYuppDkdTqq04MI7nVCz-10-K-xmc0/s260-e100/iphone-spyware.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4036303214917236642",
-      "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
-      "summary": "Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of eight intermediate certificate authority keys. Programs built on the new release will refuse connections to sites and services whose certificat",
-      "url": "http://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
-      "publishedAt": "2026-10-20T17:02:59.058+05:30",
-      "updatedAt": "2026-10-20T17:02:59.059+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Encryption",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh12Jum-ReZMOyqaMubiLlMwx4-uDVxEJkD6-CJabWhHfCKV-Csw7P4MoeRX85Ag-3rxZMftHE6KGcdh059DoOPvF1Mirv05BQsflmg8RroWBt_t00BGTHsdhqkmVWVuRHKAs56AhNfdsq_YH0QWrMJ1z4dFT3I3xOK7Dwqu7aPp_P7tFSxQ-bzqyz8e4/s260-e100/go-certs.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5230201355339640298",
-      "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
-      "summary": "The Russia-linked state-sponsored threat actor tracked as APT28 (aka BlueDelta, Fancy Bear, and Forest Blizzard) has been attributed to attacks targeting two member states of the North Atlantic Treaty Organization (NATO). The Symantec Threat Hunter Team, which is tracking the act",
-      "url": "http://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
-      "publishedAt": "2026-10-20T16:36:25.858+05:30",
-      "updatedAt": "2026-10-20T18:07:46.335+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Cyber Espionage",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNLZ-1vEmoCyztDVMziqJlhZPTZfW4mOe-qDn6OxDQ-K2LVZTvqhoOe3MIip5bDJfiJd7e3HLcq4S-0xb2SlfWbEqp4vlvbOnQDSP5edsQIxHFtYSCt1qM7XZksq0NPZ9AGesx0YzqHsTeWUuPUTysC5dbuDOvKIjQW0DJvkg1UG9KLH2Doglq7WtgyiRM/s260-e100/russia-nato.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5873492576552175093",
-      "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
-      "summary": "Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks. The high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score: 8.4), could allow an attacker to place a specially-crafted DLL ",
-      "url": "http://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
-      "publishedAt": "2026-10-20T12:41:45.895+05:30",
-      "updatedAt": "2026-10-20T12:49:30.814+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUJqb8f_ibR_O_dPoJqAVHZOVmgi23TsxhFzv19_3uzAbEqH6L6QMJUWdelmEKmDe6U9wj6KKyDpPKi_1a93IK1KJa-Ql0kFRtfqVe9sKQpVFj0dA65dCfRKCN7H0LQYgMdzqdJoLgSb6rRFBA4bfmf4oUqItqe6pVCsyxmEzCnHx02h_m1WsK6sJu7jy2/s260-e100/siemens.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3450941002531577436",
-      "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
-      "summary": "Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public. According to a researcher who goes by the online alias boredhackerblog, the exploitati",
-      "url": "http://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
-      "publishedAt": "2026-10-19T23:02:13.022+05:30",
-      "updatedAt": "2026-10-20T11:28:17.912+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF_Xo8mH5AxIDYx4hFrS1_uhblD0IoGUTo6bioM38mwy-whZAbcq1aaGeH1iZrS8nmk5Ow25NfX67HRXKiWFfzLc8C1A2zs2n948DwyW_NSSkowFDnEzxUofGxhNV72vTEWkgPmbO6XJyDUPwBR-lzSekj5_m8tY3JHjozUXETGEBg6GrLZrekhilW9W_R/s260-e100/plex-hack.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1910747183201987336",
-      "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
-      "summary": "Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:02 UTC on October 15 and 07:12 UTC on October 16 contained malware, Rank Math said in a security notice published on Octo",
-      "url": "http://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
-      "publishedAt": "2026-10-19T21:58:47.149+05:30",
-      "updatedAt": "2026-10-19T22:02:21.222+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Web Security",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja-6AhEjL8YvRsoNjXIIDEnsVd8gMMW_cUqMvLNcRukJXjatSuo-phLfYxt2A76gSCk-uZFmo4EbJjQuMr8_k8Pxl2ho1TnUL_50Q_VknkR8JqnTiVOqZ48i5W6Mv6HB0cQfJoAjs8xHUu6urkucsPClURVP3aWM0aivfngCFZLykMYzJITwenYfSb9Sk/s260-e100/wordpress-rank.jpg"
     }
   ]
 }
