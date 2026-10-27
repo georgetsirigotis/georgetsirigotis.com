@@ -1,13 +1,37 @@
 {
   "source": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
   "sourceTitle": "CISA Catalog of Known Exploited Vulnerabilities",
-  "catalogVersion": "2026.10.23",
-  "sourceReleasedAt": "2026-10-23T19:30:18.9209Z",
-  "generatedAt": "2026-10-26T11:09:46.132Z",
+  "catalogVersion": "2026.10.26",
+  "sourceReleasedAt": "2026-10-26T22:24:24.6101Z",
+  "generatedAt": "2026-10-27T10:37:33.565Z",
   "retentionMonths": 6,
   "maxItems": 12,
   "itemCount": 12,
   "items": [
+    {
+      "cveID": "CVE-2026-109618",
+      "vendorProject": "PHP Group",
+      "product": "PHP",
+      "vulnerabilityName": "PHP Memory Corruption Vulnerability",
+      "dateAdded": "2026-10-26",
+      "dueDate": "2026-10-29",
+      "knownRansomwareCampaignUse": "Unknown",
+      "shortDescription": "PHP contains an out-of-memory corruption vulnerability that allows for unauthenticated remote code execution.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching"
+    },
+    {
+      "cveID": "CVE-2026-109619",
+      "vendorProject": "PHP Group",
+      "product": "PHP",
+      "vulnerabilityName": "PHP Stale Internal Request-State Vulnerability",
+      "dateAdded": "2026-10-26",
+      "dueDate": "2026-10-29",
+      "knownRansomwareCampaignUse": "Unknown",
+      "shortDescription": "PHP contains a stale internal request-state vulnerability that allows for unauthenticated remote code execution.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching"
+    },
     {
       "cveID": "CVE-2026-114625",
       "vendorProject": "Arista",
@@ -127,30 +151,6 @@
       "shortDescription": "FortiOS, FortiPAM, FortiProxy, and FortiSwitchManager contain a path traversal vulnerability that may allow an authenticated attacker with admin profile and at least read-write permissions to write or delete arbitrary files via specific CLI commands.",
       "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
       "url": "https://fortiguard.fortinet.com/psirt/FG-IR-26-122"
-    },
-    {
-      "cveID": "CVE-2026-21589",
-      "vendorProject": "Atlassian",
-      "product": "Multiple Products",
-      "vulnerabilityName": "Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability",
-      "dateAdded": "2026-10-15",
-      "dueDate": "2026-10-18",
-      "knownRansomwareCampaignUse": "Unknown",
-      "shortDescription": "Multiple Atlassian products (Bitbucket Data Center ,Confluence Data Center, Jira Service Management Data Center, Jira Software Data Center, Bamboo Data Center, Crowd Data Center, Crucible and Fisheye) contain a files or directories accessible to external parties vulnerability which could allow an unauthenticated attacker to access specific files within the web application root directory in affected versions.",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "url": "https://confluence.atlassian.com/security/cve-2026-21589-arbitrary-file-access-vulnerability-impacts-multiple-products-1870495748.html?ref=labs.watchtowr.com"
-    },
-    {
-      "cveID": "CVE-2026-105134",
-      "vendorProject": "Ahsay",
-      "product": "AhsayCBS",
-      "vulnerabilityName": "Ahsay AhsayCBS Command Injection Vulnerability",
-      "dateAdded": "2026-10-14",
-      "dueDate": "2026-10-17",
-      "knownRansomwareCampaignUse": "Unknown",
-      "shortDescription": "Ahsay AhsayCBS contains a command injection vulnerability that could allow a remote attacker to execute operating system commands via manipulation of the random parameter in the Replication Receiver component’s /rps/api/json/UpdateReceivers.do endpoint. This vulnerability can be chained with CVE-2026-105133.",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "url": "https://www.ahsay.com/en/company/announcements/patch-cve-105133-105134-update"
     }
   ]
 }
