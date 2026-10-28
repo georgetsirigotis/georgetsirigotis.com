@@ -2,12 +2,133 @@
   "source": "https://thehackernews.com/feeds/posts/default/-/Vulnerability?alt=json&max-results=24",
   "sourceTitle": "The Hacker News | #1 Trusted Source for Cybersecurity News",
   "labelUrl": "https://thehackernews.com/search/label/Vulnerability",
-  "sourceUpdatedAt": "2026-10-27T15:03:06.367+05:30",
-  "generatedAt": "2026-10-27T10:37:34.130Z",
+  "sourceUpdatedAt": "2026-10-28T16:45:51.744+05:30",
+  "generatedAt": "2026-10-28T11:22:08.360Z",
   "retentionMonths": 6,
   "maxItems": 12,
   "itemCount": 12,
   "items": [
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4811728594644334086",
+      "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
+      "summary": "Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation. The list of eight vulnerabilities is as follows - CVE-2026-1043",
+      "url": "http://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
+      "publishedAt": "2026-10-28T16:45:51.744+05:30",
+      "updatedAt": "2026-10-28T16:45:51.744+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3z7SDPF49VtrfeTS8qZD9-Rv1ne3ZUL2KLJZklOlASYXMnjBQXmmIYZ-wAC9PR248ntUBTyZLq2G6TPVYLZ-aEN7fDFc4pcEhSbt_vj36JTbujGJ2UHTbxFDUOiDvYDyKl7NpCvSMlySdqWjPhyphenhyphenFUNTkC38Ej0biyWHeF1u4kFHCe4tkJjgCW6RCHttx_/s260-e100/adobe-main.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4060856846637930333",
+      "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
+      "summary": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report. The exploits were built in the lab after the model was prompted, not seen in any re",
+      "url": "http://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
+      "publishedAt": "2026-10-28T13:45:07.908+05:30",
+      "updatedAt": "2026-10-28T13:45:07.909+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Artificial Intelligence",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSMl2C6S6mb-smamI35fLYotcPaercI_2PIgtuF78Q7PtQcFvFUKXkModTW4nRCh6FC7Xht2BltSGImRS2QNR4Lnc22S7UBU9V_0UDcZi2iDNXSlCJDqD4ApmJPqA_boFokj_9dTWKdzhjIgNt_Y47zumx_c5vrcJn5Vd-Xaowafv4HGCzCcqgDV4GGpo/s260-e100/hacker-chain.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6897577546766910343",
+      "title": "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers",
+      "summary": "Tailscale has released version 1.104.4 to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the root user should be able to touch. The flaws are in how Tailscale SSH forwards network connections, a job the Tailscal",
+      "url": "http://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html",
+      "publishedAt": "2026-10-28T11:50:37.597+05:30",
+      "updatedAt": "2026-10-28T11:50:37.597+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4t7YUY-idhgGJFpEuulM5zELQR4QNB-UKmsh7cyB5cdMH4AU_zumf3K27WBWgAw6ra28TvALm5fFeLrV_1wHJXeYy3azE1TcblP-1JSCPLF3mq-WKjUOXy3K-pfjhHtiwGkCoYhxfEMZGielHz2Bit6mLoNlnElmauP0RNcbXelNkAHIWI4s92qrymUQ/s260-e100/tailscale-patches.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6981442170525211540",
+      "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
+      "summary": "The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week. Oracle patched all three under a single identifier, CVE-2026-35273, in June. Its root is a server-side request ",
+      "url": "http://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
+      "publishedAt": "2026-10-28T11:34:58.029+05:30",
+      "updatedAt": "2026-10-28T11:34:58.029+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgiU-iVEycp9z-2dprGJhgl046M9ZvG7kGGwaXNzgFJg7XDubOoWWLvEuKAOczIcGuXU04db46Xa6pRMKO36ZS7Fu8Xkv7mNuPjHUS0zLTHkGlNWNRD2DLCznPf6jqvqamZSZGMBXSzh9gMYm-9sR-y7OgN7i7n6x0dfYxyl9QftWlfuQw0mpTteHy57k/s260-e100/sh.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6653578823201068073",
+      "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulner",
+      "url": "http://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
+      "publishedAt": "2026-10-28T11:12:26.885+05:30",
+      "updatedAt": "2026-10-28T11:12:26.885+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1vdoV4q9cDhhxBpH2lDPkUPc4WTkuwSmH93IS6MDM8fSYR4ZsKEakfK54cvOjHMFYGJA7Hri87MShqbPweb0BNmEXEsKJErbferZyq7_m7XdHLrb2bgmps_Bs_nu_w7RCiade8PPKSYv6NpxnWTG8pJD5CIUvI2E_cfWMqNBFTl4MXm2WKZaqL_T0DaO-/s260-e100/cisa-warning.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5444297358716799445",
+      "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
+      "summary": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator. TrendAI, which analyzed three exposed server environments us",
+      "url": "http://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
+      "publishedAt": "2026-10-27T23:56:46.843+05:30",
+      "updatedAt": "2026-10-27T23:56:46.844+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Artificial Intelligence",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiniSfVwM2b4RVouLhc_nIvm2CdQCg9jtQDBVQP6BjvEC2NBaLFqU0A8RyC_GA3PkI4jF87W3h0GJ4xzycp6LAd4I3eRh3JnhnM9yi7CZ9dX2Pfe3MdDaaUSyrDUy1ksA-fdq0bUVzWcFRmS-JWOy3z7xiWB70DzgXLst_YspRqbGIAyv85_D4H9sPT7Sq3/s260-e100/cyberstrikeai.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7232039681045429419",
+      "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
+      "summary": "The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on affected setups. The flaw is in builds that use the OpenSSL backend with mutual-TLS",
+      "url": "http://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
+      "publishedAt": "2026-10-27T19:29:48.731+05:30",
+      "updatedAt": "2026-10-27T19:29:48.731+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6ae8TupuVJ4B0uHZJxwQnaqstuuA42Jwt_Zh7m9RwCBp_IrCYuChUaac6fUphOhpalVEC8tfhGsYGxt1lmswBobM-r-ds6t0uEMSV9HZKT_dYcigHPxGJQo7dcJte96ymjxwSREmiGulG6xPIX4Hx3visDSuyaX2DJ3HRcctAz0Jw1T9ALkCEwZUlMsQ/s260-e100/goahead.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4390118485935131320",
+      "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
+      "summary": "Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices. The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds write affecting CoreGraphics that could result in arbitrary code",
+      "url": "http://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
+      "publishedAt": "2026-10-27T19:29:09.062+05:30",
+      "updatedAt": "2026-10-27T19:29:09.062+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqZx9ghfLBFufN5Q4s1dq2U1rXwenlfzU7UsqQfLWn3AEUe5CX3krGuvC6DM4mF2T9MmscvntBNxmgU7UjNOnfJQteKvuAs-4Nq0vJ3TnTkuFy1TRO3ibdh2Ekqi_WqiInvPkXjYlnvrCuYb5mb8neOOqBbmf_034wh8MPOLPKW2Nvvezpb2LFNXPbeUa6/s260-e100/apple-patch.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2118423929310759913",
+      "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
+      "summary": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account. Microsoft tracks the flaw as CVE-2026-80097 and fixed it in Authent",
+      "url": "http://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
+      "publishedAt": "2026-10-27T17:39:50.184+05:30",
+      "updatedAt": "2026-10-27T17:39:50.184+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqk63DF3MJCMgQqpg91UsWY7mjACbBgPl50GfKwDPi7v3md6sP5l8a2BUqHABjgMN_6BzgcMx4vVKW4hR9B9pz8_XHqp5ctKqQQLw-RJwuKmVWm2MaSzEMkHIsV-Yi0V6Mq_gUYYuzTpi-BzV2-8dRVYBjtuW4nb9TbobkPwvOGTkIFTpr334JB_LZIkw/s260-e100/msms.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1513395971202676427",
+      "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
+      "summary": "An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a statement on October 26. Someone with that key could build counterfeit devices that pass the online check owners use to verify a Key",
+      "url": "http://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
+      "publishedAt": "2026-10-27T17:16:00.818+05:30",
+      "updatedAt": "2026-10-27T17:16:00.819+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Cryptocurrency",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkvGXPUhZZjWBsYYBAx8KeJ8WilsBMLE-JhqfNAEyCOPuxs6-4VIF1e77IHR5zVdGfRsjJkSOfUVE1JaEmKe0mSAVM-ha4SeROxEGAdkLY5n5rBqx1LBSm6UVxA167sJYZEJTRra7BSipFtdlw2S-kFCUOSa9n70NbfSka3zRNVHd0D69qbVpSGIOnuAU/s260-e100/keystone.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4175801089272347138",
+      "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
+      "summary": "The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-communication equipment manufacturing sectors. According to Russia",
+      "url": "http://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
+      "publishedAt": "2026-10-27T17:02:31.161+05:30",
+      "updatedAt": "2026-10-27T19:16:04.072+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Cyber Espionage",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoWz3Ex4w0TebsrzDSdna5WAjqoQx5EHWC1kY3db9VgMg6FrGK6VbncVA9b3tKdPnqlR6qmdwsq7CT1f-Cp57WpH6lpfoF-5zb_Xg-ahdsNxO4OUTsdDVeO_8s7SQFLp54SrsWlWrZn-37sAcqv1ZeG_7Yc62vQ5X9Tq-MlIEm6EOQOiTkQVlcy9F4VG4/s260-e100/korean-malware.jpg"
+    },
     {
       "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6658186600095613698",
       "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
@@ -18,127 +139,6 @@
       "author": "Swati Khandelwal",
       "category": "Artificial Intelligence",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNsIWTk2-hgeO3hAG2ohh1yrK20QoX_O0WDYRc83Q9qg-Igk4mEbzap014Pya2lSNiYEvbRIzilTYToybQVVtR3sQH84nJj-kd8tGWOqW3D-ylLpwcxOfvONGVSzjNuu5piwltyECtuezAw4Q8R7S3lvH_g2z3EpDT_EuOOEJg1-FRrChaADA4S6scQkU/s260-e100/chatgpt-compact.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8252897665387348214",
-      "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
-      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua. \"Cases of compromising IP cameras and DVRs with access to the video stream, changing the device configuration a",
-      "url": "http://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
-      "publishedAt": "2026-10-27T12:04:47.385+05:30",
-      "updatedAt": "2026-10-27T12:04:47.385+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjISG9SXb2aeE6Zy-bIbnuaqwUNmGof7xU8RQl0vGZIcxcgNE3YXpuvG7rJKSTn_q9J8d_2DEv6rU2zxoX615DIYePz9rMA2TiLT6Fo1q2leGoyH85hJuIUta8j8FEN2mY5AGaO6zH5o6MkCHZ9Sv7OpjrZ6LE1yZygl9R4hUgt7xWJMMeGXRI4UJziuPCW/s260-e100/hackers-camera.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6236162642726870582",
-      "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog. The PHP vulnerabilities, both rated 9.2 on the CVSS scoring system",
-      "url": "http://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
-      "publishedAt": "2026-10-27T10:07:59.168+05:30",
-      "updatedAt": "2026-10-27T12:01:28.543+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-vxKiggBxnuXu0fenkg0gfce0iuuA3OxeVzvWAdc0zaDPDayQgY8y_miqnvHJrpYvw61AhvGHEOW4EIKIYZ4QkRGjGEhqiU-3R0o6m0fgHJYDtszsoXyqse7WDGMh4rvEuTf1T-17KOVkyJKgEcaw5yBXFi6ElwIFyU9TjudvJrHz4fz6VNro8bjUZcnD/s260-e100/cisa-php.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2888881102839714307",
-      "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
-      "summary": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Dutch e-commerce security company Sansec, the activity is designed to add a small piece of code to the store's pages that,",
-      "url": "http://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
-      "publishedAt": "2026-10-26T23:42:22.158+05:30",
-      "updatedAt": "2026-10-26T23:42:22.159+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Malware",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdh3aURB79okzf_mo3sPzJy6vKRiWdPc4gyrE93xmMW-MRgYHrOuJ5yya0TpovJvi-2ol3GubNo5ir76ui-2jBo1jUvOd45Z8f98YeGVAECGcwgpRetuyxFxGWY8bBOB4a0G1H5YiYoYJ3Kd8YauFJGUIVTKYVHsLrvDElRe8sOuD4Y8CKMrAtCA6eJazr/s260-e100/m-code.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2870425163297604879",
-      "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
-      "summary": "PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt memory and potentially run code. PHP says the flaw can be reached through the cUR",
-      "url": "http://thehackernews.com/2026/10/php-issues-second-windows-security.html",
-      "publishedAt": "2026-10-26T23:15:57.230+05:30",
-      "updatedAt": "2026-10-26T23:15:57.230+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWGYEqFaRxRywsWzBt-2T2G_Jpdp4zy3iV7qI1alNGRaBf_8TMdzRQQb335GhASkVoXD3q9mGkiLjAog4ez9d7DHhl88lkNVvuhI74KiKZP0zZpb2O8yyqyDw12WoYTiGaq1AVfG9TfGcdNhP-DmRwuKJ4Pj4mr9rEo-TVLYxYSpmUogJUSFZFL_VaduQ/s260-e100/php-windows.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1778565773539262618",
-      "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
-      "summary": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already being used in attacks, and security teams have more urgent p",
-      "url": "http://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
-      "publishedAt": "2026-10-26T19:36:13.125+05:30",
-      "updatedAt": "2026-10-26T20:56:22.948+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Cybersecurity News",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjztmxBbaYZEAd_HSv1heMQm8UuLym1h7XcN8NrgWjJmaoghOIR2O1rHwQzunUd9jlQn4R_8ft4Y0K9xLQOhs2xM8vVh1eHoEsZIFonHd7K6TA1cd0aIJ6jK-K2RNVBCwMfQwq7WWpuFtB8inWvubRjIEw_9fetsRFllw-fsAAnjCnpMCqFIL28ovMhJwbd/s260-e100/recap2monday.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1543916664269328418",
-      "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
-      "summary": "Two critical flaws in Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project's maintainers say. An attacker would first need a vulnerable Wasmtime build to compile",
-      "url": "http://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
-      "publishedAt": "2026-10-26T17:22:41.538+05:30",
-      "updatedAt": "2026-10-26T17:22:41.562+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5xq9w5oCep_lu7UpdVExPO7yRQ1tMz0YkxljYR_LmwG3WKowZ2CtLPh4F6kASJ7Xu0xJKy4uVzlwj7fPEO3fgKUELS4BqUtDZvGh1P-iqRslXNCLdkcJMCBGSKvJeqrrkeZdfPO9Wmv_v2VqdYEZVavTHw-QHUhli9QYGVhASuSRt3DETy8JMBz1D-kE/s260-e100/wasm.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2788618055750336898",
-      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-      "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker who",
-      "url": "http://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-      "publishedAt": "2026-10-25T23:14:09.147+05:30",
-      "updatedAt": "2026-10-27T11:31:06.706+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbGR63RmXInXPwCVFZlGJSiGv5WQfLTWymToOPIYbKXfXniB7X4YDbTVK-28G4r3WfdelCr_2TRzhoYrIogcG_C9WjXEHaLhURIh_v5RyO5sBY8UKwQWbKUBrv_H5n5K7N4mz2WG3d5dldw_re-M5CgDDbVi_EhTqvB9P87fZJlODojj8ivvj-RwLUhpg/s260-e100/tailscale.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-70857981266893049",
-      "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
-      "summary": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws. \"What researchers saw was an attack against a European government agen",
-      "url": "http://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-      "publishedAt": "2026-10-25T22:49:46.756+05:30",
-      "updatedAt": "2026-10-27T10:02:12.622+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzK2qokKedMIUzd876s0EWaLDb7qw-DMzlFWKvmfgCzMKZ2KVvdpZ-298SoEm1_PP6aoEBc6q1LAydnANGur1FbFNmXmhlo6zHtRFvgRcbx-LOoDoM_-JI-_7XkkM4r5q3LQH1SdfirarXTGeiu16d5YMDSeYs8tfJn5ITfRQ4DThbqkq66b4WdDQcOJqf/s260-e100/php2shell-exploit.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5068563397084436183",
-      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
-      "summary": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current state of alignment research, monitoring systems, and the sec",
-      "url": "http://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
-      "publishedAt": "2026-10-25T12:24:29.070+05:30",
-      "updatedAt": "2026-10-26T20:56:01.875+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Artificial Intelligence",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSwuCxStjU_WIIOJ5dEqVxFVQeLfJevQdmLoYLBiXsduAvosK7VfzyduIRRmiOcpl2lQlSdEoInwRkfOnR4devMGT6oI_Limrjcx8yLFsTRau7CBK76cGIMXxC916OKHtwALlELG-nPljBDVIPl2aPDOZTYqkTr6AyZMyFQ6hwUFdfx5Tr2cz8KpDSlb9j/s260-e100/ai-agents.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5262467545044996107",
-      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, Microsoft's .NET, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows cr",
-      "url": "http://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-      "publishedAt": "2026-10-24T16:39:29.613+05:30",
-      "updatedAt": "2026-10-26T12:35:46.446+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxIIerJT3LOMCGn3nXAnmhaHzJlJnVJCso1COluq8t3WuF4IpNARa_Asl5nEhRUDTEcR89kwzo5vGmP5IyNbj1ncdaCpkhqcHUODHAd3khanaE-7N8Vb0NyEJkmPmNkhSpJtLCLgi9srDRhZLtM5n8UDI58F797ZJaVzC7JzjPLfca4NpxZr_7tCX8RIk/s260-e100/br-nodejs.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8893345864805745116",
-      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
-      "summary": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine. The updater belongs to Time4Popcorn, ",
-      "url": "http://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
-      "publishedAt": "2026-10-24T14:34:24.638+05:30",
-      "updatedAt": "2026-10-26T13:14:38.255+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0sIO412EzdDtlngPmg_icDaIn3Mb1ODDcIEPLJMLpatt8TkMHFUFK63rBJVBb72s6uV_KvpRPfKISPfLtznJpsy7_HLaxigKAZP3hvqiGF-gkqKqYi-6tEvyPV_UhUpRGf1bREenTlzt7o9OIs4LfdXy9VekUesPsb5OWcVr7X-JlCeieU0V419GJ3rNY/s260-e100/popcorn-botnet.jpg"
     }
   ]
 }
