@@ -2,12 +2,45 @@
   "source": "https://thehackernews.com/feeds/posts/default/-/Vulnerability?alt=json&max-results=24",
   "sourceTitle": "The Hacker News | #1 Trusted Source for Cybersecurity News",
   "labelUrl": "https://thehackernews.com/search/label/Vulnerability",
-  "sourceUpdatedAt": "2026-11-06T17:36:43.232+05:30",
-  "generatedAt": "2026-11-06T12:58:41.801Z",
+  "sourceUpdatedAt": "2026-11-07T13:44:20.761+05:30",
+  "generatedAt": "2026-11-07T11:45:09.368Z",
   "retentionMonths": 6,
   "maxItems": 12,
   "itemCount": 12,
   "items": [
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3373736156246979577",
+      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
+      "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs the fix still unpacks its files using the site's old, unpatched code, so an attacke",
+      "url": "http://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+      "publishedAt": "2026-11-06T21:38:38.610+05:30",
+      "updatedAt": "2026-11-06T22:24:57.928+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4gwg9bgmxLj_anXtQvOZdeKYWN-aAZxZqlOrI7wXwZ_qW_lUZrzwYufexnbDLcC20eXBkh7TgA-dAQHm6EEmEc80i9A6GOBGkiOb8NhcR1d1CFLKDLc7VJzyC4Bv-5Ye2AEE_ApPcKmAWqJJFfbQ2AOGffKhCPNznyYyz5s0Jro-mxcTxfxPoqRe-ZoY/s260-e100/wp-update.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-826991381775092632",
+      "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+      "summary": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-123158 (CVSS score: 8.1) and codenamed SSHole (or *sshole), ",
+      "url": "http://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+      "publishedAt": "2026-11-06T20:51:49.452+05:30",
+      "updatedAt": "2026-11-06T20:51:57.507+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHbl1TAGj_ZHZDF3oQ8AfebRDiovg_d8Wk4huY5VJkSa0csE45G7k5jwdG1De-W-7l2RjnyH_ZvT3vcioykVeOooifwvViM8RiuTu0gSt2t-XgOefyYKyM5_zbsI5WFNubkIT0hOUr4inPIQMvXs6GDTLa6j7XWL3etRJYvOcDLJxa3IDXv-KtuCma5JsG/s260-e100/ssh.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1770329041104015181",
+      "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
+      "summary": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment. The new model is \"more capable at finding and fixing vulnerabilitie",
+      "url": "http://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+      "publishedAt": "2026-11-06T20:28:32.023+05:30",
+      "updatedAt": "2026-11-06T20:28:32.023+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Artificial Intelligence",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXR9F1Fu-E50zYby7QnTXAX324GHruNgN0_-95ygoUQV94WlkKSNHt1n8Af8HANmBe6GYgt_1-jGJzGNdg6NnoWY_Jrfbxjyv8mSQzOCa_t7e-e5S8DEB32YavCpthT2pB3jQsFRNJ69bgOgph9qyCBppvb93YSsYSzBM1P9CdeO_rhMcF4LgCj-kQvY2C/s260-e100/gpt-cyber.jpg"
+    },
     {
       "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4424200672849818541",
       "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
@@ -106,39 +139,6 @@
       "author": "Swati Khandelwal",
       "category": "Vulnerability",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaF7lULSp8hpZx_WSDcDsJxD9TzTOH5Oo5dkFteUVQqQMOXc7ZyytOxbNgL01vkV43Kx0V0sDzJvKGrZvPwjos_-g9djk8jVAqSN04CIhGoiWWUMLdyKQH32ES8ghi-6ilZbnbGi_WIRi8hvzik6ztrin-MZEK1QI2CKR3Lk1sUg3yVYuhGvsX0pC85Qg/s260-e100/zyxel-hacker.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5332526973084266403",
-      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability in ques",
-      "url": "http://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
-      "publishedAt": "2026-11-05T10:47:04.676+05:30",
-      "updatedAt": "2026-11-05T10:47:04.677+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkv0B0acGnMDLnCJQYXNCkpzSeKKr_1m4-a10Q2Iy6DZOorGLb35YDD9vw3iQQA9fZTi7QGIZYlSsvTSmxc8w0UbgN_Xtl-QPyTngA9qhOuoryee3Z8X8CZRnHiUAY3wuIXG_UIO1DyDnjnfS5cOilt3WPzRnYYqFDZ1NHbXS0OVAsrVYHSeFuc7zglZw5/s260-e100/apple-0day.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8050352521174538364",
-      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
-      "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that Debian, Ubuntu, and APT's developers published on November 4.",
-      "url": "http://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-      "publishedAt": "2026-11-04T22:30:46.359+05:30",
-      "updatedAt": "2026-11-04T22:30:46.399+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Linux",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUPaNgRQEg3TU6-9BBgKse77CGVpbBFbn48cBnN1aanKvaMzk_mT74RxyWZA3_NbcrYe0UnRAQlELRYKGiGNrLUDcBMSKXFgRNxaND7RoaVFOs1Q7rkFFtlpoAzYQ7C8i6RAY4bNNTarEMUI-iFR4A_IfjIkFE9vpyQjG-0QFngy5cRE8f2GhGfTltkaI/s260-e100/linux-apt.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7001594257185161036",
-      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
-      "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below - CVE-2026-109593 (CVSS score: 9.1) - An unau",
-      "url": "http://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
-      "publishedAt": "2026-11-04T22:30:38.199+05:30",
-      "updatedAt": "2026-11-04T22:30:38.199+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgME1T4MkjI8UEzzSmlLgbPG6a__VNQNoKkhuxiaW5zF5fnHLPmsTdkGoIL06JTeER1jcOMH-WLuNYyva_sSW_8DnZojbMC8ikgNME3ZPUAdkij-9nVm8joHHdaZRoLNbVgcSVLNSc6Tt7UJ3YPhQmea3OtQwg-H2UzUPIgWq7nFwoEQcMsGCKf-0fImEvd/s260-e100/sonic.jpg"
     }
   ]
 }
