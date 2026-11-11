@@ -2,19 +2,107 @@
   "source": "https://thehackernews.com/feeds/posts/default/-/Vulnerability?alt=json&max-results=24",
   "sourceTitle": "The Hacker News | #1 Trusted Source for Cybersecurity News",
   "labelUrl": "https://thehackernews.com/search/label/Vulnerability",
-  "sourceUpdatedAt": "2026-11-10T18:09:22.364+05:30",
-  "generatedAt": "2026-11-10T13:29:47.230Z",
+  "sourceUpdatedAt": "2026-11-11T17:49:40.243+05:30",
+  "generatedAt": "2026-11-11T12:44:49.600Z",
   "retentionMonths": 6,
   "maxItems": 12,
   "itemCount": 12,
   "items": [
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2457379069544585124",
+      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
+      "summary": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys. Each intermediate CA has its own private key, which the company uses to sign the certifi",
+      "url": "http://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
+      "publishedAt": "2026-11-11T17:30:53.135+05:30",
+      "updatedAt": "2026-11-11T17:30:53.135+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Web Security",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjONLgT6piRm0O75Y6dzQY4L2RO8OQTlWaJbwSTHFDeh82Qiadl2PT9KI9r2jC1JbwS-TqPm3g1Ea0Q8I91FalXu2GZ0fBBnfId6-8ZWKABrBQZWg7nA1X6cHq7wgHK3rc2Y5YW4yb61TjxVyywyWprml6yhBgH-SBaTvXZF-50J8-mR5Q6cGhSgfuMUdk/s260-e100/emudhra.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1298977129499520872",
+      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+      "summary": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws. These cover 726 flaws in Windows, 174 in Office, 61 in Developer Tools, 59 in SQL Server, 53 i",
+      "url": "http://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+      "publishedAt": "2026-11-11T13:47:53.629+05:30",
+      "updatedAt": "2026-11-11T13:47:53.629+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_nfFO2Zf-R2XyVzQHP43rc0OLAtUtRKWYV0VIaoHZW8EeH78h2Id9FmfJQVfzFdmBD6ugVGeCehX1Nq6jlmXlMG4AmnV3Tib3YvClKGaplVg5Ngk_KlpqwHx6Pd_oYQTCj2O3HfOpt_MoSGQD-4Nv-pju5sqS7U9-rAJdpKTn-xnhA1QSmmTiQWnAFjGp/s260-e100/patch-ms.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-569402101153029943",
+      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+      "summary": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday. It has promised to pay those charges itself when an AI provider will not refund",
+      "url": "http://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+      "publishedAt": "2026-11-11T13:19:04.869+05:30",
+      "updatedAt": "2026-11-11T13:19:04.870+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Data Breach",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheDP-YSdactqjEqKJOJEJulSVt5fmo134ko3-hE9dbQrLkrcIuhIkAOQDPe4eGS8WR6mLJs3urGqLpdi9erHsuLMAQ1t2saYXZAhnIRNqzliU3reOp2uPoKCRlpWBj8JQcyRIwo9eqK4AuSFcsB5XhIdLFzNYudzLlW_eHiZ094cCzg_gjihMTAZufcCc/s260-e100/railway-ai.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6366935374805704307",
+      "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Details of the",
+      "url": "http://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+      "publishedAt": "2026-11-11T11:34:02.947+05:30",
+      "updatedAt": "2026-11-11T17:00:46.789+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4aXykaOroazGO_7IuXugse9ynGpt1PkKJDM8lKL4by93ixX28cs23KAZZRF2dCN2cogu1ti8q5kmqfqSBLmOXWkVi7ZGWmwYMkeCOUXsOXwLoF07FbzmVnlr9DoeqtCboI_9LKWgohgWi2jIB1TzGO6uEkp5lsMnq5fSVqrN-NZGJjAQE2kIUyHsdkw6J/s260-e100/cisa-cisco.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4609123439751415985",
+      "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+      "summary": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in 2.50.2, 2.51.3, 2.52.1, 2.53.1, 2.",
+      "url": "http://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
+      "publishedAt": "2026-11-11T00:53:10.932+05:30",
+      "updatedAt": "2026-11-11T00:53:10.933+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipoPlLYj_xfJ8bsfRTONwa3estE9I2un_9OBx2fVuxEp-zoiADgipn-gGOeU4TqqyjqjrCpoGXC4jmuF7o1e_PUMbr-QoHDdPZEDWavb4VbjtWbOxMfmz-E9fIPT2DHEXYCN53l2jtiJGVfEFjHsR8gaHeyF59Yii0oTnP73vaslLWPzuideEGxTy6S9U/s260-e100/gits.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7666647042555732608",
+      "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+      "summary": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday. The attacker could also have seen requests being processed on that server that day, including requests sent in confidenti",
+      "url": "http://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
+      "publishedAt": "2026-11-11T00:49:39.311+05:30",
+      "updatedAt": "2026-11-11T00:49:39.311+05:30",
+      "author": "Swati Khandelwal",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifQOwa1ngLZRATbbZyg_iud4SNx-9ugjo2iOG6crnJzatc_uS9FjGScBnNUy-uNIuOEE3Y6kJTpUVMVtOR1bW5sse_pRNJA1SQALCGjshDx6-CF1t8HXlUI2CCb6yp7Uepz6uk3ctMLUlSx4Q36Q7pZcx1nb9wPgbYAZqvd6CnSJ6WM6Kn_ZENtHpESoM/s260-e100/nearai.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5308251067737818268",
+      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
+      "summary": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild. The authentication bypass flaw, which does not yet have a CVE identifier, is tracked as VSA-2026-062. \"REST cookie parsing turn",
+      "url": "http://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
+      "publishedAt": "2026-11-10T23:42:21.166+05:30",
+      "updatedAt": "2026-11-10T23:48:16.822+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMH_u7t-U3KIejAItsfC_js20xJgxT2ITYLsR0DAxzfcwDvPrzBHkpZlDuALWPnACOoknX2IALwHIUxIzfhbA24M7e8cGWTZpBMWqpX-wn6xqe8_U3fAtnR-9RsRdFHMCjvNnBsMXrEUKhVYS5bbTGL3B50UMO0aydtHIomY89s2iDAQMq0jXJJ3vh4Nvi/s260-e100/XEN-attack.jpg"
+    },
+    {
+      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7518380458081637394",
+      "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
+      "summary": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The activity, observed by Huntress in early October 2026, involves the exploitation of a chain comprising CVE-2026-105133 an",
+      "url": "http://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
+      "publishedAt": "2026-11-10T21:30:55.110+05:30",
+      "updatedAt": "2026-11-11T10:33:00.000+05:30",
+      "author": "Ravie Lakshmanan",
+      "category": "Vulnerability",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT-Z8hFA8uMe4HXLf_4QRk4Z4VLuUCDRL89LcgpXfsj9YAwLsLHIZL46pn2SLz0BBhCKPUKBhChDRRsKYPSkZPwmsDIhozGQ-4YemxOSol0AiwBEgtGX9OSZ_L3SQZVoebBX1fWGkh8TQ_hNVYHho0eCrBQzLlhnjPhhymXqcWePyuhdQDCMb6KJi6pmIe/s260-e100/cbs.jpg"
+    },
     {
       "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4056304843059896446",
       "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
       "summary": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance warned today. Apple's updates for iOS 26 and 27, released yest",
       "url": "http://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
       "publishedAt": "2026-11-10T17:45:31.781+05:30",
-      "updatedAt": "2026-11-10T17:45:31.781+05:30",
+      "updatedAt": "2026-11-10T21:41:25.690+05:30",
       "author": "Swati Khandelwal",
       "category": "Vulnerability",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikVWFDhEAWo-q-_JsRneE91hAsf7Ho4XXGI51_q0V6XaCrBl7COWgs81b8KLYtdO0XaRMjP5JbJs80iC103U16Mr7GU05znwtx3CvvMnJMR1ywArpKJj4AdVd9HaLv0U65k59BBY706XjRtU8bx9q-fnLlozVb63XJ43QDKm3FbJUmrSwcB9TvwJpyP64/s260-e100/ios-jail.jpg"
@@ -51,94 +139,6 @@
       "author": "Ravie Lakshmanan",
       "category": "Artificial Intelligence",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgogipF_6VgFSzsnZ_UFUM5FfzGyk1MOv5SRi3PSivRHjxs6IsO0fmOdDjQsDJHiKcnxJ8T89NMMYiqo_NEEtv0EoQsafjOFuZ-Te6famJBJKegqDnf1b63Hdzkls7IO1JOtSNjb5Hatb4Ny8Zu46mggCXYKvHf3Ne9Qc4ZRfLBmLnZ7omPEHAjDfJRQEKu/s260-e100/fable.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3588381358786198838",
-      "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
-      "summary": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: N/A), has been described as a use-after-free bug ",
-      "url": "http://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
-      "publishedAt": "2026-11-10T12:22:54.994+05:30",
-      "updatedAt": "2026-11-10T12:22:54.995+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjk5S9J891bQS8W6TgyoiEPQ7geGia8FqqWjckFlo9qMH2wXIXv-7gyod1XKUpI9BfgcliN2Re8A85rJ121jxqgfnw1LsjYBvAYtX7694GVgMF7B94G0n5MzqMaKqLAbr-No1nqrN0gyF8MFR_bYQIYlqiTh_FzobmWrq4NOCLbcW_78uEMMW5FE4eqJoo/s260-e100/chrome-0day.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4950111518478733942",
-      "title": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits",
-      "summary": "N-able said it has taken N-central Hosted Environments offline and is urging on-premises customers to shut down their servers until further notice following the public disclosure of over 30 vulnerabilities collectively tracked as Able2Shell. \"As a precautionary measure, we are te",
-      "url": "http://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html",
-      "publishedAt": "2026-11-10T12:14:36.676+05:30",
-      "updatedAt": "2026-11-10T17:20:51.259+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-DkzHcZpJVVEU3e3wmGB2DiyRsnWXkf_2bfT1fiDJG4Wn92cartbhyphenhyphenqZHOjXGasigHqJAyXM0kjOlYipgEkahrCi9KGa1s8gpINVT-oFldgOc1bZMUQ-nmFqsSMNwIe6463fXOxSqX1dNroXgwn9MwsmCx41jvPdtdygITxfKyTRDUWKS19YVTFTZY8sr/s260-e100/n-able.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8252543967038904496",
-      "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws impacting GPUStack, SignalWire FreeSwitch, OpenBSD OpenSSH, and IBM Aspera Faspex to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The",
-      "url": "http://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
-      "publishedAt": "2026-11-10T12:01:42.715+05:30",
-      "updatedAt": "2026-11-10T17:22:44.084+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVAsrcYxVs8sJe7IiSD6WkTC4yPv0eLfup7dwcsS0NLcAAgoY__wyC3UFCR90PL2ziKCEW-vMNIEQXES-8uAG-MxuXlyIDdQGeNREm8yFv3tbvsCVXXRyRGT4ORirvcVKP_uD62XHYy9w3x_P0o7XzkguJPwq_1vV2jPxxnZWbhAHHUJ3YJ6HbTlXb0shyphenhyphen/s260-e100/openssh.png"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5251542288368780107",
-      "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
-      "summary": "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or running safely become part of the attack. Elsewhere, attackers ar",
-      "url": "http://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
-      "publishedAt": "2026-11-09T18:58:25.873+05:30",
-      "updatedAt": "2026-11-10T11:41:35.770+05:30",
-      "author": "Ravie Lakshmanan",
-      "category": "Cybersecurity News",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLQ4v79OUmrbGdf2uJWMlUUmpCSu70Pr6v7oyodgSjFMfLU6JIe6Mr7xpp7AnqIX_vmKca44ImxEkczL88e_4sr2oBw0NL3Zh_JVEOb4cYmYg5pjbrITVv6KgPsv13-RrlBjq6bu7inR7w5-seDsUZvoqn6q7idkElfWysH1itsfgI5-NmFZ-BybjG0gR0/s260-e100/rr.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7328777441193507846",
-      "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
-      "summary": "The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with a connected car, unlock the doors and start the engine. Both apps signed customers in through",
-      "url": "http://thehackernews.com/2026/11/default-adminadmin-server-password.html",
-      "publishedAt": "2026-11-09T16:57:53.483+05:30",
-      "updatedAt": "2026-11-09T16:57:53.484+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI85M0pHHPiXe5ar2VpaGsBVRzxoYfZhpQTKgWqd8YGjK9Nyaca-z6XrGT3jT0lqh41qe-cAjb33_r7JErd7rB1CfuWkgTP_z-_IJkpQPWebz1GeEvSu9QpE5XYWRMOfhYTHmzhbkFB07hzSuV1FYARdaIWjfB_mUoX1_eMjl_3dOaSUFpTQvjt-34eQo/s260-e100/login-car.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2207633310969704137",
-      "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
-      "summary": "Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker. Keplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a security flaw at that company to reach the wallets, both companies ",
-      "url": "http://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
-      "publishedAt": "2026-11-09T16:26:25.346+05:30",
-      "updatedAt": "2026-11-09T16:26:25.347+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Cryptocurrency",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJtevfYXrRQrcU5FKn33bfyWpqN9O6FlI2b1eWOTjNWWslLIM1wwUfpzedZdMvdw6BXqmYqM1PwO-8GH3_IpKOGa15uoiXx5yDTkAal7JOFSKisSYOAHBdRk9XImTowXaCyJlTwX-chPd7uJFCDEq8u9sKY7jW6UYxorQKUSyuH9pF3szdwejvN_HGhno/s260-e100/kep.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8906826491853509836",
-      "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
-      "summary": "Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday. It has several security fixes to release and asked operators to be careful until they are out. One operator s",
-      "url": "http://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
-      "publishedAt": "2026-11-09T15:31:21.931+05:30",
-      "updatedAt": "2026-11-09T15:31:21.931+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Vulnerability",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPZfiSS8v6cUfSW1R2sbPNNfjluB-GvnXCxcAW_G6pKRNzYU2Be89Qyu9Zx0mnY7voaGpLXFtsajKS9tqYp74Qo05wPzzELg9ZpbVcoWa5l9AKhf4SmmNbnIvjOUrm4LsB9V-tGBxU-V0NxHzAoV2Cnlz6tHlcPewPh2ir8ipqn6Kj-phVDm5zraXs9ss/s260-e100/crypto-bits.jpg"
-    },
-    {
-      "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6039141533572733670",
-      "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
-      "summary": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week. The agents also found a Taipei fire department platform exposing patient data from 2018, including ECG readings and a",
-      "url": "http://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
-      "publishedAt": "2026-11-09T14:31:50.938+05:30",
-      "updatedAt": "2026-11-09T14:31:50.938+05:30",
-      "author": "Swati Khandelwal",
-      "category": "Artificial Intelligence",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd53Ql49F0iuQEtdvfoxOLNTuQnYM5oGQkqnQ3ym4aIW-HVZuHtOqzyi0IdwUxpFj5qU_jbUEKzPXG4Wx7Uj7g2-UKDotvOh0_AlNlkEIpgLbEBDuQxDkuxDFlukNKKbWXXZv1xCeHEtoOQ_Z1XQUshkJmlBaOmGQzMbryg6KHbOdt8IR7MNQ5oADM-GM/s260-e100/CYBER-AI.jpg"
     }
   ]
 }
